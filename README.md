@@ -25,3 +25,6 @@ MOSI: 链接：https://pan.baidu.com/s/1fOvn-VBYK_hiF5VTrRsvDg
 
 MELD:链接：https://pan.baidu.com/s/19N7eLVSeMXVXljtQSo_2Ig 
 提取码：mn4x
+
+text information:
+链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
