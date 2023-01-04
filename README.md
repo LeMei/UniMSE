@@ -14,3 +14,8 @@ Architecture:
 
 
 Code: we will open the source codes in the future, please wait patiently.
+
+Features: 
+
+IEMOCAP: 链接：https://pan.baidu.com/s/1ekUxV8T3tvfEJN2MoVEmuQ 
+提取码：4q1i
