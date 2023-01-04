@@ -42,8 +42,8 @@ MOSELDMP -- MOSI+MOSEI+MELD+IEMOCAP
 
 
 
-2. 
-Environment
+2. Environment
+
 torch                        1.7.0+pai
 torchvision                  0.8.0
 tensorboardX                 2.5
@@ -52,6 +52,7 @@ tensorflow-gpu               1.15.0
 transformers                 4.12.5
 
 3. Preprocess
+
 universal label form： polarity-score-meld label-iemocap-label
 code： Simcse/
 
@@ -63,12 +64,11 @@ doc_contexts.py
 4. MODEl
 
 src
-cansformer_layer.py中
-
-modeling_t5_prefix.py 
+modeling_t5.py 
 
 
 Training
+
 python src/main_sep_contexts.py
 
 
