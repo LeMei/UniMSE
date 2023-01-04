@@ -28,3 +28,51 @@ MELD:链接：https://pan.baidu.com/s/19N7eLVSeMXVXljtQSo_2Ig
 
 text information:
 链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
+
+
+
+
+## Usage
+
+1. datasets
+
+MOS -- MOSI + MOSEI
+MOSELD -- MOSI+MOSEI+MELD
+MOSELDMP -- MOSI+MOSEI+MELD+IEMOCAP
+
+
+
+2. 
+Environment
+torch                        1.7.0+pai
+torchvision                  0.8.0
+tensorboardX                 2.5
+tensorflow-estimator         1.15.1
+tensorflow-gpu               1.15.0
+transformers                 4.12.5
+
+3. Preprocess
+universal label form： polarity-score-meld label-iemocap-label
+code： Simcse/
+
+
+doc_preprocess.py --generate context information
+doc_contexts.py 
+
+
+4. MODEl
+
+src
+cansformer_layer.py中
+
+modeling_t5_prefix.py 
+
+
+Training
+python src/main_sep_contexts.py
+
+
+Inference
+python src/infer.py
+
+
