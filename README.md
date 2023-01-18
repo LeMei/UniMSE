@@ -26,7 +26,7 @@ MOSI: 链接：https://pan.baidu.com/s/1fOvn-VBYK_hiF5VTrRsvDg
 MELD:链接：https://pan.baidu.com/s/19N7eLVSeMXVXljtQSo_2Ig 
 提取码：mn4x
 
-text information:
+Text Information:
 链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
 
 
@@ -51,28 +51,24 @@ tensorflow-estimator         1.15.1
 tensorflow-gpu               1.15.0
 transformers                 4.12.5
 
-3. Preprocess
+3.Preprocess
 
 universal label form： polarity-score-meld label-iemocap-label
 code： Simcse/
 
 
-doc_preprocess.py --generate context information
-doc_contexts.py 
+doc_preprocess.py --generate context information 
 
 
 4. MODEl
 
-src
 modeling_t5.py 
 
-
-Training
-
-python src/main_sep_contexts.py
+5. Modules
+adapter.py
 
 
-Inference
-python src/infer.py
+
+
 
 
