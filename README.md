@@ -44,15 +44,21 @@ MOSELDMP -- MOSI+MOSEI+MELD+IEMOCAP
 2. Environment
 
 torch                        1.7.0+pai
+
 torchvision                  0.8.0
+
 tensorboardX                 2.5
+
 tensorflow-estimator         1.15.1
+
 tensorflow-gpu               1.15.0
+
 transformers                 4.12.5
 
 3.Preprocess
 
 universal label form： polarity-score-meld label-iemocap-label
+
 code： Simcse/
 
 
