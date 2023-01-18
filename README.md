@@ -55,25 +55,4 @@ tensorflow-gpu               1.15.0
 
 transformers                 4.12.5
 
-3.Preprocess
-
-universal label form： polarity-score-meld label-iemocap-label
-
-code： Simcse/
-
-
-doc_preprocess.py --generate context information 
-
-
-4. MODEl
-
-modeling_t5.py 
-
-5. Modules
-adapter.py
-
-
-
-
-
 
