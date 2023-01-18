@@ -17,17 +17,16 @@ Code: we will open the source codes in the future, please wait patiently.
 
 Features: 
 
-IEMOCAP: 链接：https://pan.baidu.com/s/1ekUxV8T3tvfEJN2MoVEmuQ 
+IEMOCAP链接：https://pan.baidu.com/s/1ekUxV8T3tvfEJN2MoVEmuQ 
 提取码：4q1i
 
-MOSI: 链接：https://pan.baidu.com/s/1fOvn-VBYK_hiF5VTrRsvDg 
+MOSI链接：https://pan.baidu.com/s/1fOvn-VBYK_hiF5VTrRsvDg 
 提取码：gpit
 
-MELD:链接：https://pan.baidu.com/s/19N7eLVSeMXVXljtQSo_2Ig 
+MELD链接：https://pan.baidu.com/s/19N7eLVSeMXVXljtQSo_2Ig 
 提取码：mn4x
 
-Text Information:
-链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
+Text Information链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
 
 
 
