@@ -17,14 +17,14 @@ Code: we will open the source codes in the future, please wait patiently.
 
 Features: 
 
-链接:https://pan.baidu.com/s/190tw6g0bPkiOPu5xPpvDTQ  
-密码:xyg5
+Link:https://pan.baidu.com/s/190tw6g0bPkiOPu5xPpvDTQ  
+pwd:xyg5
 
-链接:https://pan.baidu.com/s/17n_Hi2Tv0a7qsPoOp6qLKw 
-密码:rms6
+Link:https://pan.baidu.com/s/17n_Hi2Tv0a7qsPoOp6qLKw 
+pwd:rms6
 
-链接:https://pan.baidu.com/s/1VOgH_BW08TxVEQto8fUvfw
-密码:txvm
+Link:https://pan.baidu.com/s/1VOgH_BW08TxVEQto8fUvfw
+:txvm
 
 
 Text Information链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
@@ -63,5 +63,8 @@ First, generate Universal Label for each dataset -> Simcse folder, versation 3
 Second, generate Train dataset based on single dataset MOSI, MOSEI, IEMOCAP，MELD -> preprocess.py & create_dataset.py
 
 Third， setting the dataset folder for dataloader. ->main.py
+
+
+
 
 
