@@ -56,4 +56,12 @@ tensorflow-gpu               1.15.0
 
 transformers                 4.12.5
 
+Running
+
+First, generate Universal Label for each dataset -> Simcse folder, versation 3
+
+Second, generate Train dataset based on single dataset MOSI, MOSEI, IEMOCAP，MELD -> preprocess.py & create_dataset.py
+
+Third， setting the dataset folder for dataloader. ->Solver.py
+
 
