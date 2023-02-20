@@ -24,10 +24,12 @@ Link:https://pan.baidu.com/s/17n_Hi2Tv0a7qsPoOp6qLKw
 pwd:rms6
 
 Link:https://pan.baidu.com/s/1VOgH_BW08TxVEQto8fUvfw
-:txvm
+pwd:txvm
 
 
-Text Information链接:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  密码:298s
+Text Information
+Link:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  
+pwd:298s
 
 
 
