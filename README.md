@@ -69,4 +69,21 @@ Third， setting the dataset folder for dataloader. ->main.py
 
 
 
+@inproceedings{hu-etal-2022-unimse,
+    title = "{U}ni{MSE}: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition",
+    author = "Hu, Guimin  and
+      Lin, Ting-En  and
+      Zhao, Yi  and
+      Lu, Guangming  and
+      Wu, Yuchuan  and
+      Li, Yongbin",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.534",
+    pages = "7837--7851",
+    abstract = "Multimodal sentiment analysis (MSA) and emotion recognition in conversation (ERC) are key research topics for computers to understand human behaviors. From a psychological perspective, emotions are the expression of affect or feelings during a short period, while sentiments are formed and held for a longer period. However, most existing works study sentiment and emotion separately and do not fully exploit the complementary knowledge behind the two. In this paper, we propose a multimodal sentiment knowledge-sharing framework (UniMSE) that unifies MSA and ERC tasks from features, labels, and models. We perform modality fusion at the syntactic and semantic levels and introduce contrastive learning between modalities and samples to better capture the difference and consistency between sentiments and emotions. Experiments on four public benchmark datasets, MOSI, MOSEI, MELD, and IEMOCAP, demonstrate the effectiveness of the proposed method and achieve consistent improvements compared with state-of-the-art methods.",
+}
 
