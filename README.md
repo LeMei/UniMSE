@@ -30,8 +30,7 @@ pwd:txvm
 
 
 Text Information
-Link:https://pan.baidu.com/s/1wBLZnE4-FACV80iPQgC4og  
-pwd:298s
+Link:https://pan.baidu.com/s/11hRiiTculJTVtsOuMhSAFQ  pwd:de1p
 
 Google drive
 iemocap: https://drive.google.com/file/d/10XPUZo8qb1ILF5_Z17AAODbrKX3_h4wL/view?usp=sharing
