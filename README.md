@@ -37,6 +37,7 @@ iemocap: https://drive.google.com/file/d/10XPUZo8qb1ILF5_Z17AAODbrKX3_h4wL/view?
 meld:https://drive.google.com/file/d/1pWH2xPVZFymxeJUrd6gF37qYbvmhh32s/view?usp=sharing
 mosei:https://drive.google.com/file/d/1NmlzPqOGiGaYbzfRi_12r2BjmKfGP3Hw/view?usp=sharing
 mosi:https://drive.google.com/file/d/1alEn_5RfHFXuu8jwEFMIbMOLF-28--k_/view?usp=sharing
+text:https://drive.google.com/file/d/1F4K75-_aj29Qyd1xaA19p-LLA0hbI9g0/view?usp=sharing
 
 
 ## Usage
