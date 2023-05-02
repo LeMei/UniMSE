@@ -40,7 +40,7 @@ class Solver(object):
         self.use_adapter = hp.use_adapter
 
         # Training hyperarams
-        model_path = '../t5-base'
+        model_path = 't5-base'
         # model_path = '../t5-large'
         self.tokenizer = T5Tokenizer.from_pretrained(model_path)
         self.tokenizer.padding_side = "left"
@@ -261,7 +261,7 @@ class Solver(object):
                     
             return new_results
 
-        def evaluate(model, loader, n_loader=None, test=False):
+        def evaluate(model, loader, n_loader=None, test=False, same = False):
             model.eval()
             # loader = self.test_loader if test else self.dev_loader
             total_loss = 0.0
@@ -330,12 +330,17 @@ class Solver(object):
                     if len(tmp) != len(list(y)):
                         print('error')
                     total_loss += loss
-                    results.extend(tmp)
+                    if same == False:
+                        results.extend(tmp)
+                    else:
+                        results.append(tmp)
                     truths.append(y)
                     # ids_list.extend(ids)
-
                     tmp = []
-
+            print(len(results))
+            print(len(truths))
+            print(results[0])
+            print(truths[0])
             if self.hp.n_valid == 0:
                 self.hp.n_valid = 1
             if n_loader is None:
@@ -399,6 +404,8 @@ class Solver(object):
                     
                     # mosi_results = [ele.split(',')[1] if ele.split(',') == 4 else '0.0' for ele in mosi_results]
                     mosi_results = [ele.split(',')[1] for ele in mosi_results]
+                    print(mosi_results[0])
+                    print(mosi_truths[0])
                     # print('mosi_results:{}'.format(mosi_results))
                     eval_mosi(mosi_results, mosi_truths, mosi_ids_list, True)
 
@@ -408,28 +415,33 @@ class Solver(object):
                     mosei_results = [ele.split(',')[1] for ele in mosei_results]
                     
                     # print('mosei_results:{}'.format(mosei_results))
-
+                    print(mosei_results[0])
+                    print(mosei_truths[0])
 
                     eval_mosei_senti(mosei_results, mosei_truths, mosei_ids_list, True)
 
 
                     print('--------------------------Evaluate MELD--------------------------------')
-                    meld_test_loss, meld_results, meld_truths, meld_ids_list = evaluate(model, self.meld_test_loader,self.hp.n_meld_test, test=True)
+                    meld_test_loss, meld_results, meld_truths, meld_ids_list = evaluate(model, self.meld_test_loader,self.hp.n_meld_test, test=True, same = True)
                     # meld_results = [ele.split(',')[2] if ele.split(',') == 4 else 'neutral' for ele in meld_results]
-                    meld_results = [ele.split(',')[2] for ele in meld_results]
+                    # meld_results = [ele.split(',')[2] for ele in meld_results]
+                    meld_results = [[e.split(',')[2] for e in ele] for ele in meld_results]
+                    print(meld_results[0])
+                    print(meld_truths[0])
                     # print('meld_results:{}'.format(meld_results))
 
 
                     eval_emotionlines(meld_results, meld_truths)
 
-                    
+
                     print('--------------------------Evaluate IEMOCAP--------------------------------')
-                    iemocap_test_loss, iemocap_results, iemocap_truths, iemocap_ids_list=evaluate(model, self.iemocap_test_loader,self.hp.n_iemocap_test, test=True)
+                    iemocap_test_loss, iemocap_results, iemocap_truths, iemocap_ids_list=evaluate(model, self.iemocap_test_loader,self.hp.n_iemocap_test, test=True, same = True)
                     
                     # iemocap_results = [ele.split(',')[3] if ele.split(',') == 4 else 'neu' for ele in iemocap_results]
                     iemocap_results = [ele.split(',')[3] for ele in iemocap_results]
                     # print('iemocap_results:{}'.format(iemocap_results))
-
+                    print(iemocap_results[0])
+                    print(iemocap_truths[0])
                     
                     eval_emotionlines(iemocap_results, iemocap_truths)
                     
@@ -594,7 +606,23 @@ class Solver(object):
                 duration = end - start
                 print_info = 'Epoch {:2d} | Time {:5.4f} sec | Train Loss: {:5.4f} | Valid Loss {:5.4f} | Test Loss {:5.4f}'.format(
                     epoch, duration, train_loss, val_loss, test_loss)
+                results = [ele.split(',')[1] for ele in results]
+                
                 eval_mosei_senti(results, truths, ids_list, True)
+                if val_loss < best_valid:
+                    # update best validation
+                    patience = self.hp.patience
+                    best_valid = val_loss
+                    print('save best model to pre_trained_models dir')
+                    save_model(self.hp, model)
+                if self.hp.dataset == 'mosi':
+                    # dict_res = eval_mosi(results, truths, ids_list, True)
+                    best_results = results
+                    best_truths = truths
+                elif self.hp.dataset == 'mosei':
+                    # dict_res = eval_mosei_senti(results, truths, ids_list, True)
+                    best_results = results
+                    best_truths = truths
 
                 # eval_laptops_restants(results, truths)
                 # eval_emotionlines(results, truths)
@@ -640,6 +668,7 @@ class Solver(object):
                 eval_mosei_senti(best_results, best_truths, [], True)
             else:
                 print('print other datasets')
+        print('Done!')
         sys.stdout.flush()
 
             #

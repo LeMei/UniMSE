@@ -1,0 +1,1110 @@
+Dialogue_ID,Utterance_ID,Season,Episode,Speaker,Utterance,Emotion,Sentiment,gen_label
+0,0,4,7,Phoebe,"Oh my God, hes lost it. Hes totally lost it.",sadness,negative,0.1487602238484289
+0,1,4,7,Monica,What?,surprise,negative,-0.14985132663998968
+1,0,4,4,Ross,"Or! Or, we could go to the bank, close our accounts and cut them off at the source.",neutral,neutral,-0.14886673735181688
+1,1,4,4,Chandler,Youre a genius!,joy,positive,0.8515502806134947
+1,2,4,4,Joey,"Aww, man, now we wont be bank buddies!",sadness,negative,0.5064187049865723
+1,3,4,4,Chandler,"Now, theres two reasons.",neutral,neutral,0.7279398863806747
+1,4,4,4,Phoebe,Hey.,neutral,neutral,0.6271149516105652
+1,5,4,4,All,Hey!,joy,positive,0.8452207499311584
+1,6,4,4,Phoebe,"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral,neutral,0.8515502806134947
+1,7,4,4,Rachel,Where?!,surprise,negative,0.8515502806134947
+1,8,4,4,Phoebe,On the touchy.,neutral,neutral,0.0
+1,9,4,4,Ross,And,neutral,neutral,0.0
+1,10,4,4,Phoebe,"No, I know!",surprise,negative,-1.25672111601871
+1,11,4,4,Phoebe,"I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",anger,negative,-0.5571010708808899
+1,12,4,4,Monica,"Well, next time your massaging him, you should try and distract yourself.",neutral,neutral,0.0
+1,13,4,4,Joey,Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,joy,positive,0.563154399394989
+1,14,4,4,Chandler,"Thank you, Joey.",neutral,neutral,0.0
+1,15,4,4,Joey,"No-no, thank you.",neutral,neutral,0.0
+2,0,6,4,Joey,"Hey Estelle, listen",neutral,neutral,0.0
+2,1,6,4,Estelle,Well! Well! Well! Joey Tribbiani! So you came back huh? They,surprise,positive,0.16049377601823522
+2,2,6,4,Joey,What are you talkin about? I never left you! Youve always been my agent!,surprise,negative,0.2535651922225952
+2,3,6,4,Estelle,Really?!,surprise,positive,0.20880310362984034
+2,4,6,4,Joey,Yeah!,joy,positive,0.28157892668979123
+2,5,6,4,Estelle,"Oh well, no harm, no foul.",neutral,neutral,-0.5009946823120117
+3,0,5,20,Gary,"Okay, you guys free tonight?",neutral,neutral,-1.1245393568718072
+3,1,5,20,Ross,Yeah!!,joy,positive,0.26520558988667275
+3,2,5,20,Chandler,Tonight? You-you didn't say it was going to be at nighttime.,surprise,negative,-0.5192286968231201
+4,0,7,7,Ross,Yes? Yes?! How can I help you?,neutral,neutral,0.21343440453512663
+4,1,7,7,Guy,"Yeah, we werewe were just looking around.",neutral,neutral,0.3179904317256934
+4,2,7,7,Ross,"Oh-oh, youre-youre fellow scholars.",surprise,negative,0.883629201643565
+4,3,7,7,Ross,"What exactly were you looking for, hmm?",neutral,neutral,0.36710186004638673
+4,4,7,7,Ross,"Perhaps,  perhaps Dr. Chester Stocks musings on the Smiledon Californicus?",neutral,neutral,0.0
+4,5,7,7,Guy,Uhh.,neutral,neutral,-0.20071479282919924
+4,6,7,7,Ross,"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?",anger,negative,-1.2883063115969264
+4,7,7,7,Woman,"Uh, actually I find Marions views far too progressionist.",neutral,neutral,-0.41921783742957786
+4,8,7,7,Ross,I find Marions views far too progressionist.,neutral,neutral,1.1570602658682674
+4,9,7,7,Woman,"Im sorry, who are you?",surprise,positive,0.261405885219574
+4,10,7,7,Ross,"Im a professor here uh, RossGeller.",neutral,neutral,0.20518003518919237
+4,11,7,7,Woman,"Ross Geller, why do I know that name? Its uhWait!  Did you write this?",surprise,positive,0.9388551115989685
+4,12,7,7,Ross,Yes! Youre the person who checked out my book?!,surprise,positive,0.8082598291315577
+4,13,7,7,Woman,"Yknow, you look nothing like I wouldve thought. Youreyoure so young.",surprise,positive,0.31225272950289806
+4,14,7,7,Ross,"Well I uh, I skipped forth grade.",neutral,neutral,0.0
+5,0,2,7,Ross,You had no right to tell me you ever had feelings for me.,anger,negative,-1.1824245750904083
+5,1,2,7,Rachel,What?,surprise,negative,-0.9309881805674678
+5,2,2,7,Ross,I was doing great with Julie before I found out about you.,anger,negative,-0.34900922775268556
+5,3,2,7,Rachel,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",anger,negative,0.2668966531822079
+5,4,2,7,Ross,The point is I...,anger,negative,-1.5006277213681045
+5,5,2,7,Ross,"I don't need this right now, OK.",anger,negative,-0.19261833606019607
+5,6,2,7,Ross,"It, it's too late, I'm with somebody else, I'm happy.",anger,negative,-0.884553570320918
+5,7,2,7,Ross,This ship has sailed.,anger,negative,-0.7353339672088622
+5,8,2,7,Rachel,"Alright, fine, you go ahead and you do that, alright Ross.",anger,negative,-0.19976866840626784
+5,9,2,7,Ross,Fine.,anger,negative,-0.2822689696829208
+5,10,2,7,Rachel,Cause I don't need your stupid ship.,anger,negative,-0.3253493008618342
+5,11,2,7,Ross,Good.,anger,negative,-0.25528491304173784
+5,12,2,7,Rachel,Good.,anger,negative,-0.25528491304173784
+6,0,8,3,Phoebe,"Oh, it's so romantic to send people off on their honeymoon.",joy,positive,0.5782350897789001
+6,1,8,3,Joey,"Yknow, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",neutral,neutral,1.4049724102020262
+6,2,8,3,Phoebe,All in good time my love.,neutral,neutral,0.2375230859971964
+6,3,8,3,Phoebe,All in good time.,neutral,neutral,0.0
+6,4,8,3,Phoebe,Oh shoot!,surprise,negative,-1.687304359823031
+6,5,8,3,Phoebe,I left my guitar in their apartment.,sadness,negative,-0.8960786248188342
+6,6,8,3,Phoebe,Well you can let me in later.,neutral,neutral,1.0323784502574966
+6,7,8,3,Joey,"I dont have a key, they took mine to give to you.",neutral,neutral,0.0
+6,8,8,3,Phoebe,What?! They took mine to give to you!,surprise,negative,-0.36444092882993573
+6,9,8,3,Joey,Why would they take away our keys?,surprise,negative,-0.6778057754039764
+7,0,8,20,Ross,Wow! It looks like we got a lot of good stuff.,joy,positive,0.7068822979927063
+7,1,8,20,Rachel,"Oh we did, but my mom got us the greatest gift of all.",joy,positive,1.772822432900142
+7,2,8,20,Ross,A,neutral,neutral,0.0
+7,3,8,20,Rachel,No. Shes going to live with us for eight weeks.,neutral,neutral,0.0
+7,4,8,20,Ross,"Uh, what?",surprise,positive,0.47390128594342684
+7,5,8,20,Rachel,Yes! Shes gonna help us take care of the baby! Woo-hoo.,joy,positive,0.3614616501766932
+7,6,8,20,Ross,WhatYoure not serious.,surprise,negative,-0.2774123234772379
+7,7,8,20,Ross,"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",anger,negative,-0.4548152685165405
+7,8,8,20,Ross,Shell drive us totally crazy.,disgust,negative,-0.47750768065452576
+7,9,8,20,Mrs. Green,Hi Ross!,joy,positive,0.22930165815258974
+7,10,8,20,Ross,Hi roomie!,joy,positive,0.25545401142400515
+8,0,7,19,Monica,Hey! What did you decide to do about the movie?,neutral,neutral,-1.1502526760101317
+8,1,7,19,Joey,I dont know!,neutral,neutral,2.065017342567444
+8,2,7,19,Joey,Its not like its porn!,neutral,neutral,0.0
+8,3,7,19,Joey,"This is a serious, legitimate movie.",neutral,neutral,-0.4696466028690338
+8,4,7,19,Joey,And the nudity is really important to the story.,neutral,neutral,1.4438583850860596
+8,5,7,19,Monica,Thats what you say about porn.,neutral,neutral,0.0
+8,6,7,19,Joey,Youre right. Maybe I shouldnt even go on the call back.,neutral,neutral,0.19221427616122178
+8,7,7,19,Monica,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",joy,positive,0.3680863490130406
+8,8,7,19,Joey,Well thats true.,neutral,neutral,0.0
+8,9,7,19,Joey,And I am only naked in one scene.,neutral,neutral,0.0
+8,10,7,19,Joey,Plus it sounds really great.,neutral,neutral,0.0
+8,11,7,19,Joey,My characters catholic and he falls in love with this Jewish girl.,neutral,neutral,0.0
+8,12,7,19,Joey,Who run away together and they get caught in this big rainstorm.,neutral,neutral,0.0
+8,13,7,19,Joey,So we go into this barn and undress each other and hold each other.,neutral,neutral,0.0
+8,14,7,19,Joey,Its really sweet and-and tender.,joy,positive,1.6695712804794312
+9,0,6,3,Joey,"Hey, whats up?",neutral,neutral,-0.23645197063044598
+9,1,6,3,Chandler,"Nothing, Monica and I had a stupid fight.",sadness,negative,-1.1498456901080587
+9,2,6,3,Joey,"But youre still moving in together, right? Because my ad came out today.",neutral,neutral,-0.5142480731010437
+9,3,6,3,Chandler,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",joy,positive,0.7421757817268371
+9,4,6,3,Joey,Yeah?,neutral,neutral,-1.772468605865683
+9,5,6,3,Joey,"I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?",neutral,neutral,0.0
+9,6,6,3,Joey,"Someone I can learn from, someone-someone whos different than me.",neutral,neutral,0.5596891045570374
+9,7,6,3,Joey,And whats more different than me. A guy whos,neutral,neutral,-0.2558050274848938
+10,0,5,20,Ross,So where are we going next?,neutral,neutral,-0.7052525281906128
+10,1,5,20,Gary,This witness won't return my calls so we're gonna see if we can surprise him coming home.,neutral,neutral,-0.8995083570480347
+10,2,5,20,Chandler,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",fear,negative,-0.34053961435970803
+10,3,5,20,Joey,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",joy,positive,0.32373665741294566
+10,4,5,20,Gary,It's a witness not a perp. And no one talks like that!,anger,negative,-0.1761130147013965
+10,5,5,20,Ross,"Yeah, no one talks like that!",anger,negative,-1.0127474069595337
+10,6,5,20,Joey,Oh what? Like your Mr. Cop!,anger,negative,-0.16740952434369483
+10,7,5,20,Ross,"Hey, I'm more cop than you two!",anger,negative,-0.17917921679752702
+10,8,5,20,Chandler,How do you figure that?,neutral,neutral,0.0
+10,9,5,20,Ross,"Hello! I'm in the front seat, okay? I'm Gary's partner!",neutral,neutral,0.0
+11,0,5,19,Phoebe,I guess so.,neutral,neutral,-0.18604340710371936
+11,1,5,19,Rachel,Here you go. Thank you!,neutral,neutral,-0.39464029852470617
+11,2,5,19,Phoebe,"Wait, Rach! Where's the other one?",neutral,neutral,0.0
+11,3,5,19,Rachel,"Oh what, you-you want both of them?",surprise,positive,0.3669358601252988
+11,4,5,19,Phoebe,"Rachel Karen Green, where's the other earring?!",anger,negative,-0.12731480977877396
+11,5,5,19,Rachel,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",fear,negative,-0.6293818950653076
+11,6,5,19,Rachel,"I know it's in the apartment, but I",neutral,neutral,0.5260776281356812
+11,7,5,19,Phoebe,"Well, what am I going to tell Monica? She wants to wear them tonight!",fear,negative,0.18611445584240904
+11,8,5,19,Rachel,Tell her to wear her own earrings.,anger,negative,0.15616933970161284
+11,9,5,19,Phoebe,These,neutral,neutral,0.17718711030047452
+11,10,5,19,Rachel,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,anger,negative,-0.1515244588710205
+11,11,5,19,Phoebe,Why not?,neutral,neutral,0.0
+11,12,5,19,Rachel,Because I lose her stuff!,anger,negative,-0.3370656272887871
+12,0,7,24,Ross,"Uh Phoebe, can I see you for a second?",neutral,neutral,-0.7162478183581769
+12,1,7,24,Phoebe,Yeah!,neutral,neutral,0.5205385088920593
+12,2,7,24,Phoebe,Whats going on?,neutral,neutral,-0.9403336524963379
+12,3,7,24,Ross,Chandlers gone again!,surprise,negative,-0.9821296691894532
+12,4,7,24,Phoebe,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,sadness,negative,-0.3665003885775917
+13,0,5,3,Dr. Harad,Okay. You ready to push again?,neutral,neutral,0.8361233074794612
+13,1,5,3,Phoebe,I already had a baby. Leave me alone.,anger,negative,-0.2915578571426227
+13,2,5,3,Frank,"Okay, okay, come on, you can do it. You can do it!",joy,positive,0.5997554063796997
+13,3,5,3,Frank,Yeah!!,joy,positive,0.6565232872962952
+13,4,5,3,Frank,Little Leslie is here!,joy,positive,0.29174817477906245
+13,5,5,3,Frank,We got another one!,surprise,positive,0.212759838881885
+13,6,5,3,Frank,"Oh my God, I can't believe I have two-two children.",surprise,positive,0.16599446036401755
+13,7,5,3,Frank,How scary is that?,surprise,positive,0.41328978538513184
+13,8,5,3,Frank,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",joy,positive,0.5092400908470154
+13,9,5,3,Dr. Harad,"All right, he's coming. He's coming!",joy,positive,0.15281405506970636
+13,10,5,3,Frank,"Hey, where's his thing?",surprise,negative,-0.2868229633616295
+13,11,5,3,Frank,Chandler's a girl!,surprise,positive,1.23893723487854
+13,12,5,3,Chandler,"Oh God, kindergarten flashback.",surprise,negative,-1.2628705083192528
+13,13,5,3,Frank,They musta read the sonogram wrong.,surprise,negative,-0.3906002955814287
+13,14,5,3,Frank,"Cause they, 'cause they thought it was a boy, but Chandler's a girl!",surprise,positive,0.13949526765431752
+13,15,5,3,Frank,Chandler's a girl!,surprise,positive,1.23893723487854
+13,16,5,3,Chandler,"Okay, keep saying it!",joy,positive,1.0892171401369453
+13,17,5,3,Alice,Am I too late?!,neutral,neutral,0.0
+13,18,5,3,Frank,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",joy,positive,0.4752136170864105
+13,19,5,3,Alice,We have our babies?,surprise,positive,0.17596207586811197
+13,20,5,3,Frank,Yeah.,joy,positive,0.2979710389565735
+13,21,5,3,Alice,"Oh, we have our babies.",joy,positive,1.302970782246902
+14,0,8,5,Bob,Hey Toby!,joy,positive,0.9310779746911209
+14,1,8,5,Chandler,Hey Bobby.,neutral,neutral,0.28157892668979123
+14,2,8,5,Bob,"Its Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral,neutral,0.28157892668979123
+14,3,8,5,Chandler,"Uhh yeah. Yeah, its  right, right down there.  Right there, yeah. Can I ask you why?",neutral,neutral,0.28157892668979123
+14,4,8,5,Bob,"I want to talk to that bastard, see what his problem is.",anger,negative,-0.18946731655202242
+14,5,8,5,Chandler,"Okay Bob listen uhh, Im the reason you didnt get the job up here.",sadness,negative,-0.3051096291872746
+14,6,8,5,Bob,Toby dont.,sadness,negative,0.3104960017550784
+14,7,8,5,Chandler,Bob!,sadness,negative,0.3051479152385763
+14,8,8,5,Bob,Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,anger,negative,-1.025018334388733
+15,0,8,7,Rachel,Thank you.  Oh Joey and look at this crib! Its so cute!,joy,positive,1.4649980664253235
+15,1,8,7,Joey,I know! I found it on the street.,joy,positive,0.16118289513934325
+15,2,8,7,Rachel,Are you seriousReally?! Its in such good condition.,surprise,positive,1.7750428915023804
+15,3,8,7,Joey,Yeah.,neutral,neutral,-0.7296628374754235
+15,4,8,7,Rachel,Wow! Whoa-whoa whats under the covers?,surprise,negative,-1.0337149347447792
+15,5,8,7,Joey,I dont know.,neutral,neutral,-0.3418622118789614
+15,6,8,7,Rachel,Its moving.,fear,negative,-1.2348749614372139
+15,7,8,7,Joey,Ew.,disgust,negative,-1.5849855995750772
+15,8,8,7,Rachel,Its stillIts got a tail! Get it out of here! Get it out of here!!,fear,negative,-0.25984367509217066
+15,9,8,7,Joey,Ooh! Ah! Okay!,fear,negative,-0.25691476236526434
+16,0,7,5,Whitney,"Well, I went over to Kyles last night to pick up a few things and we got to reminiscing",neutral,neutral,0.16514929627823705
+16,1,7,5,Kyle,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,sadness,negative,0.18291801759356296
+16,2,7,5,Ross,Oh just say it Kyle!,surprise,negative,-1.1495397891473829
+16,3,7,5,Kyle,Were gonna give it another try.,joy,positive,0.22051293315031906
+16,4,7,5,Phoebe,What about her whining and her constant need for attention?!,anger,negative,-0.2526254951953888
+16,5,7,5,Whitney,Im gonna work on that.,neutral,neutral,0.0
+16,6,7,5,Phoebe,"Oh right, because youre so capable of change.",anger,negative,-1.0511600971221924
+16,7,7,5,Ross,"Yknow, he hums when he pees!",anger,negative,-0.8591970596504908
+16,8,7,5,Whitney,I do know.,neutral,neutral,0.0
+16,9,7,5,Ross,"It makes him miss the bowl, but whatever.",disgust,negative,-1.3939906060695648
+16,10,7,5,Whitney,Were so sorry.,sadness,negative,-0.9635409801266874
+16,11,7,5,Ross,"Thats all right, we-we dont need you. In fact, hey Im over it already.",anger,negative,-0.34135147953087497
+16,12,7,5,Phoebe,"Yeah, and yknow what? I dont give a tiny rats ass.",anger,negative,-0.33814986795186996
+16,13,7,5,Kyle,"Yeah, were gonna go.",neutral,neutral,0.0
+16,14,7,5,Ross,"Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she",sadness,negative,-0.32319596379585924
+16,15,7,5,Phoebe,"Oh. Yknow, he hums while he does other stuff to.",neutral,neutral,0.0
+16,16,7,5,Ross,"Yeah, we're better off without them.",anger,negative,-0.1615840344106365
+16,17,7,5,Phoebe,"And yknow, even if they break up again, youd better not let him in your sad mens club!",anger,negative,-0.6574864583458435
+16,18,7,5,Ross,Divorced mens club.,sadness,negative,-0.4401189088821411
+17,0,6,5,Joey,Why isnt that valet back with my Porsche?,anger,negative,-0.14209834164674096
+17,1,6,5,Passerby,Maybe because youve got the keys?,anger,negative,1.0940419435501099
+17,2,6,5,Rachel,This is totally your fault!,anger,negative,-1.7815942168235779
+17,3,6,5,Ross,My fault?! You threatened the judge!,anger,negative,-1.0042169690132141
+17,4,6,5,Rachel,"Well, you ripped the paper out of the court reporters machine!!",anger,negative,-0.1880380964687891
+18,0,6,22,Monica,Phoebe!,neutral,neutral,0.0
+18,1,6,22,Phoebe,Yeah?,neutral,neutral,0.0
+18,2,6,22,Monica,Have you seen Chandler?!,neutral,neutral,0.0
+18,3,6,22,Phoebe,No! Why?,neutral,neutral,0.17826581532555252
+18,4,6,22,Monica,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,fear,negative,-0.6756959162859886
+18,5,6,22,Monica,I know!,fear,negative,1.7750428915023804
+18,6,6,22,Monica,How bad is this?,fear,negative,-2.242724061012268
+18,7,6,22,Phoebe,"Well for the regular guy, its bad, but Chandler, Oh dear God!",fear,negative,-0.8425820666333337
+18,8,6,22,Monica,I know! I know! And he totally freaked out and I cant find him anywhere!,fear,negative,-0.18476303969114127
+18,9,6,22,Phoebe,What are you gonna do?,neutral,neutral,0.6158105134963989
+18,10,6,22,Monica,"Well, Im never gonna listen to you again, thats for sure!",anger,negative,-1.1167550086975098
+18,11,6,22,Monica,"""Yknow, harm can it do if you go and put your name down?""",neutral,neutral,0.0
+18,12,6,22,Phoebe,Rachel said that!,surprise,negative,-0.15862123644216553
+18,13,6,22,Monica,Well Rachels not here!,anger,negative,-1.0359525526380793
+19,0,1,23,Ross,"Come on, come on.",neutral,neutral,0.5263782739639282
+19,1,1,23,Ross,"Damnit, damnit, damnit, damnit.",anger,negative,-1.2786771418249998
+19,2,1,23,Ross,This is all your fault.,anger,negative,-0.22918612447935693
+19,3,1,23,Ross,"This is supposed to be, like, the greatest day of my life, y'know?",anger,negative,-0.1634820053025683
+19,4,1,23,Ross,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",anger,negative,-0.6207592672335878
+19,5,1,23,Susan,The woman I love is having a baby today. I've been waiting for this just as much as you have.,anger,negative,-0.18401665687561036
+19,6,1,23,Ross,"No no no, believe me.",anger,negative,-1.4678795632448782
+19,7,1,23,Ross,"No one has been waiting for this as much as I have, ok?",anger,negative,-0.9601742625236511
+19,8,1,23,Ross,And you know what the funny thing is?,neutral,neutral,0.0
+19,9,1,23,Ross,"When this day is over, you get to go home with the baby, ok?",anger,negative,-0.8299171447753907
+19,10,1,23,Ross,Where does that leave me?,sadness,negative,-0.1801043405166567
+19,11,1,23,Susan,You get to be the baby's father.,neutral,neutral,0.0
+19,12,1,23,Susan,Everyone knows who you are.,neutral,neutral,0.0
+19,13,1,23,Susan,Who am I?,anger,negative,-1.2242113319300998
+19,14,1,23,Susan,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",sadness,negative,-0.1416399123760037
+19,15,1,23,Ross,Every day is Lesbian Lover Day.,neutral,neutral,0.0
+19,16,1,23,Phoebe,This is so great.,joy,positive,2.220431076102386
+19,17,1,23,Ross,You wanna explain that?,neutral,neutral,0.0
+19,18,1,23,Phoebe,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",sadness,negative,-0.8993710944862485
+19,19,1,23,Phoebe,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,joy,positive,0.8494865655899048
+19,20,1,23,Phoebe,And it's not even born yet.,sadness,negative,-0.7054085147005864
+19,21,1,23,Phoebe,"It's just, it's just the luckiest baby in the whole world.",joy,positive,0.6894784179174422
+19,22,1,23,Phoebe,"I'm sorry, you were fighting.",sadness,negative,-1.0798851391501785
+20,0,5,10,Joey,"Okay, it's a typical New York City apartment. Two girls are just hanging out.",neutral,neutral,-1.1287886612600815
+20,1,5,10,Monica,"Hi, how are you doing Kelly?",neutral,neutral,1.7745798023117203
+20,2,5,10,Rachel,"I'm doing just fine! God, Tiffany, you smell so great!",joy,positive,1.015094991165121
+20,3,5,10,Monica,It's my new perfume. Why don't you come closer where you can,neutral,neutral,0.14645031531007024
+20,4,5,10,Rachel,"Oh, y'know Joey, you are sick!",disgust,negative,0.14645031531007024
+20,5,5,10,Monica,This is disgusting!,disgust,negative,0.14645031531007024
+20,6,5,10,Rachel,I'm not reading this!,disgust,negative,0.2700949789115281
+20,7,5,10,Joey,What?! Wait-wait-wait! The handsome man was about to enter!!,surprise,negative,1.6102033138275147
+21,0,1,20,Joey,"All right, I'll give you this, Mr. Peanut is a better dresser.",neutral,neutral,-0.19308963000048074
+21,1,1,20,Joey,"I mean he's got the monocle, he's got the top hat...",neutral,neutral,0.0
+21,2,1,20,Phoebe,You know he's gay?,neutral,neutral,0.13384393453598023
+21,3,1,20,Ross,I just wanna clarify this: are you outing Mr. Peanut?,neutral,neutral,0.2803354545534287
+21,4,1,20,Chandler,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",neutral,neutral,-0.3783671571324412
+21,5,1,20,All,Hi. Hi.,neutral,neutral,0.7406142354011536
+21,6,1,20,Chandler,What are you doing here?,surprise,positive,0.18673819860035756
+22,0,1,4,Chandler,"Well, what?",neutral,neutral,0.3104960017550784
+22,1,1,4,Chandler,What?,neutral,neutral,0.0
+22,2,1,4,Chandler,What is it?,neutral,neutral,-0.22087008419245713
+22,3,1,4,Chandler,That she left you?,surprise,negative,0.4761301818330139
+22,4,1,4,Chandler,That she likes women?,neutral,neutral,-0.5006642490823339
+22,5,1,4,Chandler,That she left you for another woman that likes women?,neutral,neutral,0.0
+22,6,1,4,Ross,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",anger,negative,-0.958076891309176
+22,7,1,4,Chandler,Then what?,neutral,neutral,-1.8929305640736374
+22,8,1,4,Ross,My first time with Carol was...,neutral,neutral,-0.8751325597334088
+22,9,1,4,Joey,What?,neutral,neutral,0.10892122983932495
+22,10,1,4,Ross,It was my,neutral,neutral,-0.5648314952850342
+22,11,1,4,Joey,With Carol?  Oh.,surprise,negative,-0.2873694187612159
+22,12,1,4,Chandler,"So in your whole life, you've only been with oneoh.",surprise,negative,1.654149055480957
+22,13,1,4,Joey,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",surprise,negative,0.24884144961833954
+23,0,3,6,Ross,Hi. Where is everybody?,neutral,neutral,0.3179904317256934
+23,1,3,6,Phoebe,"Oh, its already closed, Chris gave me the keys to lock up-what is wrong?",sadness,negative,-0.13459971948265181
+23,2,3,6,Ross,"My marriage, I think my marriage is um, is kinda over.",sadness,negative,-0.6534184412186868
+23,3,3,6,Phoebe,Oh no! Why?,surprise,negative,0.4736833316192026
+23,4,3,6,Ross,"Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.",sadness,negative,-0.752632243016329
+23,5,3,6,Phoebe,"Oh my God! I dont believe it! Oh, you poor bunny.",surprise,negative,-0.8959261362729194
+23,6,3,6,Ross,Im an idiot.,disgust,negative,-1.779586672782898
+23,7,3,6,Ross,"I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!",sadness,negative,-0.5252143740653992
+23,8,3,6,Phoebe,"Aw! Hey, do you think that Susan person is her lover?",neutral,neutral,-0.5913476273417473
+23,9,3,6,Ross,"Well, now I do!!",surprise,negative,-1.292895869088312
+23,10,3,6,Phoebe,Im sorry.,sadness,negative,-0.955747156016443
+23,11,3,6,Ross,Seven years.,sadness,negative,-0.5408932566642761
+23,12,3,6,Ross,"I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....",sadness,negative,-0.14372473390076745
+23,13,3,6,Phoebe,"Aw, God Ross. Oh.",sadness,negative,-1.2412754470527005
+24,0,3,11,Cookie,Ill do it.,neutral,neutral,0.0
+24,1,3,11,Joey,No you wont.,neutral,neutral,0.28157892668979123
+24,2,3,11,Joey,"Look he knows he did a terrible thing and I believe him, hes sorry.",sadness,negative,-0.8107007586171449
+24,3,3,11,Joey,"But,  youve got one more apology to make, all right, youve got to apologize to Mary-Angela.",neutral,neutral,0.9378701224834884
+24,4,3,11,Chandler,"Okay, absolutely!",joy,positive,0.23138444318526297
+24,5,3,11,Joey,All right.,neutral,neutral,0.0
+24,6,3,11,Chandler,Youve got it.,neutral,neutral,0.0
+24,7,3,11,Joey,"Cookie, now you can punch him!",anger,negative,0.6657013297080994
+24,8,3,11,Chandler,What?!,surprise,negative,-0.8983682264397999
+25,0,2,1,Phoebe,"All right, that's it, I quit.",anger,negative,1.6817310214042664
+25,1,2,1,Monica,What? I didn't say anything.,surprise,negative,1.8005908608436585
+25,2,2,1,Phoebe,"Yeah, but this  isn't the face of a person who trusts a person.",anger,negative,0.4515784978866577
+25,3,2,1,Phoebe,"Ok, this  is the face of a person who, you know, doesn't trust a person.",anger,negative,0.6114727854728699
+25,4,2,1,Monica,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",sadness,negative,-1.7567539610151783
+25,5,2,1,Phoebe,Would you relax? I know what I am doing. This is how he wears it.,anger,negative,-1.8101657012474277
+26,0,2,2,Monica,Julie.,neutral,neutral,0.19278028188487717
+26,1,2,2,Rachel,What?!,surprise,negative,-0.8983682264397999
+26,2,2,2,Monica,Jody!,surprise,negative,1.0670409202575684
+26,3,2,2,Rachel,You were with Julie?,neutral,neutral,0.0
+26,4,2,2,Monica,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",neutral,neutral,0.0
+26,5,2,2,Monica,"And then, one thing led to another and, before I knew it, we were...shopping.",neutral,neutral,0.1627467323168137
+26,6,2,2,Rachel,Oh. Oh my God.,surprise,negative,0.7544310317763987
+26,7,2,2,Monica,"Honey, wait. We only did it once. It didn't mean anything to me.",sadness,negative,0.28157892668979123
+26,8,2,2,Rachel,"Yeah, right.  Sure!",anger,negative,-0.25196382160873654
+26,9,2,2,Monica,"Really, Rachel, I was thinking of you the whole time.",sadness,negative,-0.19793946140824126
+26,10,2,2,Monica,"Look, I'm sorry, all right.",sadness,negative,-0.978446353826314
+26,11,2,2,Monica,I never meant for you to find out!,sadness,negative,-0.4255360889097872
+26,12,2,2,Rachel,"Oh, please, you wanted to get caught.",anger,negative,-0.825052410364151
+26,13,2,2,Monica,That is not true!,anger,negative,-1.0951285299826807
+26,14,2,2,Rachel,"Oh, so you just sort of happened to leave it in here?",anger,negative,-0.3247291145144633
+26,15,2,2,Monica,Did it ever occur to you that I might just be that stupid?,anger,negative,-0.19781202667391362
+26,16,2,2,Rachel,"Ok, Monica. I just have to know one thing. Did you go with her to",sadness,negative,-0.34253645964075474
+27,0,8,1,Monica,Yeah!,surprise,negative,0.3179904317256934
+27,1,8,1,Phoebe,I cant say.,neutral,neutral,0.20733978968877942
+27,2,8,1,Monica,Why?!,surprise,negative,-0.2241257297235446
+27,3,8,1,Chandler,Why not?,sadness,negative,-0.19541138992939544
+27,4,8,1,Phoebe,I cant say because hes famous.,neutral,neutral,0.0
+27,5,8,1,Rachel,"Oh my God, who is it?!",surprise,negative,-0.9375125846518841
+27,6,8,1,Monica,"Phoebe, come on, you have to tell us.",anger,negative,-0.15387047789108177
+27,7,8,1,Phoebe,"Okay, okay. Its James Brolin. James Brolin is the father of my baby.",neutral,neutral,0.0
+27,8,8,1,Chandler,As in Barbara Streisands husband James Brolin?,surprise,negative,-0.5853836536407471
+27,9,8,1,Phoebe,What?! Well he never said that to me!,surprise,negative,-1.6155932188034057
+28,0,5,8,Ross,In,neutral,neutral,-1.5112615905059528
+28,1,5,8,Phoebe,"Oh, this life! Oh okay no, Chandler's is worse.",sadness,negative,0.5818694233894348
+28,2,5,8,Joey,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",joy,positive,0.19867432709557775
+28,3,5,8,Phoebe,Of course you don't sweetie. You're brand new.,neutral,neutral,1.287812352180481
+28,4,5,8,Rachel,I know Monica's worst Thanksgiving.,neutral,neutral,-0.40832008148193566
+28,5,5,8,Monica,"Oh, let's not tell this story.",sadness,negative,0.19773601088134463
+28,6,5,8,All,"Oh, come on!",sadness,negative,-1.4181544893757092
+28,7,5,8,Phoebe,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",joy,positive,0.4341060519218445
+28,8,5,8,Rachel,What?! Joey got a turkey stuck on his head?!,surprise,positive,0.7957386374473572
+28,9,5,8,Joey,"Hey, it's not like it sounds.",neutral,neutral,-0.21366930644718707
+28,10,5,8,Chandler,It's,neutral,neutral,0.0
+29,0,1,15,Monica,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",anger,negative,1.4683153272166436
+29,1,1,15,Rachel,Who was that?,neutral,neutral,0.3605760046017963
+29,2,1,15,Monica,Wendy bailed. I have no waitress.,sadness,negative,-0.14405806295250034
+29,3,1,15,Rachel,Oh... that's too bad. Bye bye.,sadness,negative,0.3702677607536316
+29,4,1,15,Monica,Ten dollars an hour.,neutral,neutral,0.4776392920108421
+29,5,1,15,Rachel,No.,neutral,neutral,0.17902535733656144
+29,6,1,15,Monica,Twelve dollars an hour.,neutral,neutral,-0.1690250486838334
+29,7,1,15,Rachel,"Mon. I wish I could, but I've made plans to walk around.",neutral,neutral,0.15111869030551173
+29,8,1,15,Monica,"You know, Rachel, when you ran out of your wedding, I was there for you.",anger,negative,-0.34163571422206473
+29,9,1,15,Monica,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",anger,negative,-0.3377979697127529
+29,10,1,15,Rachel,Done.,joy,positive,1.8870469331741333
+30,0,6,20,Joey,"The reactors gonna blow in three seconds, were never gonna make it!",fear,negative,-0.7970042466224498
+30,1,6,20,Phoebe,Youve got to get out of here! Save yourself!,fear,negative,0.7644140720367432
+30,2,6,20,Joey,No! I wont leave you!,fear,negative,1.1031496047973632
+30,3,6,20,Phoebe,"Dont worry about me, Im a robot! Im just a machine!!",sadness,negative,0.15144324754009375
+30,4,6,20,Joey,No youre not! Not to me!,anger,negative,0.2839478934987749
+30,5,6,20,Phoebe,Oh my God.,surprise,positive,0.3702677607536316
+30,6,6,20,Joey,What?,neutral,neutral,-0.4034495871300372
+30,7,6,20,Phoebe,I am,neutral,neutral,-1.4334729965494546
+30,8,6,20,Joey,"Yeah, youre great! Okay, lets take it from",joy,positive,0.6306814551353455
+30,9,6,20,Phoebe,"No, I mean I was really acting my ass off.",joy,positive,0.8515552138752298
+30,10,6,20,Joey,"Yeah, I thought I was pretty good too.",joy,positive,0.686150312423706
+30,11,6,20,Phoebe,"Oh yeah, youre solid. Yeah, youre just no me.",neutral,neutral,-1.2191033363342285
+30,12,6,20,Joey,Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.,neutral,neutral,0.0
+30,13,6,20,Phoebe,Fine!,anger,negative,-0.2742511513109349
+30,14,6,20,Phoebe,Ill do it without you!,anger,negative,-0.4359356692215499
+30,15,6,20,Phoebe,I dont need you or anybody else!,anger,negative,-0.4002459963236049
+30,16,6,20,Phoebe,Im gonna make it on my own!,anger,negative,-0.18205514099364883
+30,17,6,20,Phoebe,Youll see!!,anger,negative,-1.4959028449772802
+30,18,6,20,Phoebe,Youll,neutral,neutral,0.0
+31,0,9,17,Kori,I can't believe that Ross is gone. It is just so sad.,sadness,negative,-1.1138720512390137
+31,1,9,17,Chandler,I didn't know Ross and you were so close.,surprise,negative,-0.530231237411499
+31,2,9,17,Kori,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,sadness,negative,-0.2158923809496276
+31,3,9,17,Chandler,I'm sure that would mean a lot to him.,neutral,neutral,0.0
+31,4,9,17,Chandler,"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",neutral,neutral,0.0
+31,5,9,17,Kori,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,sadness,negative,-0.945327060731401
+31,6,9,17,Ross,But you didn't!,joy,positive,0.19326066970825195
+31,7,9,17,Ross,I'm still alive!!,joy,positive,0.1797423217617169
+31,8,9,17,Ross,"Kori, I know this is a big surprise for you.",joy,positive,0.8113324945450024
+31,9,9,17,Ross,It's a long story but the things    you just said really made my day!,joy,positive,0.775408608975269
+31,10,9,17,Ross,"I mean, the fact that you are here means more    to me than if this room were filled with people!",joy,positive,0.5772404074668884
+31,11,9,17,Kori,"You sick freak, who does that? I can't believe I had a crush on    you!",anger,negative,-1.4494592547416687
+31,12,9,17,Ross,Did you hear that? Kori Weston had a crush on me!!,joy,positive,0.41790127754211426
+32,0,8,22,Dr. Long,Well do a quick check.,neutral,neutral,0.15282235998379257
+32,1,8,22,Rachel,Okay.,neutral,neutral,0.5437697768211365
+32,2,8,22,Dr. Long,"So, eight days late huh?",surprise,positive,0.2051273049452096
+32,3,8,22,Rachel,Yeah.,neutral,neutral,0.0
+32,4,8,22,Dr. Long,You must be a little uncomfortable.,neutral,neutral,0.4083117368314184
+32,5,8,22,Rachel,"Eh, just a tad.",neutral,neutral,-0.5894076824188232
+32,6,8,22,Dr. Long,"Youre about 80 percent effaced, so youre on your way.",neutral,neutral,0.22374406130345825
+32,7,8,22,Dr. Long,It still could last a little while longer.,neutral,neutral,1.503068196773529
+32,8,8,22,Dr. Long,If youre anxious there are a few ways to help things along.,neutral,neutral,0.4675082107635795
+32,9,8,22,Ross,Do them!!,anger,negative,-1.5159090042114258
+32,10,8,22,Dr. Long,"Actually, theyre things you can do. Just some home remedies, but in my experience Ive found that some of them are quite effective.",neutral,neutral,0.18810934388963396
+32,11,8,22,Rachel,"Well, we are ready to try anything.",neutral,neutral,0.18810934388963396
+32,12,8,22,Dr. Long,"Okay, theres an herbal tea you can drink.",neutral,neutral,1.7075361013412476
+32,13,8,22,Rachel,Okay.,neutral,neutral,-0.6393170944646123
+33,0,9,2,Chandler,What is wrong with Emma?,sadness,negative,-0.46280649304389954
+33,1,9,2,Monica,"Oh she misunderstood, she thought she was moving to Tulsa.",neutral,neutral,1.3498574234238987
+34,0,1,9,Carol,Anytime you're ready.,neutral,neutral,0.0
+34,1,1,9,Ross,"Ok, ok, here we go.",neutral,neutral,-0.48969730734825134
+34,2,1,9,Ross,"Ok, where am I talking to, here?",neutral,neutral,0.6970742751282728
+34,3,1,9,Ross,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",neutral,neutral,0.7247228043692147
+34,4,1,9,Carol,Just aim for the bump.,neutral,neutral,-0.6607840258116724
+34,5,1,9,Ross,"Ok, ok, ok, ok, here goes.",neutral,neutral,-0.4449899196624756
+34,6,1,9,Ross,"You know, I, you know, can't do this.",fear,negative,-1.160469388961792
+34,7,1,9,Ross,"Uh, this is too weird.",disgust,negative,-0.6899420625947528
+34,8,1,9,Ross,I feel stupid.,sadness,negative,-1.3228371143341064
+34,9,1,9,Carol,"So don't do it, it's fine. You don't have to do it just because Susan does it.",neutral,neutral,0.1708694946031617
+34,10,1,9,Ross,"Hello, baby. Hello, hello.",joy,positive,0.2647216597613191
+35,0,3,12,Mark,"Oh, hi. Its Mark.",neutral,neutral,1.7270602105178483
+36,0,3,21,Ross,Easy. Easy. You have to go to the hospital. Okay?,fear,negative,-1.2954126585149552
+36,1,3,21,Rachel,"Okay, I do.",neutral,neutral,-1.0572962760925293
+36,2,3,21,Ross,Okay.,neutral,neutral,0.0
+36,3,3,21,Rachel,I really do.,neutral,neutral,0.0
+36,4,3,21,Ross,"Okay, Im gonna get your coat and then Ill-Ill put you in a cab.",neutral,neutral,-1.3363354744342786
+36,5,3,21,Rachel,"Okay. Oh wait, wait-wait, youre not gonna come with me?",sadness,negative,-0.37104166659836935
+36,6,3,21,Ross,Of course I am. I just have to make a call.,surprise,positive,0.20286640136042422
+36,7,3,21,Rachel,Okay.,neutral,neutral,0.0
+36,8,3,21,Ross,Okay?,neutral,neutral,0.0
+36,9,3,21,Rachel,Thank you.  Oww!!!! God!,surprise,negative,-1.2734889947747376
+36,10,3,21,Ross,"What?! I wh-, whats wrong?",fear,negative,-0.9481132313046814
+36,11,3,21,Rachel,"Im sorry, I just cant go to the hospital lookin like this.",disgust,negative,-0.9681187629699708
+37,0,3,24,TV Announcer,"Pete Becker is circling the ring now. It looks like, hes just trying to feel him out. Oh, Bruiser is just...",neutral,neutral,-1.654574761427682
+37,1,3,24,Chandler,"Run! Run you crazy, rich freak!",fear,negative,2.33809757232666
+37,2,3,24,Rachel,"Oh, I cant watch this.",fear,negative,0.9028962850570679
+37,3,3,24,Joey,"Check it out, hes winning!  Petes winning!",surprise,positive,0.3242140310271786
+37,4,3,24,Monica,Really?!,surprise,positive,0.20880310362984034
+37,5,3,24,Joey,No-o-o!!,fear,negative,-1.6654718348365094
+37,6,3,24,TV Announcer,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",fear,negative,-0.25483640794465146
+37,7,3,24,All,Oh! Oh!,disgust,negative,-0.1420400383683056
+37,8,3,24,Phoebe,"Wait, if thats his favourite area, why is he being so mean to it?",surprise,negative,-1.0114190578460693
+37,9,3,24,Ross,"Well, this is ironic.",surprise,negative,-1.673827886581421
+37,10,3,24,Ross,"Of your last two boyfriends, Richard didnt want to have kids, and from the looks of it, now Pete cant.",neutral,neutral,0.0
+38,0,4,2,Joey,"Dude, you dont have to brag! We got nothing here!!",anger,negative,1.0344635367393493
+39,0,8,24,Chandler,Should we tell Rachel theres an empty private room right next door to hers?,neutral,neutral,-1.2504863142967224
+39,1,8,24,Monica,"We could, or we can have sex in it.",joy,positive,0.3480376903624638
+39,2,8,24,Chandler,"Well let me think about that, while I remove my pants!",joy,positive,0.7038239053037927
+40,0,8,5,Rachel,I thought I was a complete idiot.,surprise,positive,0.22207473383569898
+40,1,8,5,Joey,"Hey, Im with you. He even asked me if I thought youd go out with him.",neutral,neutral,-0.7475396220149477
+40,2,8,5,Rachel,"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",disgust,negative,-0.809834742839179
+40,3,8,5,Joey,I said no.,neutral,neutral,0.0
+40,4,8,5,Rachel,What?!,surprise,positive,0.43131754094315156
+40,5,8,5,Joey,What? II just figured since youre pregnant youre not gonna be seeing people.,surprise,negative,-0.8293425559997559
+40,6,8,5,Rachel,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",anger,negative,0.8736855449384109
+40,7,8,5,Joey,I didnt tell him. I didnt know if you were telling people. This is back when I thought Kash was still people.,neutral,neutral,0.0
+40,8,8,5,Rachel,"Good-good, dont tell him. Dont tell him. Just have him call me okay?",fear,negative,-1.1848716735839844
+40,9,8,5,Joey,"Rach look, I really dont think thats such a great",sadness,negative,-1.3222923278808594
+40,10,8,5,Rachel,"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",joy,positive,0.5659103393554688
+41,0,4,16,Rachel,"Ohh, here you are. I was looking for you before. Joshuas gone so you and Emily are free to go.",neutral,neutral,-0.7506155396684662
+41,1,4,16,Ross,Thats okay.,neutral,neutral,-0.14975734004648533
+41,2,4,16,Ross,"Shes still in there enjoying her fake party and uh, its too late to do any of the things I had planned, so",neutral,neutral,-0.30217714018157515
+42,0,5,1,Ross,Ah! Ah! I forgot my jacket!,anger,negative,0.3182921107101073
+42,1,5,1,Ross,You tell them to wait!,anger,negative,-0.9450815800353354
+42,2,5,1,Rachel,Okay. Wait! Wait!,neutral,neutral,0.0
+42,3,5,1,Ross,Emily.,neutral,neutral,0.6040703654289246
+42,4,5,1,Ross,Oh no-no-no! Oh-no!  No! No! Emily!,anger,negative,-1.4429269736292127
+43,0,6,6,Monica,Hey. Call me when you get there. Okay?,neutral,neutral,0.0
+43,1,6,6,Rachel,Okay.,neutral,neutral,0.0
+44,0,5,17,The Hot Girl,I know. You're the guy who wouldn't chip in for the handyman.,sadness,negative,-0.15973770101083407
+44,1,5,17,Ross,Nevermind!,anger,negative,0.20868516590252995
+44,2,5,17,The Hot Girl,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",neutral,neutral,0.22781158983707428
+44,3,5,17,The Hot Girl,Jen.,neutral,neutral,0.0
+44,4,5,17,Ross,"Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or",neutral,neutral,0.0
+44,5,5,17,Jen,Sure! That would be nice.,joy,positive,1.1325623531906501
+44,6,5,17,Ross,Umm?,neutral,neutral,0.0
+44,7,5,17,Jen,Oh! My number is on there.  Give me a call.,joy,positive,1.484581470489502
+44,8,5,17,Ross,I will give you a call.,neutral,neutral,0.0
+44,9,5,17,Jen,I'll see you later.,neutral,neutral,0.0
+44,10,5,17,Ross,Okay!,joy,positive,1.7750428915023804
+44,11,5,17,Jen,I forgot my paper.,neutral,neutral,0.0
+45,0,3,17,Chandler,"Here we go. Okay, brace yourselves.",neutral,neutral,-0.3577168464660645
+45,1,3,17,Monica,What?,neutral,neutral,-1.3654112815856934
+45,2,3,17,Rachel,Okay.,neutral,neutral,0.0
+45,3,3,17,Monica,Ow!,surprise,positive,0.20880310362984034
+45,4,3,17,Phoebe,Arent you gonna go?,neutral,neutral,1.0964047440808429
+45,5,3,17,Rachel,No. Thank you.,neutral,neutral,0.27592447229001316
+45,6,3,17,Monica,"No, Rachel never pees in public restrooms.",neutral,neutral,-1.0680463314056396
+45,7,3,17,Rachel,"Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.  Well, if everybodys going.",neutral,neutral,0.0
+45,8,3,17,Phoebe,"No, y'know what dont close it  cause the... keys...are in there.",neutral,neutral,0.0
+45,9,3,17,Chandler,"Oh, no-no-no-no-no-no!!",fear,negative,-1.623679602474951
+45,10,3,17,Joey,Whats going on?,neutral,neutral,0.0
+45,11,3,17,Chandler,My lighters in there!,fear,negative,-0.742781937122345
+46,0,3,8,Rachel,I promise.,neutral,neutral,1.225405802915752
+46,1,3,8,Phoebe,"Although, dont feel like you cant visit.",neutral,neutral,0.6834759712219238
+46,2,3,8,Joey,"Hey, is, is, is Chandler here?",neutral,neutral,0.8063059853003978
+46,3,3,8,Ross,"No, no hes not.",neutral,neutral,0.1797208044843117
+46,4,3,8,Monica,"You guys, Joey just saw Janice kissing her ex-husband.",surprise,negative,1.6135769371264246
+46,5,3,8,Ross,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",surprise,negative,0.5429404377937317
+46,6,3,8,Joey,"Well, I was thinking about that and I, I think the best way would be, to not.",neutral,neutral,-0.8827094078063965
+46,7,3,8,Rachel,"Joey, you cant keep this to yourself, if you know about this, you have to tell him.",neutral,neutral,0.2718676030635834
+46,8,3,8,Joey,"Itll kill him. I mean itll, itll just kill him.",fear,negative,0.8405639527504292
+46,9,3,8,Phoebe,"Well, you could wait til I go to the dentist, maybe",neutral,neutral,0.9388233994128683
+47,0,3,17,Carol,"Hey, what are you doing here?",neutral,neutral,-0.9255852081238771
+47,1,3,17,Ross,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",neutral,neutral,-0.2663029909025525
+47,2,3,17,Carol,"Ah yeah, but now its Susan and me in Mexico and the hostages coming home.",neutral,neutral,-1.0360608398914337
+47,3,3,17,Ross,Wheres Ben?,neutral,neutral,0.0
+47,4,3,17,Carol,Hes sleeping.,neutral,neutral,0.0
+47,5,3,17,Ross,"Ahh.  Ooh, is this a ah, is this a bad time?",surprise,positive,0.5964505452846645
+47,6,3,17,Carol,"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",joy,positive,0.6372024010778183
+47,7,3,17,Ross,"Oh! I thought you guys got married in uh, January?",surprise,negative,0.17283460019532626
+47,8,3,17,Carol,Its not that kind of anniversary.,neutral,neutral,0.0
+47,9,3,17,Ross,Ah!  Oh.,surprise,negative,-1.848946766662138
+47,10,3,17,Carol,Sooo!! Anyway...,neutral,neutral,0.0
+48,0,3,8,Monica,Where are we gonna find a tiny little hat?,neutral,neutral,0.0
+48,1,3,8,Rachel,"Oh, oh, oh, Ill get Rainy Day Bear!!",joy,positive,0.30005958577174674
+48,2,3,8,Monica,"Because hell know what to do?  Oh my God, youre a genius!",joy,positive,0.6131244897842407
+48,3,3,8,Rachel,"Oh God, oh God, its sowed on though.",fear,negative,0.23437484803919517
+48,4,3,8,Monica,Give it. Give it.,neutral,neutral,0.2284239002592532
+48,5,3,8,Rachel,Okay.,neutral,neutral,0.1964598753986717
+48,6,3,8,Monica and Rachel,Oh!!,surprise,negative,0.16558183726415532
+48,7,3,8,Rachel,"Oh, its just like a bloodbath in here today.",sadness,negative,-1.2720909118652344
+49,0,1,23,Ross,Please. This is so your fault.,anger,negative,0.3179904317256934
+49,1,1,23,Susan,"How, how is this my fault?",surprise,negative,0.3179904317256934
+49,2,1,23,Ross,"Look, Carol never threw me out of a room before you came along.",anger,negative,-0.303609300760705
+49,3,1,23,Susan,"Yeah? Well, there's a lot of things Carol never did before I came along.",anger,negative,0.7452951193977562
+49,6,1,23,Phoebe,"Hey, hey, ok, all right, that's it!",anger,negative,-0.5636086631896688
+49,7,1,23,Phoebe,Get in here.,anger,negative,-0.17720803153141418
+49,8,1,23,Phoebe,Come on.,neutral,neutral,0.0
+49,9,1,23,Phoebe,"My god, you guys, I don't believe you.",anger,negative,0.3104960017550784
+49,10,1,23,Phoebe,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,anger,negative,-0.41285543877448916
+49,11,1,23,Phoebe,"So just stop all the yelling, just stop it!",anger,negative,0.275668466091156
+49,12,1,23,Ross,"Yeah, Susan.",neutral,neutral,0.33497634530067444
+49,13,1,23,Phoebe,"Don't make me do this again, I don't like my voice like this.",anger,negative,-0.40231129732662296
+49,14,1,23,Phoebe,"Ok, who wants to hear something ironic?",neutral,neutral,0.17688827247087957
+50,0,6,22,Phoebe,"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?""",surprise,negative,0.1928076205494289
+50,1,6,22,Joey,I didnt do that! Who wouldve done that?!,surprise,negative,-0.4455319404602051
+50,2,6,22,The Dry Cleaner,Son of a bitch!,anger,negative,1.7750428915023804
+50,3,6,22,Phoebe,"Okay, maybe ask this guy.",neutral,neutral,0.0
+51,0,6,17,Joey,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",neutral,neutral,0.3104960017550784
+51,1,6,17,Chandler,"Yknow sometimes the good ideas are just right in front of you, arent they?",joy,positive,0.3179904317256934
+51,2,6,17,Joey,"Okay, I know it sounds crazy, but I think it might work. Yknow? The only problem is, Carls acting is",neutral,neutral,0.0
+51,3,6,17,Monica,The,neutral,neutral,-0.21015986433108225
+51,4,6,17,Joey,"Yeah, hes the reason I didnt get that big",neutral,neutral,-0.5692172617480331
+51,5,6,17,Carl,"Hey, uh can I get a little piece of that cake?",neutral,neutral,-0.22503837620332945
+51,6,6,17,Joey,Pizza!! We like Pizza!! Get out!!!,anger,negative,-0.8062944120654798
+52,0,6,24,Waitress,"Hey Monica, theres a customer who wants to complement the chef, should I let him in?",neutral,neutral,0.0
+52,1,6,24,Monica,"Sure, I love this part!",joy,positive,2.374519944190979
+52,2,6,24,Waitress,Come on in.,neutral,neutral,0.0
+53,0,6,10,Joey,"Really? In the moment, I really wanted to kiss you too. In the moment.",joy,positive,0.544933021068573
+53,1,6,10,Janine,"In the moment, yeah.",neutral,neutral,0.3071482074404219
+53,2,6,10,Joey,But only in the moment. So do ya wanna kiss again?,joy,positive,1.94439356857049
+53,3,6,10,Janine,"Sure, New Years Eve is only two weeks away. Can you wait?",neutral,neutral,1.6128445863723755
+53,4,6,10,Joey,No.,neutral,neutral,1.424998771292863
+53,5,6,10,Janine,Me neither.,neutral,neutral,0.0
+53,6,6,10,Joey,"3, 2,",neutral,neutral,0.8795038064298895
+53,7,6,10,Janine,"Joey, you dont have to count down every time we kiss.",joy,positive,0.6453861142304866
+53,8,6,10,Joey,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",joy,positive,0.3714908472147833
+54,0,1,4,Monica,Alright. Phoebe?,neutral,neutral,-0.2961089897982969
+54,1,1,4,Phoebe,"Okay, okay.",neutral,neutral,-0.14509147838030678
+54,2,1,4,Phoebe,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",joy,positive,1.0254385471343994
+54,3,1,4,Ross,"Yeah, see.. you took mine. Chandler, what about you?",neutral,neutral,-1.1294951438903809
+54,4,1,4,Chandler,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",neutral,neutral,-0.37742305926749253
+54,5,1,4,Rachel,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",disgust,negative,-0.8983682264397999
+54,6,1,4,All,"Hey Joey. Hi. Hey, buddy.",neutral,neutral,0.3858407453449786
+54,7,1,4,Monica,"Hey, Joey, what would you do if you were omnipotent?",neutral,neutral,-1.336576235294342
+54,8,1,4,Joey,Probably kill myself!,sadness,negative,-0.8788086040459646
+54,9,1,4,Monica,..Excuse me?,surprise,positive,0.18704824210350424
+54,10,1,4,Joey,"Hey, if Little Joey's dead, then I got no reason to live!",sadness,negative,-1.4181544893757092
+54,11,1,4,Ross,"Joey, uh-",surprise,positive,0.23086139254355587
+54,12,1,4,Joey,You,neutral,neutral,-0.47221729573261584
+55,0,6,1,Kate,Im sorry.,sadness,negative,1.2023473620414733
+56,0,3,22,Stage Manager,"Joey, onstage!",anger,negative,0.2541711926460266
+56,1,3,22,Joey,Well can you at least stay to the end of the play?,sadness,negative,-0.741402966024566
+56,2,3,22,Joey,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",sadness,negative,0.6966072916984558
+56,3,3,22,Lauren,Where are you Vic?,neutral,neutral,0.0
+56,4,3,22,Kate,Flights in an hour. I-I gotta go.,sadness,negative,-1.3537759065628052
+56,5,3,22,Lauren,Vic! Vic!,anger,negative,0.930340051651001
+56,6,3,22,Joey,In a minute!!,anger,negative,0.6092843793616005
+56,7,3,22,Lauren,So this is it? Victor?,sadness,negative,0.20126321518212187
+56,8,3,22,Joey,"Yeah, I guess it is.",sadness,negative,1.165593433380127
+56,9,3,22,Joey,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",sadness,negative,-0.39654462724560346
+56,10,3,22,Joey,"One thing you gotta know, is that I will never forget you.",sadness,negative,0.42499098777771
+56,11,3,22,Joey,"But, youve got things you have to do now, and so do I.",sadness,negative,0.34497444863044535
+56,12,3,22,Joey,"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",sadness,negative,-1.047263503074646
+56,13,3,22,Joey,"But when I return, 200 years from now, youll be long gone.",sadness,negative,-0.36834888761288553
+56,14,3,22,Joey,But I wont have aged at all.,neutral,neutral,0.0
+56,15,3,22,Joey,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, Im gonna want to meet her.",neutral,neutral,0.0
+56,16,3,22,Lauren,"So long, Vic!",sadness,negative,-0.5992050766944885
+57,0,3,1,Rachel,Nooo Way! The most romantic song ever is,neutral,neutral,0.0
+57,1,3,1,Phoebe,"See, I-I think that one that Elton John wrote for, um, that guy on",neutral,neutral,0.13771055552494182
+57,2,3,1,Rachel,"What song was that, Pheebs?",neutral,neutral,0.413777880284524
+57,3,3,1,Phoebe,Hi Monica!,joy,positive,0.24241398500643108
+57,4,3,1,Ross,Hey Mon!,joy,positive,0.7036850452423096
+57,5,3,1,Rachel,Hey Mon!,joy,positive,0.2854107306026634
+57,6,3,1,Phoebe,"Oh my God, has she slept at all?",surprise,negative,-0.5008541703224182
+57,7,3,1,Ross,Nope.,neutral,neutral,0.0
+57,8,3,1,Rachel,"No, it's been three nights in a row.",neutral,neutral,0.0
+57,9,3,1,Ross,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",neutral,neutral,0.0
+57,10,3,1,Phoebe,"Oh, okay that explains it.",neutral,neutral,0.0
+57,11,3,1,Phoebe,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",neutral,neutral,0.0
+57,12,3,1,Phoebe,But then I realized where would a mouse or a opossum get the money to make the phone call.,joy,positive,0.8559810911183092
+58,0,4,13,Chandler,"So uh, man, are you gonna go to the play with me tonight?",neutral,neutral,0.3104960017550784
+58,1,4,13,Ross,"Yknow what, I dont know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",disgust,negative,0.3104960017550784
+58,2,4,13,Chandler,"Yeah, I know but",neutral,neutral,0.736218372978913
+58,3,4,13,Ross,"Oh no-no-no, Im there.",neutral,neutral,0.37681409846188885
+58,4,4,13,Monica,Hey!,surprise,positive,0.3104960017550784
+58,5,4,13,Joey,Hey Mon! Want some pancakes?,joy,positive,0.1839353497009082
+58,6,4,13,Monica,You made pancakes?,surprise,positive,0.18373658807287363
+58,7,4,13,Joey,Yep! Grab a plate.,joy,positive,0.2447294268428113
+58,8,4,13,Joey,"No-no, stay right there.  Gettin closer.",neutral,neutral,0.23018658847172802
+58,9,4,13,Chandler,"Okay, okay, but dont worry, because we also have cereals, muffins, waffles,",neutral,neutral,-0.3752899646759033
+58,10,4,13,Joey,"Listen also were uh, were watching the game here Saturday night, if people want to come over.",neutral,neutral,-0.3503729606779302
+58,11,4,13,Ross,Oh yeah!,joy,positive,0.2712994298726148
+59,0,5,20,Chandler,"Yes, if the foxhole was lined with sandwiches.",neutral,neutral,0.0
+59,1,5,20,Joey,"Yeah, hero sandwiches.",neutral,neutral,1.7462839365005494
+59,2,5,20,Phoebe,Well you all know that I'm a pacifist so I'm not interested in war in any way.,neutral,neutral,-0.6643169918949496
+59,3,5,20,Phoebe,"When the revolution comes, I will have to destroy you all.",neutral,neutral,0.17359328787306794
+59,4,5,20,Phoebe,Not you Joey.,neutral,neutral,0.6316961765289307
+60,0,6,17,Chandler,Oh my good God.,surprise,positive,0.36808851957321165
+60,1,6,17,Monica,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",neutral,neutral,0.0
+60,2,6,17,Chandler,"Look, you have done enough! Okay? You have to stop this now.",anger,negative,1.447896957397461
+60,3,6,17,Monica,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",joy,positive,0.9233241081237793
+60,4,6,17,Chandler,"Oh, the mixed tape.",neutral,neutral,-1.1078605651855469
+60,5,6,17,Monica,The Way You Look Tonight,joy,positive,0.18057189923242412
+60,6,6,17,Monica,You are just the sweetest.,joy,positive,1.3980469703674316
+61,0,3,21,Monica,Hey!,joy,positive,0.27902751005771265
+61,1,3,21,Phoebe,Hey!,joy,positive,0.3104960017550784
+61,2,3,21,Monica,"Hey, guess what Im doing tonight.",neutral,neutral,0.29738478752130604
+61,3,3,21,Phoebe,What?,neutral,neutral,0.0
+61,4,3,21,Monica,Im checking out the restaurant with Pete.,neutral,neutral,0.0
+61,5,3,21,Phoebe,"Ohh, Monica, I am so excited for you.",joy,positive,1.4917914867401123
+62,0,6,16,Ross,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",neutral,neutral,0.0
+62,1,6,16,Carol,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",joy,positive,0.7155087207409352
+62,2,6,16,Ross,"Oh.  Wow!  Huh.  Boy!  Well, someones been doing their homework.",surprise,positive,0.379974893132097
+62,3,6,16,Carol,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral,neutral,0.15492649341403908
+62,4,6,16,Ross,"Oh, I know.  Yknow, just-just talking about it is getting me kinda",neutral,neutral,0.0
+62,5,6,16,Carol,"Oh, me too.",neutral,neutral,0.28157892668979123
+63,0,8,18,Ross,"and then, we couldve gone from the ceremony to the reception with you in the sidecar!",joy,positive,0.1986363589357243
+63,1,8,18,Rachel,"Ross, it just wouldnt have been feasible.",neutral,neutral,0.0
+63,2,8,18,Ross,But having a dove place the ring on your finger wouldve been no problem?,anger,negative,0.8919938206672668
+63,3,8,18,Rachel,It was really fun being married to you tonight.,joy,positive,1.660802725015273
+63,4,8,18,Ross,"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",joy,positive,0.8337137897718634
+63,5,8,18,Rachel,"Okay Ross, can I uh, can I ask you something?",sadness,negative,-0.3391194841996672
+63,6,8,18,Ross,Yeah.,neutral,neutral,0.0
+63,7,8,18,Rachel,"That proposal, at the planetarium",neutral,neutral,-0.1805997544705793
+63,8,8,18,Ross,"I know, I know it was stupid.",sadness,negative,-1.588429570198059
+63,9,8,18,Rachel,Are you kidding?!,surprise,positive,0.7152468576604178
+63,10,8,18,Rachel,"With the, with the lilies, and-and the song, and the stars!",joy,positive,0.5987140536308289
+63,11,8,18,Rachel,It wasreally wonderful!,joy,positive,2.4942782163619994
+63,12,8,18,Rachel,Did you just make that up?,surprise,positive,0.3958512662604825
+63,13,8,18,Ross,"No, actually I thought about it when, when we were going out.",neutral,neutral,0.0
+63,14,8,18,Ross,"Its how I imagined I uh, I would ask you to marry me.",neutral,neutral,0.0
+63,15,8,18,Rachel,"Well, that wouldve been very hard to say no too.",neutral,neutral,0.0
+63,16,8,18,Ross,"Its a good thing I didnt do it, because it sounds like it wouldve been a very expensive wedding.  Okay, good night",neutral,neutral,0.0
+63,17,8,18,Rachel,Goodnight,neutral,neutral,0.0
+63,18,8,18,Ross,Even if the sidecar had a windscreen so your hair wouldnt get messed up?,neutral,neutral,0.0
+63,19,8,18,Rachel,I will think about it.,neutral,neutral,0.0
+63,20,8,18,Ross,Thats all Im askin,neutral,neutral,0.0
+64,0,6,9,Rachel,"You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldnt feel bad!",surprise,positive,0.9080809138278738
+64,1,6,9,Monica,"Well actually, I-I didnt eat mine. Its still in the bathroom.",joy,positive,0.6852998733520508
+64,2,6,9,Joey,"No it isnt, I ate that.",neutral,neutral,-0.7633354084491231
+64,3,6,9,Mrs. Geller,Well we left ours in Monicas bedroom.,neutral,neutral,-0.5029419660568237
+64,4,6,9,Joey,"Nope, got it and I got yours  too.",neutral,neutral,-0.26586569147901784
+65,0,4,9,Rachel,And thats Im so glad theres no problem.,joy,positive,0.3731098286244219
+65,1,4,9,Joanna,"Thats fine, actually Im on the hiring committee, so therell be at least one friendly face.",neutral,neutral,0.3907239950912391
+65,2,4,9,Rachel,Ohh! Thats great!,joy,positive,1.636065185070038
+65,3,4,9,Joanna,"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral,neutral,0.6396707884372503
+65,4,4,9,Rachel,Really?!,surprise,positive,0.20880310362984034
+65,5,4,9,Joanna,No-ho-ho!,joy,positive,0.16858788833780736
+65,6,4,9,Joanna,Yeah.,neutral,neutral,-0.12719706079951099
+65,7,4,9,Joanna,"I mean, no-no-no-no-no, dont you worry, Im sure with your qualifications you wont need to sleep with some guy to get that job.",neutral,neutral,0.0
+65,8,4,9,Joanna,"Although, I might need some convincing.",neutral,neutral,0.0
+65,9,4,9,Rachel,"Well, I, umm",fear,negative,-1.1222539067268371
+65,10,4,9,Joanna,"Kidding! God, I feel wild today!",joy,positive,1.1819055080413818
+66,0,7,23,Phoebe,Oh my God! Chandler just left though!,surprise,negative,-0.5139328241348267
+66,1,7,23,Rachel,"Yeah but, maybe its not what we think. Maybe its tell Monica Im sorry Idrank the last of the milk.",neutral,neutral,1.0082279402042715
+66,2,7,23,Phoebe,"Or maybe he-he was writing to tell her that-that hes changed his name, yknow? Tell Monica Im sorry.",neutral,neutral,1.9333090782165527
+66,3,7,23,Ross,I think it means he freaked out and left!,surprise,negative,-0.18021321296691895
+66,4,7,23,Phoebe,Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!,anger,negative,2.1090960383415225
+66,5,7,23,Rachel,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",sadness,negative,-0.14022500734205057
+66,6,7,23,Ross,"LookOkay, Im just gonnaIm gonna have to go find him and bring him back!",neutral,neutral,0.0
+66,7,7,23,Ross,Okay?,neutral,neutral,0.0
+66,8,7,23,Ross,"You-you make sure Monica does not find out, okay?",neutral,neutral,-1.2202423810958862
+66,11,7,23,Ross,"I will, I will find him.",neutral,neutral,-0.43641934106010183
+67,0,6,19,Rachel,Hey!,joy,positive,0.3104960017550784
+67,1,6,19,All,Hi! Hey!,joy,positive,0.30279875704046333
+67,2,6,19,Rachel,Do you guys know any cute guys?,neutral,neutral,0.8612210212515095
+67,3,6,19,Chandler,"Well, of course I do! My good friend Joey over here.",joy,positive,0.8582067489624023
+67,4,6,19,Joey,"Oh, Im sorry. Thank you Chandler.",joy,positive,0.1798063768885445
+67,5,6,19,Rachel,"Anyway, theres this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",neutral,neutral,0.2056498986179598
+67,6,6,19,Monica,Whats the charity?,neutral,neutral,-0.39985117514484614
+67,7,6,19,Rachel,"I dont know, something either trees or diseaseRalph mumbles a lot.",neutral,neutral,1.133824348449707
+67,8,6,19,Monica,Does Ralph mumble when youre not paying attention?,neutral,neutral,1.4469452202320099
+67,9,6,19,Rachel,Yeah! Its weird. But the thing is need to find a date.,surprise,positive,0.35700723599415696
+67,10,6,19,Phoebe,"Well, what kind of guy are you looking for?",neutral,neutral,1.2588694470783892
+68,0,6,21,Rachel,Hey!,joy,positive,0.3104960017550784
+68,1,6,21,Ross,What are you guys doing later?,neutral,neutral,1.6826186997793258
+68,2,6,21,Phoebe,"Oh, Rachel and I have appointments to get our hair cut.",neutral,neutral,0.0
+68,3,6,21,Rachel,We do?,surprise,negative,-0.829669341335773
+68,4,6,21,Phoebe,I want to see what he wants first.,neutral,neutral,0.0
+68,5,6,21,Ross,I just found out that Elizabeths dad wants to meet me.,sadness,negative,-1.1838639974594116
+68,6,6,21,Chandler,"Wait a minute, hold the phone! Youre not Elizabeths dad?!",surprise,positive,0.8495616912841797
+68,7,6,21,Ross,"Come on guys, I-I really want this guy to like me.",fear,negative,0.5910865068435669
+68,8,6,21,Ross,It-it would really help me out if you guys were here to make me look good.,sadness,negative,-0.8907484795868754
+68,9,6,21,All,Of course well help! Yeah! Well be here!,joy,positive,0.3818312997171667
+68,10,6,21,Ross,Thanks!,joy,positive,0.28834749127469905
+68,11,6,21,Monica,We know how tough those parent/teacher conferences can be.,neutral,neutral,-1.484847977757454
+69,0,7,8,Rachel,"Oh, hi! How are you doing?",joy,positive,0.8135830760002136
+69,1,7,8,Tag,I'm okay. I gotta go down to the police station and look at mug shots.,sadness,negative,-0.1443193498547677
+69,2,7,8,Tag,"Thanks for having me over, you guys.",neutral,neutral,0.0
+69,3,7,8,Ross,Tag?,neutral,neutral,-0.5036986819018523
+69,4,7,8,Ross,Y-You're going?,joy,positive,0.36457213852521164
+69,5,7,8,Ross,"Uh we didn't, uh we didn't get the chance to talk.",neutral,neutral,0.515160083770752
+69,6,7,8,Ross,"Uh, so, where did you say you're from again?",neutral,neutral,-1.1807766437530518
+69,7,7,8,Tag,Colorado.,neutral,neutral,0.0
+69,8,7,8,Ross,"Ah, what good are you.",neutral,neutral,0.0
+69,9,7,8,Rachel,"Look, um, I think we should talk about what happened on the terrace.",neutral,neutral,0.0
+69,10,7,8,Tag,Okay.,neutral,neutral,0.0
+69,11,7,8,Rachel,"Ah, I-I never should have said what I said.",sadness,negative,-0.25408228995647875
+69,12,7,8,Rachel,Ityknow what?,neutral,neutral,0.0
+69,13,7,8,Rachel,It just doesn't matter how I feel.,sadness,negative,-0.6163835525512695
+69,14,7,8,Rachel,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",sadness,negative,-0.31498001957873534
+69,15,7,8,Tag,"Um, I'm not.",neutral,neutral,0.0
+69,16,7,8,Rachel,"Oh, god, I knew it, that I freaked you out.",sadness,negative,-0.5966159701347351
+69,17,7,8,Tag,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",sadness,negative,-0.16746090354902243
+69,18,7,8,Rachel,Really?,surprise,positive,0.3907239950912391
+69,19,7,8,Tag,"Yeah, so, please don't fire me for doing this.",sadness,negative,-0.38598594226397864
+70,0,1,4,Ross,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",anger,negative,1.5717576146125796
+70,1,1,4,Chandler,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",neutral,neutral,0.0
+70,2,1,4,Ross,Pass it! Pass it!,joy,positive,0.6638042727253115
+70,3,1,4,Chandler,He's open!,joy,positive,0.17607063579769822
+70,4,1,4,All,Shoot! Shoot! Shoot!,joy,positive,1.2279814600944519
+70,5,1,4,Chandler,"Hey, look, we're on that TV thing!",surprise,positive,0.2479497268184936
+71,0,7,13,Rachel,I am so psyched I kept this chair for myself!,joy,positive,0.1560366994948197
+71,1,7,13,Joey,"Yeah, me too.",neutral,neutral,0.0
+71,2,7,13,Rachel,"Yeah? Wow! Yknow, that this thing has speakers in the headrest!",surprise,positive,0.6257115602493286
+71,3,7,13,Joey,No. Really?,surprise,negative,0.16996608684359238
+71,4,7,13,Rachel,Yeah! You can hook it up to your TV,joy,positive,0.6592733383178712
+71,5,7,13,Joey,My chair heals itself.,neutral,neutral,0.22374406130345825
+72,0,5,11,Phoebe,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",anger,negative,-0.12785863263980435
+72,1,5,11,Joey,"Yes! Yes, I did.",sadness,negative,1.7750428915023804
+72,2,5,11,Phoebe,Then do Iceberg!,anger,negative,-0.2031642457792433
+72,3,5,11,Joey,G-sharp.,neutral,neutral,-1.2397995566254707
+72,4,5,11,Phoebe,G,neutral,neutral,-1.2397995566254707
+72,5,5,11,Joey,What?! I didn't touch a guitar!,surprise,negative,-0.3250099318725841
+72,6,5,11,Phoebe,"No, but you're questioning my method!",anger,negative,-1.4817740564080282
+72,7,5,11,Joey,"No, I'm not questioning it, I'm saying it's stupid!  What?!",anger,negative,-0.32905031231195636
+72,8,5,11,Monica,Thank you.,neutral,neutral,-0.145702187588876
+72,9,5,11,Phoebe,Y'know none of my other student thought I was stupid.,anger,negative,-0.5083807706832886
+72,10,5,11,Joey,"Your other student, was you!",anger,negative,-0.8656871112421243
+72,11,5,11,Phoebe,"Yeah, well, y'know maybe you just need to try a little harder!",anger,negative,-0.161134218011326
+72,12,5,11,Joey,"Look, maybe I need to try a real teacher!",anger,negative,-0.5440977215766907
+72,13,5,11,Joey,Right here!,anger,negative,-0.150232379145395
+72,14,5,11,Joey,Here!,anger,negative,-0.20309389242809672
+72,15,5,11,Joey,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",neutral,neutral,0.0
+72,16,5,11,Phoebe,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,anger,negative,0.19286074815772203
+72,17,5,11,Rachel,"""Baddest man in the whole damn town.""",neutral,neutral,0.0
+72,18,5,11,Phoebe,"Oh, fine! Take his side!",anger,negative,-0.18583558556940893
+73,0,5,10,Ross,"And shame on you! You should know better, Joey needs to work.  Now come on!",anger,negative,-1.2963241398334504
+73,1,5,10,Joey,Hey!,anger,negative,0.3890251037187902
+73,2,5,10,Ross,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,anger,negative,0.3562464820220015
+74,0,8,3,Rachel,Hi!,joy,positive,0.8859498090914926
+74,1,8,3,Ross,Hi.,neutral,neutral,0.0
+74,2,8,3,Rachel,"Hi.  Umm, I think theres something that we really need to talk about.",joy,positive,0.48486564014948286
+74,3,8,3,Ross,"I think we do. Why dont we go inside?  Look uh, I know why youre here.",sadness,negative,-0.16467800233795238
+74,4,8,3,Rachel,You do?,surprise,positive,1.1739989835262534
+74,5,8,3,Ross,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral,neutral,-1.194326901435852
+74,6,8,3,Rachel,Okay.,neutral,neutral,-1.0791800647969438
+74,7,8,3,Ross,"Okay.  Uh, Ross and Rachel. Rachel and Ross. Thats been one heck of a see-saw hasnt it?",neutral,neutral,0.0
+74,8,8,3,Rachel,What?,surprise,negative,-0.9309881805674678
+74,9,8,3,Ross,"I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?",sadness,negative,-0.7677009334475073
+74,10,8,3,Rachel,Seriously. What?!,surprise,negative,-0.7502550482749939
+74,11,8,3,Ross,Okay.,neutral,neutral,0.0
+74,12,8,3,Ross,Okay.,neutral,neutral,0.0
+74,13,8,3,Ross,Yknow what?,neutral,neutral,0.0
+74,14,8,3,Ross,"If you want to, we can do it one more time.",neutral,neutral,0.0
+74,15,8,3,Ross,I mean Id-Id be okay with that.,neutral,neutral,0.0
+74,16,8,3,Ross,"In fact, I have some time right now.",neutral,neutral,0.0
+74,17,8,3,Rachel,"Okay, yknow what? Can I, can I talk now?",joy,positive,0.42072790128175086
+74,18,8,3,Ross,Oh sure.,neutral,neutral,0.0
+74,19,8,3,Rachel,"Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that",anger,negative,-0.7128302574157716
+75,0,3,9,Rachel,We should defiantly play football more often. Maybe theres a like league we could join or something.,neutral,neutral,0.0
+76,0,3,1,Chandler,I know!,joy,positive,0.3918107467436016
+76,1,3,1,Ross,"Yes! Wow, well, that-that was easy. Okay, you-you go.",surprise,positive,0.41693593314099076
+76,2,3,1,Chandler,Okay.,neutral,neutral,0.0
+76,3,3,1,Ross,Okay.,neutral,neutral,0.0
+76,4,3,1,Chandler,"Okay, you know, you know when your in bed, with a woman.",joy,positive,0.4130689426184375
+76,5,3,1,Ross,Hmph.,neutral,neutral,1.9927812576293944
+76,6,3,1,Chandler,"And, ah, you know, your fooling around with her.",joy,positive,0.1735031855156972
+76,7,3,1,Chandler,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",joy,positive,0.8666574748359324
+76,8,3,1,Ross,"With the belly-button ring? Oh, muhawa!",joy,positive,0.47402260126737517
+76,9,3,1,Chandler,"I know, And then all of the sudden your Mom pops into your head.",anger,negative,-0.5562788844108582
+76,10,3,1,Chandler,"And your like 'Mom, get outta here!'",anger,negative,-1.1955043465011101
+76,11,3,1,Chandler,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",anger,negative,-0.6374902129173279
+76,12,3,1,Chandler,"So it's kinda like, you're, you know.",neutral,neutral,0.0
+76,13,3,1,Chandler,You know.... You don't know!,surprise,negative,-0.488604211807251
+76,14,3,1,Ross,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",disgust,negative,-0.3827717815668912
+76,15,3,1,Chandler,You said...,neutral,neutral,0.0
+76,16,3,1,Ross,I said ',neutral,neutral,0.2696051677943814
+77,0,8,24,Phoebe,Oh!,surprise,positive,0.22374406130345825
+77,1,8,24,Ross,Look at Emma!,surprise,positive,0.14937928764162312
+77,2,8,24,Phoebe,"I just cant decide who she looks more alike, you or Rachel?",neutral,neutral,-0.43336543440818787
+77,3,8,24,Ross,"Oh what are you kidding? Shes gorgeous, its all Rachel.",joy,positive,0.204301323621511
+77,4,8,24,Phoebe,"Im sorry, for the last time, why arent you two together again?",neutral,neutral,0.23985575357643008
+77,5,8,24,Phoebe,"No, I know.",neutral,neutral,0.0
+77,6,8,24,Phoebe,"I know, because youre not in that place.",neutral,neutral,0.0
+77,7,8,24,Phoebe,"Which would be fine, except you totally are.",neutral,neutral,0.0
+77,8,8,24,Ross,Itsits complicated okay?,sadness,negative,-0.5652212500572205
+77,9,8,24,Phoebe,"Yeah thats true. Yeah, you love her. You always have. You have a child together. There is no right answer.",neutral,neutral,0.0
+77,10,8,24,Ross,"Look, weve been together.",sadness,negative,-0.16698074838461707
+77,11,8,24,Ross,Okay?,neutral,neutral,0.0
+77,12,8,24,Ross,"And then apart, and then together, and then apart, and now we have a baby.",sadness,negative,-0.17315402149619707
+77,13,8,24,Ross,Its just if-if we got together again and it didnt work outI could never do that to Emma.,sadness,negative,-0.16338475038761135
+77,14,8,24,Ross,I mean she-she thinking everything Oh thatsnow me.,sadness,negative,-0.5396645069122314
+77,15,8,24,Ross,What do they put something in the water in this place?,neutral,neutral,0.0
+77,16,8,24,Ross,"Since Rachel and I were doing really, were doing really well right now.",sadness,negative,-0.15451944334862944
+77,17,8,24,Phoebe,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",neutral,neutral,0.0
+77,18,8,24,Ross,"Yeah, exactly.",neutral,neutral,0.0
+77,19,8,24,Phoebe,Right.  Or you might get everything youve wanted since you were fifteen.,neutral,neutral,0.0
+78,0,7,22,Rachel,God. I forgot how much I love driving. I have,joy,positive,0.5065206289291382
+78,1,7,22,Ross,You dont have a,neutral,neutral,-0.7773847811634766
+78,2,7,22,Rachel,"Oh Ross youre so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral,neutral,-1.033130044319627
+78,3,7,22,Ross,What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,anger,negative,-1.1985555998828659
+78,4,7,22,Rachel,"I am not horsing around, okay? I am Porsching around.",joy,positive,0.6277303099632263
+78,5,7,22,Rachel,Uh-oh.,fear,negative,-0.2629961648482926
+78,6,7,22,Ross,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",neutral,neutral,0.0
+78,7,7,22,Rachel,Really? You think so?,fear,negative,0.7445283952711534
+78,8,7,22,Ross,I was talking to myself! Youre going down!,anger,negative,0.2301817406271418
+79,0,9,21,Monica,Hey honey! I missed you today!,joy,positive,0.18170510277266594
+79,1,9,21,Chandler,"Oh, yeah?",surprise,positive,0.2560266729998588
+79,2,9,21,Monica,Yeah.  What d'you wanna do tonight?,neutral,neutral,0.2036072275124159
+79,3,9,21,Chandler,"Oh, well... Maybe we could...",neutral,neutral,0.3907239950912391
+79,4,9,21,Monica,"Ok, trying to turn me on by making a mess?",joy,positive,0.331666300644466
+79,5,9,21,Monica,Know your audience!,joy,positive,0.23793471568628277
+79,6,9,21,Monica,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",neutral,neutral,0.0
+79,7,9,21,Chandler,We really need to take those tests?,sadness,negative,-0.17117906126913596
+79,8,9,21,Monica,"Honey, we've been trying to have a baby for over a year.",neutral,neutral,0.0
+79,9,9,21,Monica,I think    it's a good idea to find out if everything's ok. Just a few routine tests.,neutral,neutral,0.0
+79,10,9,21,Chandler,But I don't wanna do it in a cup!,sadness,negative,-0.6465544104576111
+80,0,1,10,Phoebe,"Oh, hi Max! Hey, do you know everybody?",neutral,neutral,-0.5295960266271038
+80,1,1,10,Max,No. Have you seen David?,neutral,neutral,1.0236476614400303
+80,2,1,10,Phoebe,"No, no, he hasn't been around.",neutral,neutral,0.5296104550361633
+80,3,1,10,Max,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral,neutral,-0.7031983882188797
+80,4,1,10,Phoebe,Minsk?,surprise,negative,-1.1032705242648788
+80,5,1,10,Max,Minsk. It's in Russia.,neutral,neutral,0.0
+80,6,1,10,Phoebe,I know where Minsk is.,neutral,neutral,0.0
+80,7,1,10,Max,"We got the grant. Three years, all expenses paid.",joy,positive,0.5718308687210083
+80,8,1,10,Phoebe,"So when, when do you leave?",neutral,neutral,0.0
+80,9,1,10,Max,January first,neutral,neutral,0.0
+81,0,6,19,Elizabeth,You wanted to see me Professor Geller?,joy,positive,0.2946486175060272
+81,1,6,19,Ross,"Yes. Yes! Please, come in.",neutral,neutral,0.0
+81,2,6,19,Ross,Oo-oo!,joy,positive,0.2205521331395346
+82,0,6,21,Joey,Pretty great! Except I did get a little attitude from the robot.,joy,positive,1.1341686248779297
+82,1,6,21,Chandler,"Damn those robots, theyre supposed to be our",anger,negative,-0.16991778612136843
+82,2,6,21,Joey,"Anyway, it wasnt the robot, it was the guy who controls him.",neutral,neutral,-0.4249781370162964
+82,3,6,21,Joey,"Yeah, he doesnt like me.",anger,negative,-1.8321207046508787
+82,4,6,21,Joey,He had C.H.E.E.S.E.,neutral,neutral,-0.664776062965393
+82,5,6,21,Joey,knock over the sandwich right when I was reaching for one!,anger,negative,-1.4419547617435455
+82,6,6,21,Joey,Ohh!,surprise,positive,0.21343440453512663
+82,7,6,21,Phoebe,"Well, why dont you just get him fired?",neutral,neutral,0.0
+82,8,6,21,Joey,"I may have to, I hate to do it, but Im the star!",anger,negative,-0.5193427801132202
+82,9,6,21,Joey,Yknow?,neutral,neutral,-0.42038214206695557
+82,10,6,21,Joey,Theres a limit to how many sandwiches I can eat off the floor.,neutral,neutral,0.0
+82,11,6,21,Joey,Excuse me.,neutral,neutral,0.0
+82,12,6,21,Joey,Joey Tribbiani.,neutral,neutral,0.0
+82,13,6,21,Estelle,"Joe! Im glad I found ya, I got an audition for ya!",joy,positive,0.18161853695765728
+82,14,6,21,Joey,Wow!,surprise,positive,1.963670312275596
+82,15,6,21,Estelle,The thing is its kinda on the Q.T.,neutral,neutral,0.0
+82,16,6,21,Estelle,The actor who has the part doesnt know he might be fired.,neutral,neutral,0.0
+82,17,6,21,Estelle,"Its the lead in a series, Mac and C.H.E.E.S.E.",neutral,neutral,0.0
+82,18,6,21,Joey,Im the lead in Mac and C.H.E.E.S.E.!!,anger,negative,-0.8895314521106528
+83,0,8,23,Monica,Oh good God! If you want a baby so bad just go steal it!,anger,negative,-0.14847459838215293
+83,1,8,23,Monica,What is going on with you? Since when are you so crazy about babies?,surprise,positive,0.16238987929790838
+83,2,8,23,Chandler,Im not crazy about babies. Im crazy about us.,joy,positive,0.1664614130992117
+83,3,8,23,Monica,What?,surprise,positive,0.4776392920108421
+83,4,8,23,Chandler,"Look, weve always talked about having babies someday.",neutral,neutral,0.2182465260698354
+83,5,8,23,Chandler,"Im not saying it has to be right now, but Im starting to think that we can handle it.",neutral,neutral,-1.2438147240429345
+83,6,8,23,Chandler,Were good.,neutral,neutral,-0.9625497151181008
+83,7,8,23,Chandler,Were really good.,joy,positive,1.685491704940796
+84,0,5,13,Monica,"Oh, did you catch him?!",surprise,negative,-0.8250855850702195
+84,1,5,13,Ross,Wh-what did he say?!,surprise,negative,-1.4478568537624597
+84,2,5,13,Phoebe,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",neutral,neutral,-0.2215288943507936
+84,3,5,13,Rachel,Why?! Why not?!,surprise,negative,-0.21104233099149639
+84,4,5,13,Phoebe,"Come on, you saw the way he ran out of here!",sadness,negative,-0.6109832525253296
+84,5,5,13,Phoebe,He's gonna stick around and talk to the daughter he abandoned!,sadness,negative,-0.1551958766141297
+84,6,5,13,Joey,What did you say to him?,neutral,neutral,-0.13449636502553108
+84,7,5,13,Phoebe,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",neutral,neutral,0.0
+85,0,8,4,Rachel,"Oh yeah, sure.",neutral,neutral,0.0
+85,1,8,4,Rachel,"Okay, in about ten seconds youre gonna see him kiss me.",joy,positive,0.1605122435245585
+85,2,8,4,Ross,And in about five seconds youre gonna see why.,neutral,neutral,-1.762366433517144
+85,3,8,4,Rachel,Ross did I ever tell you about the time that I went backpacking through Western Europe?,neutral,neutral,-0.3812687510630113
+85,4,8,4,Rachel,"Okay, get ready to see some beggin!",joy,positive,0.5031601786613464
+85,5,8,4,Phoebe,"Oh, you came on to Ross!",surprise,positive,0.5959165692329407
+85,6,8,4,Rachel,What?!,surprise,negative,-0.8983682264397999
+85,7,8,4,Ross,Now Im so happy.,joy,positive,1.91908492403482
+85,8,8,4,Rachel,What are you talking about?!,surprise,negative,-0.935396540226435
+85,9,8,4,Monica,You used the Europe story!,joy,positive,0.963561761379242
+85,10,8,4,Chandler,Thats the magic story you use when you wanna have sex!,anger,negative,-0.6984569439825492
+85,11,8,4,Rachel,How do you know about that story?!,surprise,negative,-1.7437897248205445
+85,12,8,4,Joey,How do,neutral,neutral,0.0
+85,13,8,4,Rachel,I heard it from my friend Irene who heard it from some guy!,neutral,neutral,0.0
+85,14,8,4,Joey,Some guy!!,surprise,positive,0.3979452172302764
+85,15,8,4,Rachel,"No. No, she told me his name was Ken Adams.",neutral,neutral,0.0
+85,16,8,4,Joey,Ken Adams!!,surprise,positive,0.14495079154622914
+86,0,1,8,Ross,"How we doing, you guys ready?",neutral,neutral,0.0
+86,1,1,8,Monica,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,neutral,neutral,0.0
+86,2,1,8,Ross,Some days it's all I can think about.,neutral,neutral,0.24597913026809692
+86,3,1,8,Phoebe,"Hi, sorry I'm late, I couldn't find my bearings.",neutral,neutral,0.0
+87,0,9,20,Ross,"Oh... ok, fine.",neutral,neutral,-0.15364805321836617
+87,1,9,20,Ross,But... ehm...,neutral,neutral,0.0
+87,2,9,20,Ross,"I just have one question for you,    ehm...",neutral,neutral,-0.5276098251342773
+87,3,9,20,Ross,"When we exit should we walk, or run, or prance,    or stroll...",neutral,neutral,-0.278101849896764
+87,4,9,20,Charlie,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",joy,positive,1.1376869678497314
+88,0,8,14,Phoebe,I cant believe this! How long as this been going on?,surprise,negative,0.2262473968539851
+88,1,8,14,Monica,"Well umm, Alexandra has been",neutral,neutral,0.9705041614253318
+88,2,8,14,Phoebe,"Oh, it has a name?",surprise,negative,-0.6279183626174927
+88,3,8,14,Monica,"Phoebe, dont get upset!",sadness,negative,-1.454860101261815
+88,4,8,14,Phoebe,OkayOop! Too late! Im leaving! Come on Chandler lets go!,anger,negative,-0.4391642212867737
+88,5,8,14,Chandler,"Well, Phoebe I thought IdYeah, what the hell.",neutral,neutral,0.0
+89,0,2,6,Joey,Ben!,fear,negative,-0.5988672752837516
+89,1,2,6,Chandler,"Oh, that's good. Maybe he'll hear you and pull the cord.",anger,negative,-0.1577183551903074
+89,2,2,6,Joey,Stop the bus! Wait! Wait! Wait!,fear,negative,0.4049079141490033
+89,3,2,6,Monica,Are you sure he didn't break it because it really hurts?,neutral,neutral,0.0
+89,4,2,6,Doctor,"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",neutral,neutral,0.0
+89,5,2,6,Ross,"Oh, I'm sorry, I'm really sorry.",sadness,negative,-1.0756930830784555
+89,6,2,6,Ross,Sorry.,sadness,negative,1.1540582500920706
+89,7,2,6,Ross,Sorry!,sadness,negative,0.167509362126669
+89,8,2,6,Ross,I got my s's back!,joy,positive,0.189350491444781
+89,9,2,6,Ross,Which we can celebrate later.,neutral,neutral,-0.35825722490520917
+89,10,2,6,Ross,Celebrate.,neutral,neutral,-0.9309881805674678
+90,0,2,1,Rachel,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",joy,positive,0.2995175808524362
+90,1,2,1,Monica,"Rachel, how did this happen?",neutral,neutral,-0.8438870109585039
+90,2,2,1,Rachel,"I don't know, I just kinda ran into him last night.",fear,negative,-0.3321743905198886
+90,3,2,1,Phoebe,Where?,neutral,neutral,-1.138659954071045
+90,4,2,1,Rachel,At his apartment. Is this juice?,neutral,neutral,-0.3750808748130261
+90,5,2,1,Joey,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",anger,negative,-0.16011407455148507
+90,6,2,1,Rachel,"Oh God, I know I'm a pathetic loser.",sadness,negative,-1.2446736097335815
+91,0,2,2,Phoebe,"I licked my arm, what?",surprise,positive,0.1575467136764539
+91,1,2,2,Ross,It's breast milk.,neutral,neutral,0.0
+91,2,2,2,Phoebe,So?,neutral,neutral,0.0
+91,3,2,2,Rachel,"Phoebe, that is juice, squeezed from a person.",neutral,neutral,0.0
+91,4,2,2,Joey,What is the big deal?,anger,negative,-0.980017532309418
+91,5,2,2,Chandler,What did you just do?,surprise,negative,-0.18257119802349386
+91,6,2,2,Ross,"Ok, would people stop drinking the breast milk?",disgust,negative,-0.13763850344136852
+91,7,2,2,Phoebe,You won't even taste it?,neutral,neutral,0.0
+91,8,2,2,Ross,No!,disgust,negative,-2.0556665554841373
+91,9,2,2,Phoebe,Not even if you just pretend that it's milk?,neutral,neutral,0.0
+91,10,2,2,Ross,Not even if Carol's breast had a picture of a missing child on it.,disgust,negative,-0.7892987728118896
+92,0,6,11,All,Aww!,surprise,positive,1.8083134671059042
+92,1,6,11,Ross,"Hey Pheebs, could you please not put your feet up on my newold sheet?",disgust,negative,-0.4341839551925659
+92,2,6,11,Phoebe,Oh sure!  Noo!,joy,positive,1.0140591859817505
+92,3,6,11,Rachel,Ohh!!,surprise,negative,0.5954984664916992
+92,4,6,11,Ross,My apothecary table!!!,surprise,negative,0.6843067586421966
+92,5,6,11,Phoebe,What?!,surprise,negative,-1.6577976774784133
+92,6,6,11,Rachel,Noooooo!!,fear,negative,-1.7063006773573761
+92,7,6,11,Phoebe,"Ross, where did you get this?!",surprise,negative,-1.0387188108380272
+92,8,6,11,Rachel,"Oh my God, Phoebe,",anger,negative,-1.4174744188785553
+92,9,6,11,Phoebe,"Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!",anger,negative,-0.5261670351028442
+92,10,6,11,Phoebe,Well this doesnt even smell like opium.,disgust,negative,-1.3787818365926086
+92,11,6,11,Ross,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",anger,negative,-1.191648144665848
+93,0,2,1,Rachel,How is she?,sadness,negative,-0.947606658935547
+93,1,2,1,Phoebe,"It's too soon to tell. She's resting, which is a good sign.",neutral,neutral,-0.8145432714981808
+93,2,2,1,Ross,How's the hair?,neutral,neutral,0.0
+93,3,2,1,Phoebe,"I'm not gonna lie to you, Ross, it doesn't look good.",sadness,negative,0.4114475770229369
+93,4,2,1,Phoebe,"I put a clip on one side, which seems to have stopped the curling.",neutral,neutral,0.0
+93,5,2,1,Joey,Can we see her?,neutral,neutral,-1.3187131035198547
+93,6,2,1,Phoebe,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",sadness,negative,-0.5512689113616943
+93,7,2,1,Joey,How're you doing?,sadness,negative,-0.17464823051238731
+94,0,2,2,Chandler,Of course the packaging does appeal to grown-ups and kids alike.,neutral,neutral,-0.9309881805674678
+94,1,2,2,Carol,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",joy,positive,0.5868661880493163
+94,2,2,2,Ross,That would be no.,disgust,negative,-1.5631735189810172
+94,3,2,2,Phoebe,Come on. It doesn't taste bad.,neutral,neutral,0.0
+94,4,2,2,Joey,"Yeah, it's kinda sweet, sorta like, uh...",neutral,neutral,-0.35565428999029436
+94,5,2,2,Susan,Cantaloupe juice.,joy,positive,0.17565334366718943
+94,6,2,2,Joey,Exactly.,neutral,neutral,-0.4138133649174378
+94,7,2,2,Ross,You've tasted it? You've tasted it.,surprise,positive,0.3335153361215788
+94,8,2,2,Susan,Uh huh.,neutral,neutral,0.0
+94,9,2,2,Ross,"Oh, you've tasted it.",anger,negative,-0.16200594590125306
+94,10,2,2,Susan,"You can keep saying it, but it won't stop being true.",neutral,neutral,0.2066265406199257
+94,11,2,2,Ross,Gimme the bottle.  Gimme the towel.,anger,negative,0.5477489829063416
+95,0,8,4,Monica,I still don't get why Greg and Jenny would give us a fake number.,anger,negative,0.636055988073349
+95,1,8,4,Joey,"Yknow, if they knew what they were doing they probably didnt give you real names either.",neutral,neutral,0.6252766251564026
+95,2,8,4,Monica,"Okay, maybe people give out fake numbers, but they dont give out fake names.",anger,negative,0.1748720260919736
+95,3,8,4,Joey,"Oh yeah?  Hi, Ken Adams, nice to meet you.",neutral,neutral,0.0
+95,4,8,4,Phoebe,Regina Philange.,neutral,neutral,0.6198555813190012
+95,5,8,4,Chandler,"I still dont get it, we didnt do anything wrong.",surprise,negative,0.21349128723615252
+95,6,8,4,Monica,"I know! Although, you did tell an awful lot of jokes.",anger,negative,0.4776392920108421
+95,7,8,4,Chandler,I thought you said those jokes were funny. Joke! Joke! Joke!,surprise,positive,0.1707033963214375
+95,8,8,4,Monica,Joke. Joke. Blah! Blah!,anger,negative,1.3952972888946533
+95,9,8,4,Chandler,Well maybe it was all of your questions.,neutral,neutral,-1.144675612449646
+95,10,8,4,Monica,What about my questions?,neutral,neutral,0.0
+96,0,8,24,Cliff,"No, Im sorry. Its just my foot itches like crazy.",neutral,neutral,0.0
+96,1,8,24,Phoebe,"Oh, Ill get it.",neutral,neutral,0.0
+96,2,8,24,Cliff,Wow! I usually get to know a girl a little better before I let her spoon me.,surprise,negative,0.20210914419419979
+96,3,8,24,Phoebe,"Relax, its not like were forking.",joy,positive,1.0619417488574983
+97,0,3,20,Monica,"Look at it! Ohhh! Wallpapers a little faded, thats okay. Carpets a little loose. Hardwood floors!!",joy,positive,0.17361440778616277
+97,1,3,20,Phoebe,Hey!,joy,positive,0.9464779496192932
+97,2,3,20,Chandler,Hello.,neutral,neutral,0.0
+97,3,3,20,Phoebe,Oh! Ooh! Oh Monica! Its so beautiful.,joy,positive,1.8866676807403564
+97,4,3,20,Monica,I know!!!,joy,positive,0.3636901487019699
+97,5,3,20,Phoebe,"So, Im here, ready to play.",joy,positive,0.6509948765534617
+97,6,3,20,Monica,Okay.,neutral,neutral,0.0
+97,7,3,20,Phoebe,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",joy,positive,0.7755556337700966
+97,8,3,20,Monica,Whats this?,surprise,positive,0.5406747820181081
+97,9,3,20,Phoebe,"Thats a dog, every house should have a dog.",joy,positive,0.8490015860636646
+97,10,3,20,Monica,Not one that can pee on the roof.,surprise,negative,-0.1576618400512686
+97,11,3,20,Phoebe,"Well, maybe its so big because the house was built on radioactive waste.",joy,positive,1.214343975837771
+97,12,3,20,Chandler,And is this in case the house sneezes?,surprise,negative,-0.1607484070683043
+97,13,3,20,Phoebe,"No, no, thats the ghost for the attic.",neutral,neutral,0.0
+97,14,3,20,Monica,I dont want a ghost.,fear,negative,-0.4297059535980225
+97,15,3,20,Phoebe,"Well, nobody wants a ghost. But youve got one, because the house is sitting on an ancient Indian burial ground.",neutral,neutral,0.0
+97,16,3,20,Ross,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",surprise,positive,0.1209622955609051
+97,17,3,20,Phoebe,"Okay, obviously you dont know much about the U.S. government.",neutral,neutral,0.0
+97,18,3,20,Rachel,Hey!,surprise,positive,0.3104960017550784
+97,19,3,20,All,Hello.,neutral,neutral,0.0
+97,20,3,20,Rachel,I need to talk to you!,joy,positive,0.20522704338710618
+97,21,3,20,Ross,"Sure, whats up?",neutral,neutral,0.0
+98,0,3,12,Jeannine,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",anger,negative,0.1411525649175811
+98,1,3,12,Monica,"Please, I'm not going for anything.",disgust,negative,-0.8844339847564697
+98,2,3,12,Jeannine,"Well, if you don't, I will.",anger,negative,0.7050041556358337
+98,3,3,12,Monica,Would you please go?,joy,positive,0.2022844811961395
+98,4,3,12,Ross,I would!,anger,negative,-1.6279087551804992
+99,0,3,20,Monica,"Hey, guys, guys, did you see my new, china cabinet?!",joy,positive,0.19899428483826753
+99,1,3,20,Ross and Rachel,Uh-huh.,neutral,neutral,0.3104960017550784
+99,2,3,20,Phoebe,"Watch, watch.",joy,positive,1.1434284573373361
+99,3,3,20,Ross and Rachel,Ooohhhh!!,surprise,positive,0.21234308319319517
+99,4,3,20,Phoebe,"And, and!",joy,positive,0.2022312542467688
+99,5,3,20,Ross and Rachel,Ahhhh!!,surprise,positive,0.21014766524675466
+99,6,3,20,Chandler,"Hey, my Fathers house does that!",surprise,positive,0.9221067428588867
+99,7,3,20,Rachel,"O-o-o-okay, how did it go? Tell me everything.",neutral,neutral,-0.7341704249382018
+99,8,3,20,Chandler,"Well, the movie was great, dinner was great, and theres nothing like a cool, crisp New York evening.",neutral,neutral,0.20656018078009808
+100,0,1,1,Monica,Okay. Its Emma.,neutral,neutral,0.0
+101,0,8,4,Rachel,Emma!  See? I dont want it.,sadness,negative,0.3104960017550784
+102,0,1,2,Monica,Take it.,neutral,neutral,-1.1474844956641732
+102,1,1,2,Rachel,What?,neutral,neutral,0.0
+103,0,8,24,Monica,Its clearly an Emma.,neutral,neutral,0.3104960017550784
+103,1,8,24,Rachel,"Oh honey, but you love that name.",sadness,negative,-0.5484846353530883
+103,2,8,24,Monica,"Yeah, but I love you more.",joy,positive,0.8357052206993103
+103,3,8,24,Monica,"Besides yknow, nothing goes with Bing.",neutral,neutral,1.447505676175325
+103,4,8,24,Monica,So Im screwed.,joy,positive,1.0596998155117037
+104,0,5,8,Chandler,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",joy,positive,0.5678432583808899
+104,1,5,8,Chandler,Nice try.,sadness,negative,0.4621911346912384
+104,2,5,8,Monica,"Wait, wait, wait!",joy,positive,0.3470504784698427
+104,3,5,8,Chandler,"Look, Monica",neutral,neutral,0.0
+104,4,5,8,Monica,Look!,surprise,negative,-1.5212957539571192
+104,5,5,8,Chandler,This is not going to work.,anger,negative,-0.8159637451171875
+104,6,5,8,Monica,I bet this will work!,joy,positive,0.7859758615493774
+104,7,5,8,Chandler,You are so great! I love you!,joy,positive,0.7583664655685425
+104,8,5,8,Monica,What?,surprise,positive,0.4776392920108421
+104,9,5,8,Chandler,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",fear,negative,-0.9907016915312994
+104,10,5,8,Monica,You said you loved me! I can't believe this!,surprise,positive,1.729859709739685
+104,11,5,8,Chandler,No I didn't!,fear,negative,-1.0826057120940789
+104,12,5,8,Monica,"Yes, you did!",surprise,positive,0.22170244321333676
+104,13,5,8,Chandler,No I didn't!,fear,negative,-1.0826057120940789
+104,14,5,8,Monica,You love me!,joy,positive,0.7961726188659668
+104,15,5,8,Chandler,No I don't! Stop it! Stop it! Stop it! Stop it!,anger,negative,-1.4151207208633423
+105,0,8,4,Monica,Hello Greg?,neutral,neutral,-1.4728316957780834
+105,1,8,4,Monica,"Hi, this is Monica from the plane?",neutral,neutral,-0.46905102729797366
+105,2,8,4,Monica,"Listen, the number that you gave me 853-5   That is their old number!",anger,negative,-1.1426620483398438
+105,3,8,4,Monica,Jennys been giving it out since they moved!,anger,negative,-0.6591831487214606
+105,4,8,4,Chandler,Jenny! That is so Jenny!,joy,positive,0.17967924017744963
+105,5,8,4,Monica,"Hey listen umm, how would you like to get together?",neutral,neutral,0.0
+105,6,8,4,Monica,Say next Saturday?,neutral,neutral,0.0
+105,7,8,4,Monica,"Okay, how about Sunday?",neutral,neutral,0.0
+105,8,8,4,Monica,"Okay umm, the week after that?",joy,positive,1.5314023767856497
+105,9,8,4,Monica,The week after that?,joy,positive,1.4354351468732744
+105,10,8,4,Monica,Yknow what Greg?,anger,negative,-0.1631828893179561
+105,11,8,4,Monica,"We are good, interesting, funny people with",anger,negative,-0.20606182633027892
+106,0,6,18,Joey,Hey Chandler! Yknow that girl you went to college with who-who became a movie director?,neutral,neutral,-0.6877028281441646
+106,1,6,18,Chandler,"Oh yeah, Dana Keystone. She was in my Movement class.",neutral,neutral,-0.21891002512703395
+106,2,6,18,Phoebe,Whats a Movement class?,neutral,neutral,-0.16781054440569498
+106,3,6,18,Monica,Its Chandlers way of pretending he didnt take mime.,neutral,neutral,-0.34318193793296814
+106,4,6,18,Joey,"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",joy,positive,0.38464487745299536
+106,5,6,18,Chandler,"Oh, I dont know man. I havent talked to her in like ten years.",neutral,neutral,-0.8991586947641679
+107,0,6,20,Phoebe,I am.,neutral,neutral,0.0
+107,1,6,20,Rachel,"Joey, what are you talking about? Youre a terrific actor.",neutral,neutral,0.0
+107,2,6,20,Joey,You really think so?,surprise,positive,0.1530397579979823
+107,3,6,20,Rachel,"Ugh, how can you even ask that question?!",surprise,positive,0.36781423393331636
+108,0,5,3,Joey,Ross! Get a shot of this. (He's carrying an issue of the,surprise,positive,0.3031934391417135
+108,1,5,3,Phoebe,"Oh, okay, I'm having another one!",fear,negative,-0.9994216521718897
+108,2,5,3,Phoebe,"This one doesn't hurt eitherOoh, yes it does!",surprise,negative,0.18052713614286375
+108,3,5,3,Phoebe,Ow!,anger,negative,-0.8014720487243636
+108,4,5,3,Phoebe,Ow!,anger,negative,1.4018957614898682
+108,5,5,3,Phoebe,Ow!,anger,negative,0.7392117402715996
+108,6,5,3,Phoebe,Ow!,anger,negative,0.9330436587333679
+108,7,5,3,Phoebe,Ooh!,surprise,negative,0.45158088207244873
+108,8,5,3,Phoebe,"Oh, I was kinda hoping that was it.",sadness,negative,0.36710186004638673
+108,9,5,3,Ross,"Hey, where are Monica and Rachel anyway?",neutral,neutral,0.990760898590088
+108,10,5,3,Frank,"Yeah, I love you. Okay, bye!  Hi!",joy,positive,2.311655044555664
+108,11,5,3,Rachel,Hi!,joy,positive,0.3179904317256934
+108,12,5,3,Frank,"That was Alice's mom, she said she left five hours ago. She should be here by now!",fear,negative,-0.1563006090015353
+108,13,5,3,Rachel,"Oh, honey, dont worry. She's gonna make it on time.",neutral,neutral,0.0
+108,14,5,3,Frank,Yeah.,neutral,neutral,0.0
+109,0,5,9,Monica,I guess I set up the video camera to try and entice Joey.,neutral,neutral,1.2204957387392028
+109,1,5,9,Joey,But sadly I could not be enticed.,joy,positive,0.5480045080184937
+109,2,5,9,Ross,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,disgust,negative,-0.2998459627185053
+109,3,5,9,Monica,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,sadness,negative,-1.049781322479248
+109,4,5,9,Joey,"Well, I think we've all learned something about who's disgusting and who's not.",anger,negative,0.58343905210495
+109,5,5,9,Joey,Eh?,neutral,neutral,0.6205602169036866
+109,6,5,9,Joey,"All right, now, I'm going to get back to my bucket.",neutral,neutral,-0.28644916275488796
+109,7,5,9,Joey,"I'm only eating the skin, so the chicken's up for grabs.",neutral,neutral,-0.23428498410041065
+110,0,6,11,Phoebe,"Ohh, okay, they gave you the old time pricing.",neutral,neutral,0.3408150774483403
+110,1,6,11,Rachel,Yeah.,neutral,neutral,1.1739989835262534
+110,2,6,11,Phoebe,"Well, what period is it from?",neutral,neutral,0.33787565443542533
+110,3,6,11,Rachel,"Uh, its from yore. Like the days of yore. Yknow?",neutral,neutral,0.9552861025662551
+110,4,6,11,Phoebe,"Yes, yes I do.",neutral,neutral,0.7935779690742493
+110,5,6,11,Phoebe,"God, oh its just perfect!",joy,positive,0.7705868482589722
+110,6,6,11,Phoebe,I bet it has a great story behind it too.,joy,positive,0.5683793396268086
+110,7,6,11,Phoebe,Did they tell you anything?,neutral,neutral,0.3542103872957938
+110,8,6,11,Rachel,"Yes! That I know, this is from White Plains.",joy,positive,0.4889681339263916
+110,9,6,11,Phoebe,"White Plains. Oh, it sounds like such a magical place.",joy,positive,0.5983265042304993
+111,0,3,25,Chandler,"So, you still dont think Im boyfriend material?",anger,negative,0.2616393445424041
+111,1,3,25,Monica,Huh?,neutral,neutral,-0.1517706558636025
+111,2,3,25,Chandler,I saw you checking me out during the game last night.,neutral,neutral,0.7781442403793335
+112,0,4,1,Phoebe,"I, umm, shut up!",anger,negative,-1.6580464871254463
+112,1,4,1,Phoebe,Good-bye Phoebe and Ursula. Ill miss you. P.S. Your Mom lives in Montauk. You just wrote this!,sadness,negative,-0.7321559214872693
+112,2,4,1,Ursula,"Well, its pretty much the gist. Well, except for the poem. You read the poem, right?",neutral,neutral,-0.3886158582155659
+112,3,4,1,Phoebe,Noooo!!,sadness,negative,-0.17580169963245673
+112,4,4,1,Ursula,"All right, hang on!",neutral,neutral,-0.8983682264397999
+113,0,6,2,Monica,"Rachel, its going to happen. Chandler is gonna move in here.",neutral,neutral,-0.24754155419890722
+113,1,6,2,Rachel,But I,sadness,negative,-0.3794357492358209
+113,2,6,2,Monica,"No-no, wait!",neutral,neutral,0.6240334510803223
+113,3,6,2,Monica,"Just let me finish, okay?",sadness,negative,-0.9456222030570771
+113,4,6,2,Monica,"This isnt something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",neutral,neutral,-0.22639354744732998
+113,5,6,2,Monica,And it,neutral,neutral,-0.9309881805674678
+113,6,6,2,Rachel,It is? Really?,surprise,negative,-0.351853937462586
+113,7,6,2,Monica,"Yeah, sweetie.",neutral,neutral,-0.43349771996829034
+113,8,6,2,Rachel,"I mean were not, were not gonna live together anymore?",sadness,negative,1.151598567314899
+113,9,6,2,Monica,No.,sadness,negative,-2.244519892379671
+113,10,6,2,Rachel,What? Oh my God! Im gonna miss you so much!,sadness,negative,-0.15424937469510347
+113,11,6,2,Monica,Im gonna miss you!,sadness,negative,-0.3311579723504572
+113,12,6,2,Rachel,I mean its the end of an era!,sadness,negative,0.19354004244625678
+113,13,6,2,Monica,I know!,sadness,negative,-0.6001452386422521

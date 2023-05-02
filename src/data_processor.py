@@ -135,7 +135,7 @@ mosi_train_data = label_mapping(mosi_train_data)
 print('len mosi_train:{}'.format(len(mosi_train_data)))
 print('len mosi_dev:{}'.format(len(mosi_dev_data)))
 print('len mosi_test:{}'.format(len(mosi_test_data)))
-mosi_test = load_pickle(mosi_DATA_PATH + '/test.pkl')
+# mosi_test = load_pickle(mosi_DATA_PATH + '/test.pkl')
 
 mosei_DATA_PATH = '../datasets/MOSEI'
 mosei_train = load_pickle(mosei_DATA_PATH + '/new_train_align_v4_0610.pkl')

@@ -69,9 +69,12 @@ class MOSI:
 
         # If cached data if already exists
         try:
-            self.train = load_pickle(DATA_PATH + '/train_align.pkl')
-            self.dev = load_pickle(DATA_PATH + '/dev_align.pkl')
-            self.test = load_pickle(DATA_PATH + '/test_align.pkl')
+            # self.train = load_pickle(DATA_PATH + '/train_align.pkl')
+            # self.dev = load_pickle(DATA_PATH + '/dev_align.pkl')
+            # self.test = load_pickle(DATA_PATH + '/test_align.pkl')
+            self.train = load_pickle(DATA_PATH + '/new_train_align_v4_0610.pkl')
+            self.dev = load_pickle(DATA_PATH + '/new_dev_align_v4_0610.pkl')
+            self.test = load_pickle(DATA_PATH + '/new_test_align_v4_0610.pkl')
             self.multi = True
             self.pretrained_emb, self.word2id = None, None
 
@@ -236,9 +239,12 @@ class MOSEI:
 
         # If cached data if already exists
         try:
-            self.train = load_pickle(DATA_PATH + '/train_align.pkl')
-            self.dev = load_pickle(DATA_PATH + '/dev_align.pkl')
-            self.test = load_pickle(DATA_PATH + '/test_align.pkl')
+            # self.train = load_pickle(DATA_PATH + '/train_align.pkl')
+            # self.dev = load_pickle(DATA_PATH + '/dev_align.pkl')
+            # self.test = load_pickle(DATA_PATH + '/test_align.pkl')
+            self.train = load_pickle(DATA_PATH + '/new_train_align_v4_0610.pkl')
+            self.dev = load_pickle(DATA_PATH + '/new_dev_align_v4_0610.pkl')
+            self.test = load_pickle(DATA_PATH + '/new_test_align_v4_0610.pkl')
             self.multi = True
             self.pretrained_emb, self.word2id = None, None
 
@@ -480,12 +486,19 @@ class MOSELDMP:
         # self.meld_test = load_pickle(DATA_PATH + '/new_meld_test_align_v4_0424_a_6c_2.pkl')
         # self.iemocap_test = load_pickle(DATA_PATH + '/new_iemocap_test_align_v4_0424_a_6c_2.pkl')
         
-        self.train = load_pickle(DATA_PATH + '/new_moseldmp_train_align_v4_0424_a_6c_contexts.pkl')
-        self.dev = load_pickle(DATA_PATH + '/new_moseldmp_dev_align_v4_0424_a_6c_contexts.pkl')
-        self.mosi_test = load_pickle(DATA_PATH + '/new_mosi_test_align_v4_0424_a_6c_contexts.pkl')
-        self.mosei_test = load_pickle(DATA_PATH + '/new_mosei_test_align_v4_0424_a_6c_contexts.pkl')
-        self.meld_test = load_pickle(DATA_PATH + '/new_meld_test_align_v4_0424_a_6c_contexts.pkl')
-        self.iemocap_test = load_pickle(DATA_PATH + '/new_iemocap_test_align_v4_0424_a_6c_contexts.pkl')
+        # self.train = load_pickle(DATA_PATH + '/new_moseldmp_train_align_v4_0424_a_6c_contexts.pkl')
+        # self.dev = load_pickle(DATA_PATH + '/new_moseldmp_dev_align_v4_0424_a_6c_contexts.pkl')
+        # self.mosi_test = load_pickle(DATA_PATH + '/new_mosi_test_align_v4_0424_a_6c_contexts.pkl')
+        # self.mosei_test = load_pickle(DATA_PATH + '/new_mosei_test_align_v4_0424_a_6c_contexts.pkl')
+        # self.meld_test = load_pickle(DATA_PATH + '/new_meld_test_align_v4_0424_a_6c_contexts.pkl')
+        # self.iemocap_test = load_pickle(DATA_PATH + '/new_iemocap_test_align_v4_0424_a_6c_contexts.pkl')
+        self.train = load_pickle(DATA_PATH + '/new_moseldmp_train_align_v4_0610_a_6c_sep_contexts_speaker_v.pkl')
+        self.dev = load_pickle(DATA_PATH + '/new_moseldmp_dev_align_v4_0610_a_6c_sep_contexts_speaker_v.pkl')
+        self.mosi_test = load_pickle(DATA_PATH + '/new_mosi_test_align_v4_0610_a_6c_sep_contexts_speaker_v.pkl')
+        self.mosei_test = load_pickle(DATA_PATH + '/new_mosei_test_align_v4_0610_a_6c_sep_contexts_speaker_v.pkl')
+        self.meld_test = load_pickle(DATA_PATH + '/new_meld_test_align_v4_0610_a_6c_sep_contexts_speaker_v.pkl')
+        self.iemocap_test = load_pickle(DATA_PATH + '/new_iemocap_test_align_v4_0610_a_6c_sep_contexts_speaker_v.pkl')
+
 
         self.multi = True
         self.pretrained_emb, self.word2id = None, None
@@ -519,10 +532,13 @@ class IEMOCAP:
         DATA_PATH = str(config.dataset_dir)
 
         # If cached data if already exists
-        data = load_pickle(DATA_PATH + '/iemocap_data.pkl')
-        self.train = data['train']
-        self.dev = data['valid']
-        self.test = data['test']
+        # data = load_pickle(DATA_PATH + '/iemocap_data.pkl')
+        # self.train = data['train']
+        # self.dev = data['valid']
+        # self.test = data['test']
+        self.train = load_pickle(DATA_PATH + '/new_train_por_v4_0610_6c_sep_contexts_v.pkl')
+        self.dev = load_pickle(DATA_PATH + '/new_dev_por_v4_0610_6c_sep_contexts_v.pkl')
+        self.test = load_pickle(DATA_PATH + '/new_test_por_v4_0610_6c_sep_contexts_v.pkl')
         self.multi=True
         self.pretrained_emb, self.word2id = None, None
 
@@ -639,9 +655,12 @@ class MELD:
         DATA_PATH = str(config.dataset_dir)
 
         # If cached data if already exists
-        self.train = load_pickle(DATA_PATH + '/train.pkl')
-        self.dev = load_pickle(DATA_PATH + '/dev.pkl')
-        self.test = load_pickle(DATA_PATH + '/test.pkl')
+        # self.train = load_pickle(DATA_PATH + '/train.pkl')
+        # self.dev = load_pickle(DATA_PATH + '/dev.pkl')
+        # self.test = load_pickle(DATA_PATH + '/test.pkl')
+        self.train = load_pickle(DATA_PATH + '/new_train_align_v4_0610_sep_contexts_speaker.pkl')
+        self.dev = load_pickle(DATA_PATH + '/new_dev_align_v4_0610_sep_contexts_speaker.pkl')
+        self.test = load_pickle(DATA_PATH + '/new_test_align_v4_0610_sep_contexts_speaker.pkl')
 
         self.multi=False
 

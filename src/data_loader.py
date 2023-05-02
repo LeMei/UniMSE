@@ -13,7 +13,7 @@ from utils.tools import contain_nonum, is_number
 
 from create_dataset import MOSI, MOSEI, MOSEII, MOSELD, MOSELDMP, IEMOCAP, MELD, EmotionLines, Laptops, Restaurants, PAD, UNK
 from config import DEVICE
-model_path = '../t5-base'
+model_path = 't5-base'
 # model_path = '../t5-large'
 tokenizer = T5Tokenizer.from_pretrained(model_path)
 

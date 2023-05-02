@@ -1,0 +1,1109 @@
+index	Dialogue_ID	Emotion	EndTime	Episode	Season	Sentiment	Speaker	SrNo	StartTime	Utterance	Utterance_ID	idx	elapse
+dia0_utt0	0	sadness	00:21:00,049	7	4	negative	Phoebe	1	00:20:57,256	Oh my God, he’s lost it. He’s totally lost it.	0	0_0	2.793
+dia0_utt1	0	surprise	00:21:03,261	7	4	negative	Monica	2	00:21:01,927	What?	1	0_1	1.334
+dia1_utt0	1	neutral	00:12:30,915	4	4	neutral	Ross	3	00:12:24,660	Or! Or, we could go to the bank, close our accounts and cut them off at the source.	0	1_0	6.255000000000001
+dia1_utt1	1	joy	00:12:33,960	4	4	positive	Chandler	4	00:12:32,334	You’re a genius!	1	1_1	1.6260000000000001
+dia1_utt2	1	sadness	00:12:37,505	4	4	negative	Joey	5	00:12:34,211	Aww, man, now we won’t be bank buddies!	2	1_2	3.294
+dia1_utt3	1	neutral	00:12:39,841	4	4	neutral	Chandler	6	00:12:38,466	Now, there’s two reasons.	3	1_3	1.375
+dia1_utt4	1	neutral	0:12:44,074	4	4	neutral	Phoebe	7	0:12:43,012	Hey.	4	1_4	1.062
+dia1_utt5	1	joy	0:12:45,189	4	4	positive	All	8	0:12:44,074	Hey!	5	1_5	1.115
+dia1_utt6	1	neutral	00:12:50,852	4	4	neutral	Phoebe	9	00:12:45,347	Ohh, you guys, remember that cute client I told you about? I bit him.	6	1_6	5.505000000000001
+dia1_utt7	1	surprise	0:12:55,002	4	4	negative	Rachel	10	0:12:52,730	Where?!	7	1_7	2.2720000000000002
+dia1_utt8	1	neutral	0:12:55,824	4	4	neutral	Phoebe	11	0:12:55,002	On the touchy.	8	1_8	0.8220000000000001
+dia1_utt9	1	neutral	00:12:58,193	4	4	neutral	Ross	12	00:12:56,025	And	9	1_9	2.168
+dia1_utt10	1	surprise	00:13:01,863	4	4	negative	Phoebe	13	00:12:59,195	No, I know!	10	1_10	2.668
+dia1_utt11	1	anger	00:13:10,163	4	4	negative	Phoebe	14	00:12:59,195	I-I’m sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.	11	1_11	10.968
+dia1_utt12	1	neutral	00:13:16,044	4	4	neutral	Monica	15	00:13:07,495	Well, next time your massaging him, you should try and distract yourself.	12	1_12	8.549000000000001
+dia1_utt13	1	joy	00:13:17,712	4	4	positive	Joey	16	00:13:10,372	Yeah! Yeah! Yeah! Like-like when I’m doing something exciting and I don’t wanna get	13	1_13	7.340000000000001
+dia1_utt14	1	neutral	0:13:30,483	4	4	neutral	Chandler	17	0:13:29,391	Thank you, Joey.	14	1_14	1.092
+dia1_utt15	1	neutral	0:13:31,611	4	4	neutral	Joey	18	0:13:30,483	No-no, thank you.	15	1_15	1.1280000000000001
+dia2_utt0	2	neutral	00:08:57,224	4	6	neutral	Joey	19	00:08:53,241	Hey Estelle, listen	0	2_0	3.983
+dia2_utt1	2	surprise	00:09:01,206	4	6	positive	Estelle	20	00:08:53,241	Well! Well! Well! Joey Tribbiani! So you came back huh? They	1	2_1	7.965000000000001
+dia2_utt2	2	surprise	00:09:13,476	4	6	negative	Joey	21	00:09:08,548	What are you talkin’ about? I never left you! You’ve always been my agent!	2	2_2	4.928
+dia2_utt3	2	surprise	0:09:14,476	4	6	positive	Estelle	22	0:09:13,594	Really?!	3	2_3	0.882
+dia2_utt4	2	joy	0:09:15,728	4	6	positive	Joey	23	0:09:14,476	Yeah!	4	2_4	1.252
+dia2_utt5	2	neutral	00:09:19,224	4	6	neutral	Estelle	24	00:09:16,138	Oh well, no harm, no foul.	5	2_5	3.0860000000000003
+dia3_utt0	3	neutral	0:01:02,271	20	5	neutral	Gary	25	0:01:00,894	Okay, you guys free tonight?	0	3_0	1.377
+dia3_utt1	3	joy	0:01:03,961	20	5	positive	Ross	26	0:01:02,271	Yeah!!	1	3_1	1.6900000000000002
+dia3_utt2	3	surprise	00:01:07,608	20	5	negative	Chandler	27	00:01:04,731	Tonight? You-you didn't say it was going to be at nighttime.	2	3_2	2.8770000000000002
+dia4_utt0	4	neutral	00:14:36,040	7	7	neutral	Ross	28	00:14:33,289	Yes? Yes?! How can I help you?	0	4_0	2.7510000000000003
+dia4_utt1	4	neutral	00:14:38,001	7	7	neutral	Guy	29	00:14:36,208	Yeah, we were…we were just looking around.	1	4_1	1.7930000000000001
+dia4_utt2	4	surprise	00:14:40,587	7	7	negative	Ross	30	00:14:38,210	Oh-oh, you’re-you’re fellow scholars.	2	4_2	2.3770000000000002
+dia4_utt3	4	neutral	00:14:43,256	7	7	neutral	Ross	31	00:14:40,754	What exactly were you looking for, hmm?	3	4_3	2.5020000000000002
+dia4_utt4	4	neutral	00:14:50,597	7	7	neutral	Ross	32	00:14:43,424	Perhaps,  perhaps Dr. Chester Stock’s musings on the Smiledon Californicus?	4	4_4	7.173
+dia4_utt5	4	neutral	00:14:53,099	7	7	neutral	Guy	33	00:14:51,932	Uhh….	5	4_5	1.167
+dia4_utt6	4	anger	00:15:11,743	7	7	negative	Ross	34	00:14:51,932	Ah… Ah…Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion’s views on evolution?	6	4_6	19.811
+dia4_utt7	4	neutral	00:15:16,623	7	7	neutral	Woman	35	00:15:12,036	Uh, actually I find Marion’s views far too progressionist.	7	4_7	4.587000000000001
+dia4_utt8	4	neutral	00:15:24,547	7	7	neutral	Ross	36	00:15:21,253	I find Marion’s views far too progressionist.	8	4_8	3.294
+dia4_utt9	4	surprise	00:15:27,967	7	7	positive	Woman	37	00:15:24,798	I’m sorry, who are you?	9	4_9	3.169
+dia4_utt10	4	neutral	00:15:30,386	7	7	neutral	Ross	38	00:15:28,177	I’m a professor here uh, Ross…Geller.	10	4_10	2.209
+dia4_utt11	4	surprise	00:15:41,022	7	7	positive	Woman	39	00:15:30,638	Ross Geller, why do I know that name? It’s uh—Wait!  Did you write this?	11	4_11	10.384
+dia4_utt12	4	surprise	00:15:50,490	7	7	positive	Ross	40	00:15:41,899	Yes! You’re the person who checked out my book?!	12	4_12	8.591000000000001
+dia4_utt13	4	surprise	00:15:58,311	7	7	positive	Woman	41	00:15:56,830	Y’know, you look nothing like I would’ve thought. You’re…you’re so young.	13	4_13	1.481
+dia4_utt14	4	neutral	00:16:03,544	7	7	neutral	Ross	42	00:15:59,500	Well I uh, I skipped forth grade.	14	4_14	4.0440000000000005
+dia5_utt0	5	anger	00:18:31,234	7	2	negative	Ross	43	00:18:28,565	You had no right to tell me you ever had feelings for me.	0	5_0	2.669
+dia5_utt1	5	surprise	00:18:33,528	7	2	negative	Rachel	44	00:18:31,693	What?	1	5_1	1.8350000000000002
+dia5_utt2	5	anger	00:18:35,196	7	2	negative	Ross	45	00:18:31,693	I was doing great with Julie before I found out about you.	2	5_2	3.503
+dia5_utt3	5	anger	00:18:39,951	7	2	negative	Rachel	46	00:18:35,364	Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?	3	5_3	4.587000000000001
+dia5_utt4	5	anger	0:19:14,030	7	2	negative	Ross	47	0:19:12,818	The point is I...	4	5_4	1.212
+dia5_utt5	5	anger	0:19:15,699	7	2	negative	Ross	48	0:19:14,030	I don't need this right now, OK.	5	5_5	1.669
+dia5_utt6	5	anger	00:19:20,741	7	2	negative	Ross	49	00:19:15,821	It, it's too late, I'm with somebody else, I'm happy.	6	5_6	4.92
+dia5_utt7	5	anger	00:19:20,741	7	2	negative	Ross	50	00:19:17,781	This ship has sailed.	7	5_7	2.96
+dia5_utt8	5	anger	0:19:29,588	7	2	negative	Rachel	51	0:19:27,166	Alright, fine, you go ahead and you do that, alright Ross.	8	5_8	2.422
+dia5_utt9	5	anger	0:19:29,727	7	2	negative	Ross	52	0:19:29,588	Fine.	9	5_9	0.139
+dia5_utt10	5	anger	00:19:31,210	7	2	negative	Rachel	53	00:19:29,835	Cause I don't need your stupid ship.	10	5_10	1.375
+dia5_utt11	5	anger	0:19:32,440	7	2	negative	Ross	54	0:19:31,378	Good.	11	5_11	1.062
+dia5_utt12	5	anger	0:19:33,256	7	2	negative	Rachel	55	0:19:32,440	Good.	12	5_12	0.8160000000000001
+dia6_utt0	6	joy	00:03:14,610	3	8	positive	Phoebe	56	00:03:10,273	Oh, it's so romantic to send people off on their honeymoon.	0	6_0	4.337000000000001
+dia6_utt1	6	neutral	00:03:25,120	3	8	neutral	Joey	57	00:03:14,861	Y’know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.	1	6_1	10.259
+dia6_utt2	6	neutral	0:03:22,044	3	8	neutral	Phoebe	58	0:03:19,032	All in good time my love.	2	6_2	3.012
+dia6_utt3	6	neutral	0:03:25,177	3	8	neutral	Phoebe	59	0:03:22,044	All in good time.	3	6_3	3.133
+dia6_utt4	6	surprise	0:03:27,415	3	8	negative	Phoebe	60	0:03:26,247	Oh shoot!	4	6_4	1.1680000000000001
+dia6_utt5	6	sadness	0:03:29,417	3	8	negative	Phoebe	61	0:03:27,415	I left my guitar in their apartment.	5	6_5	2.0020000000000002
+dia6_utt6	6	neutral	0:03:31,086	3	8	neutral	Phoebe	62	0:03:29,417	Well you can let me in later.	6	6_6	1.669
+dia6_utt7	6	neutral	0:03:33,589	3	8	neutral	Joey	63	0:03:31,211	I don’t have a key, they took mine to give to you.	7	6_7	2.378
+dia6_utt8	6	surprise	0:03:33,746	3	8	negative	Phoebe	64	0:03:33,589	What?! They took mine to give to you!	8	6_8	0.157
+dia6_utt9	6	surprise	00:03:38,884	3	8	negative	Joey	65	00:03:33,880	Why would they take away our keys?	9	6_9	5.0040000000000004
+dia7_utt0	7	joy	00:15:03,557	20	8	positive	Ross	66	00:15:01,722	Wow! It looks like we got a lot of good stuff.	0	7_0	1.8350000000000002
+dia7_utt1	7	joy	00:15:06,560	20	8	positive	Rachel	67	00:15:03,724	Oh we did, but my mom got us the greatest gift of all.	1	7_1	2.8360000000000003
+dia7_utt2	7	neutral	00:15:08,729	20	8	neutral	Ross	68	00:15:06,769	A	2	7_2	1.9600000000000002
+dia7_utt3	7	neutral	00:15:14,026	20	8	neutral	Rachel	69	00:15:09,897	No. She’s going to live with us for eight weeks.	3	7_3	4.1290000000000004
+dia7_utt4	7	surprise	00:15:15,672	20	8	positive	Ross	70	00:15:14,276	Uh, what?	4	7_4	1.3960000000000001
+dia7_utt5	7	joy	00:15:19,656	20	8	positive	Rachel	71	00:15:15,861	Yes! She’s gonna help us take care of the baby! Woo-hoo.	5	7_5	3.7950000000000004
+dia7_utt6	7	surprise	00:15:22,743	20	8	negative	Ross	72	00:15:20,574	What—You’re not serious.	6	7_6	2.169
+dia7_utt7	7	anger	00:15:27,247	20	8	negative	Ross	73	00:15:22,910	I mean she’s a very nice woman, but there is no way we can take eight weeks of her.	7	7_7	4.337000000000001
+dia7_utt8	7	disgust	0:15:28,999	20	8	negative	Ross	74	0:15:27,414	She’ll drive us totally crazy.	8	7_8	1.5850000000000002
+dia7_utt9	7	joy	0:15:29,508	20	8	positive	Mrs. Green	75	0:15:28,999	Hi Ross!	9	7_9	0.509
+dia7_utt10	7	joy	00:15:31,835	20	8	positive	Ross	76	00:15:29,625	Hi roomie!	10	7_10	2.21
+dia8_utt0	8	neutral	00:03:20,199	19	7	neutral	Monica	77	00:03:17,697	Hey! What did you decide to do about the movie?	0	8_0	2.5020000000000002
+dia8_utt1	8	neutral	00:03:22,743	19	7	neutral	Joey	78	00:03:20,366	I don’t know!	1	8_1	2.3770000000000002
+dia8_utt2	8	neutral	0:03:24,621	19	7	neutral	Joey	79	0:03:23,119	It’s not like it’s porn!	2	8_2	1.502
+dia8_utt3	8	neutral	0:03:27,226	19	7	neutral	Joey	80	0:03:24,621	This is a serious, legitimate movie.	3	8_3	2.605
+dia8_utt4	8	neutral	00:03:29,750	19	7	neutral	Joey	82	00:03:27,332	And the nudity is really important to the story.	4	8_4	2.418
+dia8_utt5	8	neutral	00:03:32,085	19	7	neutral	Monica	83	00:03:29,918	That’s what you say about porn.	5	8_5	2.1670000000000003
+dia8_utt6	8	neutral	00:03:35,339	19	7	neutral	Joey	84	00:03:33,004	You’re right. Maybe I shouldn’t even go on the call back.	6	8_6	2.335
+dia8_utt7	8	joy	00:03:42,304	19	7	positive	Monica	85	00:03:35,506	No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!	7	8_7	6.798
+dia8_utt8	8	neutral	0:03:44,015	19	7	neutral	Joey	86	0:03:42,972	Well that’s true.	8	8_8	1.0430000000000001
+dia8_utt9	8	neutral	0:03:46,777	19	7	neutral	Joey	87	0:03:44,015	And I am only naked in one scene.	9	8_9	2.762
+dia8_utt10	8	neutral	0:03:48,325	19	7	neutral	Joey	88	0:03:46,777	Plus it sounds really great.	10	8_10	1.548
+dia8_utt11	8	neutral	00:03:51,480	19	7	neutral	Joey	89	00:03:48,394	My character’s catholic and he falls in love with this Jewish girl.	11	8_11	3.0860000000000003
+dia8_utt12	8	neutral	00:03:54,316	19	7	neutral	Joey	90	00:03:51,648	Who run away together and they get caught in this big rainstorm.	12	8_12	2.668
+dia8_utt13	8	neutral	00:03:58,028	19	7	neutral	Joey	91	00:03:54,484	So we go into this barn and undress each other and hold each other.	13	8_13	3.544
+dia8_utt14	8	joy	00:04:01,240	19	7	positive	Joey	92	00:03:58,196	It’s really sweet and-and tender.	14	8_14	3.044
+dia9_utt0	9	neutral	00:05:23,905	3	6	neutral	Joey	93	00:05:22,280	Hey, what’s up?	0	9_0	1.625
+dia9_utt1	9	sadness	00:05:26,199	3	6	negative	Chandler	94	00:05:24,073	Nothing, Monica and I had a stupid fight.	1	9_1	2.1260000000000003
+dia9_utt2	9	neutral	00:05:29,786	3	6	neutral	Joey	95	00:05:26,367	But you’re still moving in together, right? Because my ad came out today.	2	9_2	3.419
+dia9_utt3	9	joy	00:05:34,291	3	6	positive	Chandler	96	00:05:30,872	"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!"	3	9_3	3.419
+dia9_utt4	9	neutral	00:05:38,712	3	6	neutral	Joey	97	00:05:37,211	Yeah?	4	9_4	1.5010000000000001
+dia9_utt5	9	neutral	00:05:43,508	3	6	neutral	Joey	98	00:05:38,880	I just figured y’know, after living with you it’d be an interesting change of pace to have a female roommate, y’know?	5	9_5	4.628
+dia9_utt6	9	neutral	00:05:47,304	3	6	neutral	Joey	99	00:05:43,676	Someone I can learn from, someone-someone who’s different than me.	6	9_6	3.628
+dia9_utt7	9	neutral	00:05:51,141	3	6	neutral	Joey	100	00:05:47,472	And what’s more different than me. A guy who’s	7	9_7	3.669
+dia10_utt0	10	neutral	00:06:53,412	20	5	neutral	Ross	101	00:06:52,412	So where are we going next?	0	10_0	1.0
+dia10_utt1	10	neutral	00:06:56,915	20	5	neutral	Gary	102	00:06:53,579	This witness won't return my calls so we're gonna see if we can surprise him coming home.	1	10_1	3.3360000000000003
+dia10_utt2	10	fear	00:07:00,752	20	5	negative	Chandler	103	00:06:57,125	Sur-surprise him? We're not, we're not gonna make anybody mad are we?	2	10_2	3.6270000000000002
+dia10_utt3	10	joy	00:07:07,342	20	5	positive	Joey	104	00:07:01,254	Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?	3	10_3	6.088
+dia10_utt4	10	anger	0:07:10,096	20	5	negative	Gary	105	0:07:07,593	It's a witness not a perp. And no one talks like that!	4	10_4	2.503
+dia10_utt5	10	anger	0:07:10,240	20	5	negative	Ross	106	0:07:10,096	Yeah, no one talks like that!	5	10_5	0.14400000000000002
+dia10_utt6	10	anger	0:07:16,237	20	5	negative	Joey	107	0:07:14,475	Oh what? Like your Mr. Cop!	6	10_6	1.762
+dia10_utt7	10	anger	0:07:18,231	20	5	negative	Ross	108	0:07:16,237	Hey, I'm more cop than you two!	7	10_7	1.9940000000000002
+dia10_utt8	10	neutral	00:07:20,063	20	5	neutral	Chandler	109	00:07:18,438	How do you figure that?	8	10_8	1.625
+dia10_utt9	10	neutral	00:07:25,610	20	5	neutral	Ross	110	00:07:20,273	Hello! I'm in the front seat, okay? I'm Gary's partner!	9	10_9	5.337000000000001
+dia11_utt0	11	neutral	00:05:30,412	19	5	neutral	Phoebe	111	00:05:29,287	I guess so.	0	11_0	1.125
+dia11_utt1	11	neutral	0:05:36,879	19	5	neutral	Rachel	112	0:05:34,459	Here you go. Thank you!	1	11_1	2.42
+dia11_utt2	11	neutral	0:05:37,038	19	5	neutral	Phoebe	113	0:05:36,879	Wait, Rach! Where's the other one?	2	11_2	0.159
+dia11_utt3	11	surprise	00:05:40,172	19	5	positive	Rachel	114	00:05:37,503	Oh what, you-you want both of them?	3	11_3	2.669
+dia11_utt4	11	anger	00:05:43,050	19	5	negative	Phoebe	115	00:05:40,590	Rachel Karen Green, where's the other earring?!	4	11_4	2.46
+dia11_utt5	11	fear	00:05:46,261	19	5	negative	Rachel	116	00:05:43,259	Okay, okay, okay, look, just don't freak out, but I kinda lost it.	5	11_5	3.0020000000000002
+dia11_utt6	11	neutral	00:05:49,973	19	5	neutral	Rachel	117	00:05:46,429	I know it's in the apartment, but I	6	11_6	3.544
+dia11_utt7	11	fear	00:05:53,518	19	5	negative	Phoebe	118	00:05:50,183	Well, what am I going to tell Monica? She wants to wear them tonight!	7	11_7	3.3350000000000004
+dia11_utt8	11	anger	0:05:57,065	19	5	negative	Rachel	119	0:05:53,728	Tell her to wear her own earrings.	8	11_8	3.337
+dia11_utt9	11	neutral	0:05:57,211	19	5	neutral	Phoebe	120	0:05:57,065	These	9	11_9	0.14600000000000002
+dia11_utt10	11	anger	00:06:03,570	19	5	negative	Rachel	121	00:05:57,315	Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!	10	11_10	6.255000000000001
+dia11_utt11	11	neutral	0:06:05,631	19	5	neutral	Phoebe	122	0:06:04,989	Why not?	11	11_11	0.642
+dia11_utt12	11	anger	0:06:07,379	19	5	negative	Rachel	123	0:06:05,631	Because I lose her stuff!	12	11_12	1.748
+dia12_utt0	12	neutral	0:11:58,179	24	7	neutral	Ross	127	0:11:56,507	Uh Phoebe, can I see you for a second?	0	12_0	1.6720000000000002
+dia12_utt1	12	neutral	0:12:00,071	24	7	neutral	Phoebe	128	0:11:58,179	Yeah!	1	12_1	1.8920000000000001
+dia12_utt2	12	neutral	0:12:07,185	24	7	neutral	Phoebe	129	0:12:05,433	What’s going on?	2	12_2	1.752
+dia12_utt3	12	surprise	0:12:07,866	24	7	negative	Ross	130	0:12:07,185	Chandler’s gone again!	3	12_3	0.681
+dia12_utt4	12	sadness	00:12:13,481	24	7	negative	Phoebe	131	00:12:08,060	Oh my God! Why would you play hide and seek with someone you know is a flight risk?!	4	12_4	5.421
+dia13_utt0	13	neutral	00:16:04,504	3	5	neutral	Dr. Harad	132	00:16:02,544	Okay. You ready to push again?	0	13_0	1.9600000000000002
+dia13_utt1	13	anger	00:16:07,048	3	5	negative	Phoebe	133	00:16:04,755	I already had a baby. Leave me alone.	1	13_1	2.293
+dia13_utt2	13	joy	00:16:10,593	3	5	positive	Frank	134	00:16:07,257	Okay, okay, come on, you can do it. You can do it!	2	13_2	3.3360000000000003
+dia13_utt3	13	joy	00:16:19,769	3	5	positive	Frank	135	00:16:18,352	Yeah!!	3	13_3	1.417
+dia13_utt4	13	joy	0:16:22,451	3	5	positive	Frank	136	0:16:20,479	Little Leslie is here!	4	13_4	1.9720000000000002
+dia13_utt5	13	surprise	0:16:23,168	3	5	positive	Frank	137	0:16:22,451	We got another one!	5	13_5	0.7170000000000001
+dia13_utt6	13	surprise	00:16:27,485	3	5	positive	Frank	138	00:16:23,983	Oh my God, I can't believe I have two-two children.	6	13_6	3.5020000000000002
+dia13_utt7	13	surprise	00:16:30,405	3	5	positive	Frank	139	00:16:28,529	How scary is that?	7	13_7	1.8760000000000001
+dia13_utt8	13	joy	00:16:38,579	3	5	positive	Frank	140	00:16:34,034	Come on little Chandler, it's time to be born. Come on little Chandler! Come on!	8	13_8	4.545
+dia13_utt9	13	joy	00:16:41,541	3	5	positive	Dr. Harad	141	00:16:39,456	All right, he's coming. He's coming!	9	13_9	2.085
+dia13_utt10	13	surprise	00:16:47,922	3	5	negative	Frank	142	00:16:46,005	Hey, where's his thing?	10	13_10	1.917
+dia13_utt11	13	surprise	00:16:53,678	3	5	positive	Frank	143	00:16:52,136	Chandler's a girl!	11	13_11	1.542
+dia13_utt12	13	surprise	00:16:58,141	3	5	negative	Chandler	144	00:16:55,681	Oh God, kindergarten flashback.	12	13_12	2.46
+dia13_utt13	13	surprise	00:17:03,146	3	5	negative	Frank	145	00:16:59,476	They musta read the sonogram wrong.	13	13_13	3.6700000000000004
+dia13_utt14	13	surprise	00:17:05,440	3	5	positive	Frank	146	00:16:59,476	Cause they, 'cause they thought it was a boy, but Chandler's a girl!	14	13_14	5.964
+dia13_utt15	13	surprise	00:17:05,440	3	5	positive	Frank	147	00:17:03,397	Chandler's a girl!	15	13_15	2.043
+dia13_utt16	13	joy	00:17:07,316	3	5	positive	Chandler	148	00:17:05,649	Okay, keep saying it!	16	13_16	1.667
+dia13_utt17	13	neutral	00:17:11,779	3	5	neutral	Alice	149	00:17:08,777	Am I too late?!	17	13_17	3.0020000000000002
+dia13_utt18	13	joy	00:17:14,407	3	5	positive	Frank	150	00:17:11,989	No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.	18	13_18	2.418
+dia13_utt19	13	surprise	00:17:16,075	3	5	positive	Alice	151	00:17:14,908	We have our babies?	19	13_19	1.167
+dia13_utt20	13	joy	00:17:17,452	3	5	positive	Frank	152	00:17:16,410	Yeah.	20	13_20	1.042
+dia13_utt21	13	joy	00:17:19,579	3	5	positive	Alice	153	00:17:18,412	Oh, we have our babies.	21	13_21	1.167
+dia14_utt0	14	joy	0:16:08,267	5	8	positive	Bob	154	0:16:07,675	Hey Toby!	0	14_0	0.5920000000000001
+dia14_utt1	14	neutral	0:16:09,490	5	8	neutral	Chandler	155	0:16:08,267	Hey Bobby.	1	14_1	1.223
+dia14_utt2	14	neutral	00:16:17,225	5	8	neutral	Bob	156	00:16:09,885	It’s Bob actually. Hey, you work up here, can you tell me where this Chandler	2	14_2	7.340000000000001
+dia14_utt3	14	neutral	00:16:25,942	5	8	neutral	Chandler	157	00:16:17,393	Uhh yeah. Yeah, it’s  right, right down there.  Right there, yeah. Can I ask you why?	3	14_3	8.549000000000001
+dia14_utt4	14	anger	00:16:28,945	5	8	negative	Bob	158	00:16:26,110	I want to talk to that bastard, see what his problem is.	4	14_4	2.835
+dia14_utt5	14	sadness	00:16:35,410	5	8	negative	Chandler	159	00:16:29,113	Okay Bob listen uhh, I’m the reason you didn’t get the job up here.	5	14_5	6.297000000000001
+dia14_utt6	14	sadness	0:16:36,849	5	8	negative	Bob	160	0:16:35,577	Toby don’t.	6	14_6	1.272
+dia14_utt7	14	sadness	0:16:37,541	5	8	negative	Chandler	161	0:16:36,849	Bob!	7	14_7	0.6920000000000001
+dia14_utt8	14	anger	00:16:45,920	5	8	negative	Bob	162	00:16:37,663	Toby! I’m not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!	8	14_8	8.257
+dia15_utt0	15	joy	00:20:58,464	7	8	positive	Rachel	164	00:20:49,414	Thank you.  Oh Joey and look at this crib! It’s so cute!	0	15_0	9.05
+dia15_utt1	15	joy	00:21:00,675	7	8	positive	Joey	165	00:20:58,632	I know! I found it on the street.	1	15_1	2.043
+dia15_utt2	15	surprise	00:21:04,887	7	8	positive	Rachel	166	00:21:00,842	Are you serious—Really?! It’s in such good condition.	2	15_2	4.045
+dia15_utt3	15	neutral	00:21:04,887	7	8	neutral	Joey	167	00:21:02,511	Yeah.	3	15_3	2.3760000000000003
+dia15_utt4	15	surprise	00:21:07,473	7	8	negative	Rachel	168	00:21:05,055	Wow! Whoa-whoa what’s under the covers?	4	15_4	2.418
+dia15_utt5	15	neutral	0:21:09,060	7	8	neutral	Joey	169	0:21:07,641	I don’t know.	5	15_5	1.419
+dia15_utt6	15	fear	0:21:09,217	7	8	negative	Rachel	170	0:21:09,060	It’s moving.	6	15_6	0.157
+dia15_utt7	15	disgust	00:21:10,685	7	8	negative	Joey	171	00:21:09,309	Ew.	7	15_7	1.3760000000000001
+dia15_utt8	15	fear	0:21:12,479	7	8	negative	Rachel	172	0:21:10,852	It’s still——It’s got a tail! Get it out of here! Get it out of here!!	8	15_8	1.627
+dia15_utt9	15	fear	0:21:13,247	7	8	negative	Joey	173	0:21:12,479	Ooh! Ah! Okay!	9	15_9	0.768
+dia16_utt0	16	neutral	00:19:44,056	5	7	neutral	Whitney	174	00:19:36,842	Well, I went over to Kyle’s last night to pick up a few things and we got to reminiscing	0	16_0	7.214
+dia16_utt1	16	sadness	00:19:52,732	5	7	negative	Kyle	175	00:19:44,224	we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So	1	16_1	8.508000000000001
+dia16_utt2	16	surprise	00:19:59,697	5	7	negative	Ross	176	00:19:58,030	Oh just say it Kyle!	2	16_2	1.667
+dia16_utt3	16	joy	00:20:04,785	5	7	positive	Kyle	177	00:20:02,910	We’re gonna give it another try.	3	16_3	1.8750000000000002
+dia16_utt4	16	anger	00:20:08,581	5	7	negative	Phoebe	178	00:20:04,953	What about her whining and her constant need for attention?!	4	16_4	3.628
+dia16_utt5	16	neutral	00:20:09,957	5	7	neutral	Whitney	179	00:20:08,749	I’m gonna work on that.	5	16_5	1.2080000000000002
+dia16_utt6	16	anger	00:20:12,418	5	7	negative	Phoebe	180	00:20:10,125	Oh right, because you’re so capable of change.	6	16_6	2.293
+dia16_utt7	16	anger	00:20:16,088	5	7	negative	Ross	181	00:20:13,921	Y’know, he hums when he pees!	7	16_7	2.1670000000000003
+dia16_utt8	16	neutral	0:20:19,232	5	7	neutral	Whitney	182	0:20:18,050	I do know.	8	16_8	1.1820000000000002
+dia16_utt9	16	disgust	0:20:22,446	5	7	negative	Ross	183	0:20:19,232	It makes him miss the bowl, but whatever.	9	16_9	3.2140000000000004
+dia16_utt10	16	sadness	00:20:25,348	5	7	negative	Whitney	184	00:20:23,388	We’re so sorry.	10	16_10	1.9600000000000002
+dia16_utt11	16	anger	00:20:30,019	5	7	negative	Ross	185	00:20:26,183	That’s all right, we-we don’t need you. In fact, hey I’m over it already.	11	16_11	3.8360000000000003
+dia16_utt12	16	anger	00:20:33,397	5	7	negative	Phoebe	186	00:20:30,187	Yeah, and y’know what? I don’t give a tiny rat’s ass.	12	16_12	3.2100000000000004
+dia16_utt13	16	neutral	00:20:36,734	5	7	neutral	Kyle	187	00:20:34,900	Yeah, we’re gonna go.	13	16_13	1.834
+dia16_utt14	16	sadness	00:20:47,203	5	7	negative	Ross	188	00:20:40,906	I’m sorry. Ugh, Pheebs, you were, you were right about her. Y’know, she	14	16_14	6.297000000000001
+dia16_utt15	16	neutral	00:20:58,965	5	7	neutral	Phoebe	189	00:20:55,879	Oh. Y’know, he hums while he does other stuff to.	15	16_15	3.0860000000000003
+dia16_utt16	16	anger	00:21:04,470	5	7	negative	Ross	190	00:21:01,093	Yeah, we're better off without them.	16	16_16	3.3770000000000002
+dia16_utt17	16	anger	00:21:09,141	5	7	negative	Phoebe	191	00:21:04,846	And y’know, even if they break up again, you’d better not let him in your sad men’s club!	17	16_17	4.295
+dia16_utt18	16	sadness	00:21:12,603	5	7	negative	Ross	192	00:21:09,309	Divorced men’s club.	18	16_18	3.294
+dia17_utt0	17	anger	00:14:54,183	5	6	negative	Joey	194	00:14:50,514	Why isn’t that valet back with my Porsche?	0	17_0	3.669
+dia17_utt1	17	anger	00:14:57,520	5	6	negative	Passerby	195	00:14:55,603	Maybe because you’ve got the keys?	1	17_1	1.917
+dia17_utt2	17	anger	0:15:04,582	5	6	negative	Rachel	197	0:15:03,110	This is totally your fault!	2	17_2	1.4720000000000002
+dia17_utt3	17	anger	0:15:07,079	5	6	negative	Ross	198	0:15:04,582	My fault?! You threatened the judge!	3	17_3	2.4970000000000003
+dia17_utt4	17	anger	00:15:10,116	5	6	negative	Rachel	199	00:15:07,197	Well, you ripped the paper out of the court reporter’s machine!!	4	17_4	2.919
+dia18_utt0	18	neutral	0:16:18,102	22	6	neutral	Monica	206	0:16:17,351	Phoebe!	0	18_0	0.751
+dia18_utt1	18	neutral	0:16:18,406	22	6	neutral	Phoebe	207	0:16:18,102	Yeah?	1	18_1	0.304
+dia18_utt2	18	neutral	0:16:19,401	22	6	neutral	Monica	208	0:16:18,519	Have you seen Chandler?!	2	18_2	0.882
+dia18_utt3	18	neutral	0:16:20,205	22	6	neutral	Phoebe	209	0:16:19,401	No! Why?	3	18_3	0.804
+dia18_utt4	18	fear	00:16:25,566	22	6	negative	Monica	210	00:16:20,312	The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!	4	18_4	5.2540000000000004
+dia18_utt5	18	fear	0:16:27,320	22	6	negative	Monica	211	0:16:26,944	I know!	5	18_5	0.376
+dia18_utt6	18	fear	0:16:28,826	22	6	negative	Monica	212	0:16:27,320	How bad is this?	6	18_6	1.506
+dia18_utt7	18	fear	00:16:33,074	22	6	negative	Phoebe	214	00:16:28,946	Well for the regular guy, it’s bad, but Chandler, Oh dear God!	7	18_7	4.128
+dia18_utt8	18	fear	00:16:37,662	22	6	negative	Monica	215	00:16:34,660	I know! I know! And he totally freaked out and I can’t find him anywhere!	8	18_8	3.0020000000000002
+dia18_utt9	18	neutral	0:16:38,831	22	6	neutral	Phoebe	216	0:16:37,830	What are you gonna do?	9	18_9	1.0010000000000001
+dia18_utt10	18	anger	0:16:41,285	22	6	negative	Monica	217	0:16:38,831	Well, I’m never gonna listen to you again, that’s for sure!	10	18_10	2.454
+dia18_utt11	18	neutral	00:16:44,669	22	6	neutral	Monica	218	00:16:41,375	"""Y’know, harm can it do if you go and put your name down?"""	11	18_11	3.294
+dia18_utt12	18	surprise	0:16:46,728	22	6	negative	Phoebe	219	0:16:45,546	Rachel said that!	12	18_12	1.1820000000000002
+dia18_utt13	18	anger	0:16:47,766	22	6	negative	Monica	220	0:16:46,728	Well Rachel’s not here!	13	18_13	1.038
+dia19_utt0	19	neutral	00:14:17,730	23	1	neutral	Ross	221	00:14:15,980	Come on, come on.	0	19_0	1.75
+dia19_utt1	19	anger	0:14:23,156	23	1	negative	Ross	222	0:14:20,234	Damnit, damnit, damnit, damnit.	1	19_1	2.922
+dia19_utt2	19	anger	0:14:24,118	23	1	negative	Ross	223	0:14:23,156	This is all your fault.	2	19_2	0.9620000000000001
+dia19_utt3	19	anger	00:14:26,948	23	1	negative	Ross	224	00:14:24,280	This is supposed to be, like, the greatest day of my life, y'know?	3	19_3	2.668
+dia19_utt4	19	anger	00:14:32,161	23	1	negative	Ross	225	00:14:27,116	My son is being born, and I should be in there, you know, instead of stuck in a closet with you.	4	19_4	5.045
+dia19_utt5	19	anger	00:14:35,665	23	1	negative	Susan	226	00:14:32,329	The woman I love is having a baby today. I've been waiting for this just as much as you have.	5	19_5	3.3360000000000003
+dia19_utt6	19	anger	0:14:37,095	23	1	negative	Ross	227	0:14:35,833	No no no, believe me.	6	19_6	1.262
+dia19_utt7	19	anger	0:14:39,055	23	1	negative	Ross	228	0:14:37,095	No one has been waiting for this as much as I have, ok?	7	19_7	1.9600000000000002
+dia19_utt8	19	neutral	00:14:40,879	23	1	neutral	Ross	229	00:14:39,169	And you know what the funny thing is?	8	19_8	1.7100000000000002
+dia19_utt9	19	anger	00:14:43,631	23	1	negative	Ross	230	00:14:41,046	When this day is over, you get to go home with the baby, ok?	9	19_9	2.585
+dia19_utt10	19	sadness	0:14:44,551	23	1	negative	Ross	231	0:14:43,799	Where does that leave me?	10	19_10	0.752
+dia19_utt11	19	neutral	0:14:46,275	23	1	neutral	Susan	232	0:14:44,551	You get to be the baby's father.	11	19_11	1.7240000000000002
+dia19_utt12	19	neutral	0:14:47,517	23	1	neutral	Susan	233	0:14:46,385	Everyone knows who you are.	12	19_12	1.1320000000000001
+dia19_utt13	19	anger	0:14:50,183	23	1	negative	Susan	234	0:14:47,517	Who am I?	13	19_13	2.6660000000000004
+dia19_utt14	19	sadness	00:14:52,599	23	1	negative	Susan	235	00:14:50,306	There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.	14	19_14	2.293
+dia19_utt15	19	neutral	00:14:55,226	23	1	neutral	Ross	236	00:14:52,766	Every day is Lesbian Lover Day.	15	19_15	2.46
+dia19_utt16	19	joy	00:14:59,814	23	1	positive	Phoebe	237	00:14:58,063	This is so great.	16	19_16	1.7510000000000001
+dia19_utt17	19	neutral	00:15:05,570	23	1	neutral	Ross	238	00:15:03,986	You wanna explain that?	17	19_17	1.584
+dia19_utt18	19	sadness	00:15:16,664	23	1	negative	Phoebe	239	00:15:06,280	I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.	18	19_18	10.384
+dia19_utt19	19	joy	00:15:27,842	23	1	positive	Phoebe	240	00:15:17,791	And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.	19	19_19	10.051
+dia19_utt20	19	sadness	00:15:27,842	23	1	negative	Phoebe	241	00:15:25,424	And it's not even born yet.	20	19_20	2.418
+dia19_utt21	19	joy	00:15:30,553	23	1	positive	Phoebe	242	00:15:28,010	It's just, it's just the luckiest baby in the whole world.	21	19_21	2.543
+dia19_utt22	19	sadness	00:15:35,433	23	1	negative	Phoebe	243	00:15:33,349	I'm sorry, you were fighting.	22	19_22	2.084
+dia20_utt0	20	neutral	00:21:37,128	10	5	neutral	Joey	244	00:21:31,498	Okay, it's a typical New York City apartment. Two girls are just hanging out.	0	20_0	5.630000000000001
+dia20_utt1	20	neutral	00:21:41,465	10	5	neutral	Monica	245	00:21:37,879	Hi, how are you doing Kelly?	1	20_1	3.5860000000000003
+dia20_utt2	20	joy	00:21:44,385	10	5	positive	Rachel	246	00:21:41,633	I'm doing just fine! God, Tiffany, you smell so great!	2	20_2	2.7520000000000002
+dia20_utt3	20	neutral	00:21:52,643	10	5	neutral	Monica	247	00:21:46,555	It's my new perfume. Why don't you come closer where you can	3	20_3	6.088
+dia20_utt4	20	disgust	0:21:57,662	10	5	negative	Rachel	248	0:21:55,230	Oh, y'know Joey, you are sick!	4	20_4	2.432
+dia20_utt5	20	disgust	0:21:58,196	10	5	negative	Monica	249	0:21:57,662	This is disgusting!	5	20_5	0.534
+dia20_utt6	20	disgust	00:22:00,109	10	5	negative	Rachel	250	00:21:58,317	I'm not reading this!	6	20_6	1.792
+dia20_utt7	20	surprise	00:22:04,488	10	5	negative	Joey	251	00:22:00,277	What?! Wait-wait-wait! The handsome man was about to enter!!	7	20_7	4.211
+dia21_utt0	21	neutral	00:21:30,621	20	1	neutral	Joey	252	00:21:27,119	All right, I'll give you this, Mr. Peanut is a better dresser.	0	21_0	3.5020000000000002
+dia21_utt1	21	neutral	00:21:33,833	20	1	neutral	Joey	253	00:21:30,789	I mean he's got the monocle, he's got the top hat...	1	21_1	3.044
+dia21_utt2	21	neutral	00:21:35,876	20	1	neutral	Phoebe	254	00:21:34,001	You know he's gay?	2	21_2	1.8750000000000002
+dia21_utt3	21	neutral	00:21:43,092	20	1	neutral	Ross	255	00:21:38,964	I just wanna clarify this: are you outing Mr. Peanut?	3	21_3	4.128
+dia21_utt4	21	neutral	00:21:49,765	20	1	neutral	Chandler	256	00:21:44,303	Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.	4	21_4	5.462000000000001
+dia21_utt5	21	neutral	00:21:51,142	20	1	neutral	All	257	00:21:49,933	Hi. Hi.	5	21_5	1.209
+dia21_utt6	21	surprise	00:21:53,728	20	1	positive	Chandler	258	00:21:51,310	What are you doing here?	6	21_6	2.418
+dia22_utt0	22	neutral	0:17:42,689	4	1	neutral	Chandler	259	0:17:41,977	Well, what?	0	22_0	0.7120000000000001
+dia22_utt1	22	neutral	0:17:43,041	4	1	neutral	Chandler	260	0:17:42,689	What?	1	22_1	0.35200000000000004
+dia22_utt2	22	neutral	0:17:43,563	4	1	neutral	Chandler	261	0:17:43,041	What is it?	2	22_2	0.522
+dia22_utt3	22	surprise	0:17:44,365	4	1	negative	Chandler	262	0:17:43,563	That she left you?	3	22_3	0.802
+dia22_utt4	22	neutral	0:17:44,908	4	1	neutral	Chandler	263	0:17:44,365	That she likes women?	4	22_4	0.543
+dia22_utt5	22	neutral	00:17:47,106	4	1	neutral	Chandler	264	00:17:44,938	That she left you for another woman that likes women?	5	22_5	2.168
+dia22_utt6	22	anger	00:17:51,652	4	1	negative	Ross	265	00:17:47,274	Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...	6	22_6	4.378
+dia22_utt7	22	neutral	00:17:56,365	4	1	neutral	Chandler	266	00:17:55,282	Then what?	7	22_7	1.083
+dia22_utt8	22	neutral	00:18:00,161	4	1	neutral	Ross	267	00:17:57,493	My first time with Carol was...	8	22_8	2.668
+dia22_utt9	22	neutral	00:18:05,041	4	1	neutral	Joey	268	00:18:03,624	What?	9	22_9	1.417
+dia22_utt10	22	neutral	00:18:10,379	4	1	neutral	Ross	269	00:18:07,586	It was my	10	22_10	2.793
+dia22_utt11	22	surprise	00:18:14,842	4	1	negative	Joey	270	00:18:13,008	With Carol?  Oh.	11	22_11	1.834
+dia22_utt12	22	surprise	00:18:24,519	4	1	negative	Chandler	271	00:18:21,683	So in your whole life, you've only been with one——oh.	12	22_12	2.8360000000000003
+dia22_utt13	22	surprise	00:18:34,445	4	1	negative	Joey	272	00:18:26,814	Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!	13	22_13	7.631
+dia23_utt0	23	neutral	00:17:22,790	6	3	neutral	Ross	273	00:17:21,123	Hi. Where is everybody?	0	23_0	1.667
+dia23_utt1	23	sadness	00:17:27,128	6	3	negative	Phoebe	274	00:17:22,958	Oh, it’s already closed, Chris gave me the keys to lock up-what is wrong?	1	23_1	4.17
+dia23_utt2	23	sadness	00:17:34,135	6	3	negative	Ross	275	00:17:27,337	My marriage, I think my marriage is um, is kinda over.	2	23_2	6.798
+dia23_utt3	23	surprise	00:17:34,135	6	3	negative	Phoebe	276	00:17:32,301	Oh no! Why?	3	23_3	1.834
+dia23_utt4	23	sadness	00:17:49,484	6	3	negative	Ross	277	00:17:34,303	‘Cause Carol’s a lesbian.  And, and I’m not one. And apparently it’s not a mix and match situation.	4	23_4	15.181000000000001
+dia23_utt5	23	surprise	00:17:57,658	6	3	negative	Phoebe	278	00:17:50,152	Oh my God! I don’t believe it! Oh, you poor bunny.	5	23_5	7.506
+dia23_utt6	23	disgust	00:18:00,661	6	3	negative	Ross	279	00:17:59,369	I’m an idiot.	6	23_6	1.292
+dia23_utt7	23	sadness	00:18:13,674	6	3	negative	Ross	280	00:18:03,499	I mean shoulda seen it, I mean Carol and I’d be out and she’d, she’d see some beautiful woman, and, and she’d be Ross y'know look at her, and I’d think, God, my wife is cool!	7	23_7	10.175
+dia23_utt8	23	neutral	00:18:26,854	6	3	neutral	Phoebe	281	00:18:21,850	Aw! Hey, do you think that Susan person is her lover?	8	23_8	5.0040000000000004
+dia23_utt9	23	surprise	00:18:31,651	6	3	negative	Ross	282	00:18:29,858	Well, now I do!!	9	23_9	1.7930000000000001
+dia23_utt10	23	sadness	00:18:34,570	6	3	negative	Phoebe	283	00:18:33,529	I’m sorry.	10	23_10	1.0410000000000001
+dia23_utt11	23	sadness	00:18:38,866	6	3	negative	Ross	284	00:18:37,199	Seven years.	11	23_11	1.667
+dia23_utt12	23	sadness	00:18:48,876	6	3	negative	Ross	285	00:18:39,576	I mean we’ve been together seven years, she’s the only woman who’s ever loved me, and the only woman I’ve-I’ve ever....	12	23_12	9.3
+dia23_utt13	23	sadness	00:18:52,046	6	3	negative	Phoebe	286	00:18:50,712	Aw, God Ross. Oh.	13	23_13	1.334
+dia24_utt0	24	neutral	0:19:51,690	11	3	neutral	Cookie	287	0:19:49,938	I’ll do it.	0	24_0	1.752
+dia24_utt1	24	neutral	0:19:51,869	11	3	neutral	Joey	288	0:19:51,690	No you won’t.	1	24_1	0.17900000000000002
+dia24_utt2	24	sadness	00:19:57,904	11	3	negative	Joey	289	00:19:52,357	Look he knows he did a terrible thing and I believe him, he’s sorry.	2	24_2	5.547000000000001
+dia24_utt3	24	neutral	00:20:00,740	11	3	neutral	Joey	290	00:19:55,194	But,  you’ve got one more apology to make, all right, you’ve got to apologize to Mary-Angela.	3	24_3	5.546
+dia24_utt4	24	joy	0:20:02,180	11	3	positive	Chandler	291	0:20:00,908	Okay, absolutely!	4	24_4	1.272
+dia24_utt5	24	neutral	0:20:02,931	11	3	neutral	Joey	292	0:20:02,180	All right.	5	24_5	0.751
+dia24_utt6	24	neutral	0:20:03,875	11	3	neutral	Chandler	293	0:20:02,931	You’ve got it.	6	24_6	0.9440000000000001
+dia24_utt7	24	anger	0:20:15,089	11	3	negative	Joey	294	0:20:13,545	Cookie, now you can punch him!	7	24_7	1.544
+dia24_utt8	24	surprise	0:20:15,511	11	3	negative	Chandler	295	0:20:15,089	What?!	8	24_8	0.42200000000000004
+dia25_utt0	25	anger	0:13:26,555	1	2	negative	Phoebe	296	0:13:25,095	All right, that's it, I quit.	0	25_0	1.4600000000000002
+dia25_utt1	25	surprise	0:13:28,453	1	2	negative	Monica	297	0:13:26,555	What? I didn't say anything.	1	25_1	1.8980000000000001
+dia25_utt2	25	anger	00:13:32,310	1	2	negative	Phoebe	298	00:13:28,557	Yeah, but this  isn't the face of a person who trusts a person.	2	25_2	3.753
+dia25_utt3	25	anger	00:13:37,690	1	2	negative	Phoebe	299	00:13:32,478	Ok, this  is the face of a person who, you know, doesn't trust a person.	3	25_3	5.212000000000001
+dia25_utt4	25	sadness	00:13:44,405	1	2	negative	Monica	300	00:13:38,818	I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.	4	25_4	5.587000000000001
+dia25_utt5	25	anger	00:13:50,870	1	2	negative	Phoebe	301	00:13:44,573	Would you relax? I know what I am doing. This is how he wears it.	5	25_5	6.297000000000001
+dia26_utt0	26	neutral	0:10:43,185	2	2	neutral	Monica	302	0:10:42,642	Julie.	0	26_0	0.543
+dia26_utt1	26	surprise	0:10:43,747	2	2	negative	Rachel	303	0:10:43,185	What?!	1	26_1	0.562
+dia26_utt2	26	surprise	0:10:45,255	2	2	negative	Monica	304	0:10:43,747	Jody!	2	26_2	1.508
+dia26_utt3	26	neutral	00:10:50,523	2	2	neutral	Rachel	305	00:10:46,812	You were with Julie?	3	26_3	3.7110000000000003
+dia26_utt4	26	neutral	00:10:56,363	2	2	neutral	Monica	306	00:10:50,691	Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.	4	26_4	5.672000000000001
+dia26_utt5	26	neutral	00:11:02,786	2	2	neutral	Monica	307	00:10:56,530	And then, one thing led to another and, before I knew it, we were...shopping.	5	26_5	6.256
+dia26_utt6	26	surprise	00:11:11,336	2	2	negative	Rachel	308	00:11:09,669	Oh. Oh my God.	6	26_6	1.667
+dia26_utt7	26	sadness	00:11:18,510	2	2	negative	Monica	309	00:11:12,755	Honey, wait. We only did it once. It didn't mean anything to me.	7	26_7	5.755000000000001
+dia26_utt8	26	anger	00:11:21,805	2	2	negative	Rachel	310	00:11:20,012	Yeah, right.  Sure!	8	26_8	1.7930000000000001
+dia26_utt9	26	sadness	00:11:24,849	2	2	negative	Monica	311	00:11:21,972	Really, Rachel, I was thinking of you the whole time.	9	26_9	2.8770000000000002
+dia26_utt10	26	sadness	0:11:30,865	2	2	negative	Monica	312	0:11:27,853	Look, I'm sorry, all right.	10	26_10	3.012
+dia26_utt11	26	sadness	0:11:32,163	2	2	negative	Monica	313	0:11:30,865	I never meant for you to find out!	11	26_11	1.298
+dia26_utt12	26	anger	00:11:35,985	2	2	negative	Rachel	314	00:11:32,274	Oh, please, you wanted to get caught.	12	26_12	3.7110000000000003
+dia26_utt13	26	anger	00:11:37,696	2	2	negative	Monica	315	00:11:36,445	That is not true!	13	26_13	1.2510000000000001
+dia26_utt14	26	anger	00:11:40,323	2	2	negative	Rachel	316	00:11:37,905	Oh, so you just sort of happened to leave it in here?	14	26_14	2.418
+dia26_utt15	26	anger	00:11:45,120	2	2	negative	Monica	317	00:11:41,409	Did it ever occur to you that I might just be that stupid?	15	26_15	3.7110000000000003
+dia26_utt16	26	sadness	00:11:55,171	2	2	negative	Rachel	318	00:11:47,039	Ok, Monica. I just have to know one thing. Did you go with her to	16	26_16	8.132
+dia27_utt0	27	surprise	00:01:29,505	1	8	negative	Monica	320	00:01:28,088	Yeah!	0	27_0	1.417
+dia27_utt1	27	neutral	00:01:31,548	1	8	neutral	Phoebe	321	00:01:30,173	I can’t say.	1	27_1	1.375
+dia27_utt2	27	surprise	0:01:32,968	1	8	negative	Monica	322	0:01:32,133	Why?!	2	27_2	0.8350000000000001
+dia27_utt3	27	sadness	0:01:33,738	1	8	negative	Chandler	323	0:01:32,968	Why not?	3	27_3	0.77
+dia27_utt4	27	neutral	00:01:37,596	1	8	neutral	Phoebe	324	00:01:34,344	I can’t say because he’s famous.	4	27_4	3.2520000000000002
+dia27_utt5	27	surprise	00:01:40,182	1	8	negative	Rachel	325	00:01:38,515	Oh my God, who is it?!	5	27_5	1.667
+dia27_utt6	27	anger	00:01:44,103	1	8	negative	Monica	326	00:01:41,976	Phoebe, come on, you have to tell us.	6	27_6	2.1270000000000002
+dia27_utt7	27	neutral	00:01:51,819	1	8	neutral	Phoebe	327	00:01:44,270	Okay, okay. It’s James Brolin. James Brolin is the father of my baby.	7	27_7	7.549
+dia27_utt8	27	surprise	00:01:55,072	1	8	negative	Chandler	328	00:01:52,195	As in Barbara Streisand’s husband James Brolin?	8	27_8	2.8770000000000002
+dia27_utt9	27	surprise	00:01:59,701	1	8	negative	Phoebe	329	00:01:55,782	What?! Well he never said that to me!	9	27_9	3.919
+dia28_utt0	28	neutral	00:04:02,991	8	5	neutral	Ross	330	00:04:00,865	In	0	28_0	2.1260000000000003
+dia28_utt1	28	sadness	00:04:06,995	8	5	negative	Phoebe	331	00:04:04,118	Oh, this life! Oh okay no, Chandler's is worse.	1	28_1	2.8770000000000002
+dia28_utt2	28	joy	00:04:14,044	8	5	positive	Joey	332	00:04:08,831	Man, it must be so cool remembering stuff like that! I don't have any past life memories.	2	28_2	5.213
+dia28_utt3	28	neutral	00:04:17,798	8	5	neutral	Phoebe	333	00:04:14,963	Of course you don't sweetie. You're brand new.	3	28_3	2.835
+dia28_utt4	28	neutral	00:04:22,010	8	5	neutral	Rachel	334	00:04:19,968	I know Monica's worst Thanksgiving.	4	28_4	2.0420000000000003
+dia28_utt5	28	sadness	0:04:23,780	8	5	negative	Monica	335	0:04:22,178	Oh, let's not tell this story.	5	28_5	1.602
+dia28_utt6	28	sadness	0:04:24,782	8	5	negative	All	336	0:04:23,780	Oh, come on!	6	28_6	1.002
+dia28_utt7	28	joy	00:04:30,394	8	5	positive	Phoebe	337	00:04:24,889	Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!	7	28_7	5.505000000000001
+dia28_utt8	28	surprise	00:04:35,524	8	5	positive	Rachel	338	00:04:31,229	What?! Joey got a turkey stuck on his head?!	8	28_8	4.295
+dia28_utt9	28	neutral	0:04:36,485	8	5	neutral	Joey	339	0:04:35,692	Hey, it's not like it sounds.	9	28_9	0.793
+dia28_utt10	28	neutral	0:04:37,176	8	5	neutral	Chandler	340	0:04:36,485	It's	10	28_10	0.6910000000000001
+dia29_utt0	29	anger	00:15:56,496	15	1	negative	Monica	341	00:15:52,368	Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!	0	29_0	4.128
+dia29_utt1	29	neutral	00:16:05,213	15	1	neutral	Rachel	342	00:16:03,587	Who was that?	1	29_1	1.6260000000000001
+dia29_utt2	29	sadness	00:16:10,218	15	1	negative	Monica	343	00:16:07,049	Wendy bailed. I have no waitress.	2	29_2	3.169
+dia29_utt3	29	sadness	00:16:15,974	15	1	negative	Rachel	344	00:16:11,971	Oh... that's too bad. Bye bye.	3	29_3	4.003
+dia29_utt4	29	neutral	0:16:18,068	15	1	neutral	Monica	345	0:16:16,976	Ten dollars an hour.	4	29_4	1.092
+dia29_utt5	29	neutral	0:16:18,620	15	1	neutral	Rachel	346	0:16:18,068	No.	5	29_5	0.552
+dia29_utt6	29	neutral	00:16:20,061	15	1	neutral	Monica	347	00:16:18,936	Twelve dollars an hour.	6	29_6	1.125
+dia29_utt7	29	neutral	00:16:23,856	15	1	neutral	Rachel	348	00:16:20,521	Mon. I wish I could, but I've made plans to walk around.	7	29_7	3.3350000000000004
+dia29_utt8	29	anger	00:16:28,319	15	1	negative	Monica	349	00:16:25,792	You know, Rachel, when you ran out of your wedding, I was there for you.	8	29_8	2.527
+dia29_utt9	29	anger	00:16:35,034	15	1	negative	Monica	350	00:16:28,487	I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.	9	29_9	6.547000000000001
+dia29_utt10	29	joy	00:16:37,662	15	1	positive	Rachel	351	00:16:36,370	Done.	10	29_10	1.292
+dia30_utt0	30	fear	00:00:08,549	20	6	negative	Joey	352	00:00:05,005	The reactor’s gonna blow in three seconds, we’re never gonna make it!	0	30_0	3.544
+dia30_utt1	30	fear	00:00:11,802	20	6	negative	Phoebe	353	00:00:08,717	You’ve got to get out of here! Save yourself!	1	30_1	3.0850000000000004
+dia30_utt2	30	fear	00:00:15,014	20	6	negative	Joey	354	00:00:13,555	No! I won’t leave you!	2	30_2	1.459
+dia30_utt3	30	sadness	00:00:20,060	20	6	negative	Phoebe	355	00:00:15,181	Don’t worry about me, I’m a robot! I’m just a machine!!	3	30_3	4.8790000000000004
+dia30_utt4	30	anger	0:00:23,523	20	6	negative	Joey	356	0:00:21,521	No you’re not! Not to me!	4	30_4	2.0020000000000002
+dia30_utt5	30	surprise	0:00:25,329	20	6	positive	Phoebe	357	0:00:23,523	Oh my God.	5	30_5	1.806
+dia30_utt6	30	neutral	0:00:26,124	20	6	neutral	Joey	358	0:00:25,442	What?	6	30_6	0.682
+dia30_utt7	30	neutral	0:00:28,664	20	6	neutral	Phoebe	359	0:00:26,124	I am	7	30_7	2.54
+dia30_utt8	30	joy	00:00:35,159	20	6	positive	Joey	360	00:00:29,446	Yeah, you’re great! Okay, let’s take it from	8	30_8	5.713
+dia30_utt9	30	joy	00:00:35,159	20	6	positive	Phoebe	361	00:00:31,031	No, I mean I was really acting my ass off.	9	30_9	4.128
+dia30_utt10	30	joy	00:00:38,078	20	6	positive	Joey	362	00:00:36,327	Yeah, I thought I was pretty good too.	10	30_10	1.7510000000000001
+dia30_utt11	30	neutral	00:00:40,789	20	6	neutral	Phoebe	363	00:00:38,246	Oh yeah, you’re solid. Yeah, you’re just no me.	11	30_11	2.543
+dia30_utt12	30	neutral	00:00:46,962	20	6	neutral	Joey	364	00:00:42,500	Y’know what? I think that’s enough for now. Yeah. I don’t want to be over rehearsed.	12	30_12	4.462000000000001
+dia30_utt13	30	anger	0:00:48,219	20	6	negative	Phoebe	365	0:00:47,547	Fine!	13	30_13	0.672
+dia30_utt14	30	anger	0:00:50,279	20	6	negative	Phoebe	366	0:00:48,219	I’ll do it without you!	14	30_14	2.06
+dia30_utt15	30	anger	00:00:53,552	20	6	negative	Phoebe	367	00:00:50,800	I don’t need you or anybody else!	15	30_15	2.7520000000000002
+dia30_utt16	30	anger	00:00:56,346	20	6	negative	Phoebe	368	00:00:53,803	I’m gonna make it on my own!	16	30_16	2.543
+dia30_utt17	30	anger	0:01:00,435	20	6	negative	Phoebe	369	0:00:57,682	You’ll see!!	17	30_17	2.753
+dia30_utt18	30	neutral	0:01:00,574	20	6	neutral	Phoebe	370	0:01:00,435	You’ll	18	30_18	0.139
+dia31_utt0	31	sadness	00:22:11,902	17	9	negative	Kori	371	00:22:08,315	I can't believe that Ross is gone. It is just so sad.	0	31_0	3.587
+dia31_utt1	31	surprise	00:22:14,154	17	9	negative	Chandler	372	00:22:12,110	I didn't know Ross and you were so close.	1	31_1	2.044
+dia31_utt2	31	sadness	00:22:25,749	17	9	negative	Kori	373	00:22:14,362	We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.	2	31_2	11.387
+dia31_utt3	31	neutral	00:22:25,749	17	9	neutral	Chandler	374	00:22:22,120	I'm sure that would mean a lot to him.	3	31_3	3.6290000000000004
+dia31_utt4	31	neutral	00:22:31,671	17	9	neutral	Chandler	375	00:22:25,916	And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.	4	31_4	5.755000000000001
+dia31_utt5	31	sadness	00:22:39,554	17	9	negative	Kori	376	00:22:33,507	I thought so many times about calling him and asking him out.    I guess I really missed my chance.	5	31_5	6.047000000000001
+dia31_utt6	31	joy	00:22:42,265	17	9	positive	Ross	377	00:22:39,971	But you didn't!	6	31_6	2.294
+dia31_utt7	31	joy	00:22:45,852	17	9	positive	Ross	378	00:22:44,059	I'm still alive!!	7	31_7	1.7930000000000001
+dia31_utt8	31	joy	00:22:49,606	17	9	positive	Ross	379	00:22:47,103	Kori, I know this is a big surprise for you.	8	31_8	2.503
+dia31_utt9	31	joy	00:22:53,944	17	9	positive	Ross	380	00:22:49,815	It's a long story but the things    you just said really made my day!	9	31_9	4.1290000000000004
+dia31_utt10	31	joy	00:22:59,517	17	9	positive	Ross	381	00:22:54,110	I mean, the fact that you are here means more    to me than if this room were filled with people!	10	31_10	5.407
+dia31_utt11	31	anger	00:23:04,120	17	9	negative	Kori	382	00:22:59,825	You sick freak, who does that? I can't believe I had a crush on    you!	11	31_11	4.295
+dia31_utt12	31	joy	00:23:15,257	17	9	positive	Ross	383	00:23:09,584	Did you hear that? Kori Weston had a crush on me!!	12	31_12	5.673
+dia32_utt0	32	neutral	0:11:15,214	22	8	neutral	Dr. Long	384	0:11:13,702	We’ll do a quick check.	0	32_0	1.512
+dia32_utt1	32	neutral	0:11:16,092	22	8	neutral	Rachel	385	0:11:15,214	Okay.	1	32_1	0.878
+dia32_utt2	32	surprise	0:11:18,208	22	8	positive	Dr. Long	386	0:11:16,247	So, eight days late huh?	2	32_2	1.961
+dia32_utt3	32	neutral	0:11:18,433	22	8	neutral	Rachel	387	0:11:18,208	Yeah.	3	32_3	0.225
+dia32_utt4	32	neutral	00:11:20,042	22	8	neutral	Dr. Long	388	00:11:18,541	You must be a little uncomfortable.	4	32_4	1.5010000000000001
+dia32_utt5	32	neutral	00:11:22,837	22	8	neutral	Rachel	389	00:11:20,209	Eh, just a tad.	5	32_5	2.628
+dia32_utt6	32	neutral	0:11:26,524	22	8	neutral	Dr. Long	390	0:11:23,712	You’re about 80 percent effaced, so you’re on your way.	6	32_6	2.8120000000000003
+dia32_utt7	32	neutral	0:11:28,769	22	8	neutral	Dr. Long	391	0:11:26,524	It still could last a little while longer.	7	32_7	2.245
+dia32_utt8	32	neutral	00:11:34,056	22	8	neutral	Dr. Long	392	00:11:23,712	If you’re anxious there are a few ways to help things along.	8	32_8	10.344000000000001
+dia32_utt9	32	anger	00:11:34,056	22	8	negative	Ross	393	00:11:28,968	Do them!!	9	32_9	5.088
+dia32_utt10	32	neutral	00:11:42,857	22	8	neutral	Dr. Long	394	00:11:35,015	Actually, they’re things you can do. Just some home remedies, but in my experience I’ve found that some of them are quite effective.	10	32_10	7.8420000000000005
+dia32_utt11	32	neutral	0:11:45,155	22	8	neutral	Rachel	395	0:11:43,023	Well, we are ready to try anything.	11	32_11	2.132
+dia32_utt12	32	neutral	0:11:48,123	22	8	neutral	Dr. Long	396	0:11:45,155	Okay, there’s an herbal tea you can drink.	12	32_12	2.968
+dia32_utt13	32	neutral	00:11:49,280	22	8	neutral	Rachel	397	00:11:48,237	Okay.	13	32_13	1.0430000000000001
+dia33_utt0	33	sadness	00:13:20,507	2	9	negative	Chandler	398	00:13:18,339	What is wrong with Emma?	0	33_0	2.168
+dia33_utt1	33	neutral	00:13:22,634	2	9	neutral	Monica	399	00:13:18,339	Oh she misunderstood, she thought she was moving to Tulsa.	1	33_1	4.295
+dia34_utt0	34	neutral	00:14:18,940	9	1	neutral	Carol	400	00:14:17,565	Anytime you're ready.	0	34_0	1.375
+dia34_utt1	34	neutral	00:14:23,987	9	1	neutral	Ross	401	00:14:19,942	Ok, ok, here we go.	1	34_1	4.045
+dia34_utt2	34	neutral	00:14:32,453	9	1	neutral	Ross	402	00:14:28,409	Ok, where am I talking to, here?	2	34_2	4.0440000000000005
+dia34_utt3	34	neutral	00:14:37,417	9	1	neutral	Ross	403	00:14:32,621	I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...	3	34_3	4.796
+dia34_utt4	34	neutral	00:14:39,961	9	1	neutral	Carol	404	00:14:38,335	Just aim for the bump.	4	34_4	1.6260000000000001
+dia34_utt5	34	neutral	00:14:47,093	9	1	neutral	Ross	405	00:14:41,130	Ok, ok, ok, ok, here goes.	5	34_5	5.963
+dia34_utt6	34	fear	00:14:56,853	9	1	negative	Ross	406	00:14:54,101	You know, I, you know, can't do this.	6	34_6	2.7520000000000002
+dia34_utt7	34	disgust	0:14:59,023	9	1	negative	Ross	407	0:14:57,021	Uh, this is too weird.	7	34_7	2.0020000000000002
+dia34_utt8	34	sadness	0:15:00,168	9	1	negative	Ross	408	0:14:59,023	I feel stupid.	8	34_8	1.145
+dia34_utt9	34	neutral	00:15:05,904	9	1	neutral	Carol	409	00:15:01,108	So don't do it, it's fine. You don't have to do it just because Susan does it.	9	34_9	4.796
+dia34_utt10	34	joy	00:15:10,742	9	1	positive	Ross	410	00:15:06,071	Hello, baby. Hello, hello.	10	34_10	4.671
+dia35_utt0	35	neutral	00:04:20,384	12	3	neutral	Mark	412	00:04:18,258	Oh, hi. It’s Mark.	0	35_0	2.1260000000000003
+dia36_utt0	36	fear	00:15:30,345	21	3	negative	Ross	418	00:15:26,342	Easy. Easy. You have to go to the hospital. Okay?	0	36_0	4.003
+dia36_utt1	36	neutral	0:15:31,324	21	3	neutral	Rachel	419	0:15:30,512	Okay, I do.	1	36_1	0.812
+dia36_utt2	36	neutral	0:15:31,706	21	3	neutral	Ross	420	0:15:31,324	Okay.	2	36_2	0.382
+dia36_utt3	36	neutral	0:15:32,541	21	3	neutral	Rachel	421	0:15:31,706	I really do.	3	36_3	0.8350000000000001
+dia36_utt4	36	neutral	00:15:35,141	21	3	neutral	Ross	422	00:15:32,681	Okay, I’m gonna get your coat and then I’ll-I’ll put you in a cab.	4	36_4	2.46
+dia36_utt5	36	sadness	00:15:37,135	21	3	negative	Rachel	423	00:15:35,309	Okay. Oh wait, wait-wait, you’re not gonna come with me?	5	36_5	1.826
+dia36_utt6	36	surprise	00:15:45,109	21	3	positive	Ross	424	00:15:40,856	Of course I am. I just have to make a call.	6	36_6	4.253
+dia36_utt7	36	neutral	0:15:46,154	21	3	neutral	Rachel	425	0:15:45,319	Okay.	7	36_7	0.8350000000000001
+dia36_utt8	36	neutral	0:15:46,454	21	3	neutral	Ross	426	0:15:46,154	Okay?	8	36_8	0.30000000000000004
+dia36_utt9	36	surprise	00:15:53,368	21	3	negative	Rachel	427	00:15:46,570	Thank you.  Oww!!!! God!	9	36_9	6.798
+dia36_utt10	36	fear	00:15:54,661	21	3	negative	Ross	428	00:15:53,535	What?! I wh-, what’s wrong?	10	36_10	1.1260000000000001
+dia36_utt11	36	disgust	00:15:58,498	21	3	negative	Rachel	429	00:15:54,828	I’m sorry, I just can’t go to the hospital lookin’ like this.	11	36_11	3.6700000000000004
+dia37_utt0	37	neutral	00:22:03,237	24	3	neutral	TV Announcer	430	00:21:57,065	Pete Becker is circling the ring now. It looks like, he’s just trying to feel him out. Oh, Bruiser is just...	0	37_0	6.172000000000001
+dia37_utt1	37	fear	00:22:06,157	24	3	negative	Chandler	431	00:22:03,488	Run! Run you crazy, rich freak!	1	37_1	2.669
+dia37_utt2	37	fear	00:22:09,076	24	3	negative	Rachel	432	00:22:07,826	Oh, I can’t watch this.	2	37_2	1.25
+dia37_utt3	37	surprise	00:22:10,995	24	3	positive	Joey	433	00:22:09,369	Check it out, he’s winning!  Pete’s winning!	3	37_3	1.6260000000000001
+dia37_utt4	37	surprise	0:22:12,838	24	3	positive	Monica	434	0:22:11,246	Really?!	4	37_4	1.592
+dia37_utt5	37	fear	0:22:13,295	24	3	negative	Joey	435	0:22:12,838	No-o-o!!	5	37_5	0.457
+dia37_utt6	37	fear	00:22:20,171	24	3	negative	TV Announcer	436	00:22:15,751	Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.	6	37_6	4.42
+dia37_utt7	37	disgust	00:22:21,672	24	3	negative	All	437	00:22:20,422	Oh! Oh!	7	37_7	1.25
+dia37_utt8	37	surprise	00:22:25,926	24	3	negative	Phoebe	438	00:22:21,961	Wait, if that’s his favourite area, why is he being so mean to it?	8	37_8	3.9650000000000003
+dia37_utt9	37	surprise	00:22:27,845	24	3	negative	Ross	439	00:22:26,595	Well, this is ironic.	9	37_9	1.25
+dia37_utt10	37	neutral	00:22:33,601	24	3	neutral	Ross	440	00:22:28,096	Of your last two boyfriends, Richard didn’t want to have kids, and from the looks of it, now Pete can’t.	10	37_10	5.505000000000001
+dia38_utt0	38	anger	00:21:33,165	2	4	negative	Joey	441	00:21:29,705	Dude, you don’t have to brag! We got nothing here!!	0	38_0	3.4600000000000004
+dia39_utt0	39	neutral	00:01:10,808	24	8	neutral	Chandler	442	00:01:07,013	Should we tell Rachel there’s an empty private room right next door to hers?	0	39_0	3.7950000000000004
+dia39_utt1	39	joy	00:01:15,104	24	8	positive	Monica	443	00:01:11,851	We could, or we can have sex in it.	1	39_1	3.253
+dia39_utt2	39	joy	00:01:19,484	24	8	positive	Chandler	444	00:01:16,439	Well let me think about that, while I remove my pants!	2	39_2	3.0450000000000004
+dia40_utt0	40	surprise	00:06:40,857	5	8	positive	Rachel	445	00:06:37,605	I thought I was a complete idiot.	0	40_0	3.2520000000000002
+dia40_utt1	40	neutral	00:06:45,570	5	8	neutral	Joey	446	00:06:37,605	Hey, I’m with you. He even asked me if I thought you’d go out with him.	1	40_1	7.965000000000001
+dia40_utt2	40	disgust	00:06:50,575	5	8	negative	Rachel	447	00:06:45,822	Oh! Oh, I think I’m gonna throw up a little bit. What did you say?	2	40_2	4.753
+dia40_utt3	40	neutral	0:06:50,008	5	8	neutral	Joey	448	0:06:48,366	I said no.	3	40_3	1.6420000000000001
+dia40_utt4	40	surprise	0:06:50,628	5	8	positive	Rachel	449	0:06:50,008	What?!	4	40_4	0.62
+dia40_utt5	40	surprise	00:06:56,706	5	8	negative	Joey	450	00:06:50,743	What? I…I just figured since you’re pregnant you’re not gonna be seeing people.	5	40_5	5.963
+dia40_utt6	40	anger	00:06:58,750	5	8	negative	Rachel	451	00:06:56,874	Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?	6	40_6	1.8760000000000001
+dia40_utt7	40	neutral	00:07:12,431	5	8	neutral	Joey	452	00:07:06,551	I didn’t tell him. I didn’t know if you were telling people. This is back when I thought Kash was still people.	7	40_7	5.880000000000001
+dia40_utt8	40	fear	0:07:14,851	5	8	negative	Rachel	453	0:07:12,598	Good-good, don’t tell him. Don’t tell him. Just have him call me okay?	8	40_8	2.253
+dia40_utt9	40	sadness	0:07:16,450	5	8	negative	Joey	454	0:07:14,851	Rach look, I really don’t think that’s such a great	9	40_9	1.5990000000000002
+dia40_utt10	40	joy	00:07:21,273	5	8	positive	Rachel	455	00:07:16,561	Okay, you go do it! I’ll come back to that set! I’ll meet more actors! I’ll meet ‘em all!	10	40_10	4.712000000000001
+dia41_utt0	41	neutral	00:18:12,548	16	4	neutral	Rachel	456	00:18:06,543	Ohh, here you are. I was looking for you before. Joshua’s gone so you and Emily are free to go.	0	41_0	6.005000000000001
+dia41_utt1	41	neutral	00:18:14,467	16	4	neutral	Ross	457	00:18:12,966	That’s okay.	1	41_1	1.5010000000000001
+dia41_utt2	41	neutral	00:18:21,808	16	4	neutral	Ross	458	00:18:14,927	She’s still in there enjoying her fake party and uh, it’s too late to do any of the things I had planned, so	2	41_2	6.881
+dia42_utt0	42	anger	00:21:11,769	1	5	negative	Ross	459	00:21:09,768	Ah! Ah! I forgot my jacket!	0	42_0	2.0010000000000003
+dia42_utt1	42	anger	00:21:14,230	1	5	negative	Ross	461	00:21:11,937	You tell them to wait!	1	42_1	2.293
+dia42_utt2	42	neutral	00:21:16,482	1	5	neutral	Rachel	462	00:21:13,230	Okay. Wait! Wait!	2	42_2	3.2520000000000002
+dia42_utt3	42	neutral	00:21:23,155	1	5	neutral	Ross	463	00:21:21,154	Emily.	3	42_3	2.0010000000000003
+dia42_utt4	42	anger	00:21:34,709	1	5	negative	Ross	464	00:21:28,036	Oh no-no-no! Oh-no!  No! No! Emily!	4	42_4	6.673
+dia43_utt0	43	neutral	00:19:43,431	6	6	neutral	Monica	465	00:19:41,346	Hey. Call me when you get there. Okay?	0	43_0	2.085
+dia43_utt1	43	neutral	00:19:43,431	6	6	neutral	Rachel	466	00:19:42,431	Okay.	1	43_1	1.0
+dia44_utt0	44	sadness	00:13:15,835	17	5	negative	The Hot Girl	467	00:13:12,416	I know. You're the guy who wouldn't chip in for the handyman.	0	44_0	3.419
+dia44_utt1	44	anger	00:13:18,922	17	5	negative	Ross	468	00:13:17,630	Nevermind!	1	44_1	1.292
+dia44_utt2	44	neutral	00:13:25,637	17	5	neutral	The Hot Girl	469	00:13:19,757	No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.	2	44_2	5.880000000000001
+dia44_utt3	44	neutral	00:13:34,854	17	5	neutral	The Hot Girl	471	00:13:33,229	Jen.	3	44_3	1.625
+dia44_utt4	44	neutral	00:13:44,239	17	5	neutral	Ross	472	00:13:33,229	Jen, I know this may sound a little… But uh, would you maybe wanna grab a cup of coffee sometime, or	4	44_4	11.010000000000002
+dia44_utt5	44	joy	00:13:47,116	17	5	positive	Jen	473	00:13:45,366	Sure! That would be nice.	5	44_5	1.75
+dia44_utt6	44	neutral	00:13:48,868	17	5	neutral	Ross	474	00:13:47,827	Umm?	6	44_6	1.0410000000000001
+dia44_utt7	44	joy	00:13:52,622	17	5	positive	Jen	475	00:13:49,537	Oh! My number is on there.  Give me a call.	7	44_7	3.0850000000000004
+dia44_utt8	44	neutral	00:13:54,916	17	5	neutral	Ross	476	00:13:52,832	I will give you a call.	8	44_8	2.084
+dia44_utt9	44	neutral	0:13:56,046	17	5	neutral	Jen	477	0:13:55,084	I'll see you later.	9	44_9	0.9620000000000001
+dia44_utt10	44	joy	0:13:57,005	17	5	positive	Ross	478	0:13:56,046	Okay!	10	44_10	0.9590000000000001
+dia44_utt11	44	neutral	00:14:04,259	17	5	neutral	Jen	479	00:14:02,132	I forgot my paper.	11	44_11	2.1270000000000002
+dia45_utt0	45	neutral	00:08:55,283	17	3	neutral	Chandler	480	00:08:52,198	Here we go. Okay, brace yourselves.	0	45_0	3.0850000000000004
+dia45_utt1	45	neutral	00:08:55,283	17	3	neutral	Monica	481	00:08:53,658	What?	1	45_1	1.625
+dia45_utt2	45	neutral	0:08:57,389	17	3	neutral	Rachel	482	0:08:56,827	Okay.	2	45_2	0.562
+dia45_utt3	45	surprise	0:08:58,641	17	3	positive	Monica	483	0:08:57,389	Ow!	3	45_3	1.252
+dia45_utt4	45	neutral	0:09:05,733	17	3	neutral	Phoebe	484	0:09:04,961	Aren’t you gonna go?	4	45_4	0.772
+dia45_utt5	45	neutral	0:09:06,967	17	3	neutral	Rachel	485	0:09:05,733	No. Thank you.	5	45_5	1.234
+dia45_utt6	45	neutral	00:09:09,839	17	3	neutral	Monica	486	00:09:07,129	No, Rachel never pees in public restrooms.	6	45_6	2.71
+dia45_utt7	45	neutral	00:09:24,479	17	3	neutral	Rachel	487	00:09:10,591	Well, they never have any paper in there y'know. So my rule is ‘no tissue, no tuschy.’  Well, if everybody’s going.	7	45_7	13.888000000000002
+dia45_utt8	45	neutral	00:09:27,983	17	3	neutral	Phoebe	488	00:09:25,606	No, y'know what don’t close it  ‘cause the... keys...are in there.	8	45_8	2.3770000000000002
+dia45_utt9	45	fear	00:09:29,568	17	3	negative	Chandler	489	00:09:28,192	Oh, no-no-no-no-no-no!!	9	45_9	1.3760000000000001
+dia45_utt10	45	neutral	0:09:30,820	17	3	neutral	Joey	490	0:09:30,152	What’s going on?	10	45_10	0.668
+dia45_utt11	45	fear	0:09:32,729	17	3	negative	Chandler	491	0:09:30,820	My lighter’s in there!	11	45_11	1.909
+dia46_utt0	46	neutral	00:02:32,484	8	3	neutral	Rachel	492	00:02:31,442	I promise.	0	46_0	1.042
+dia46_utt1	46	neutral	00:02:34,570	8	3	neutral	Phoebe	493	00:02:32,652	Although, don’t feel like you can’t visit.	1	46_1	1.9180000000000001
+dia46_utt2	46	neutral	00:02:39,700	8	3	neutral	Joey	494	00:02:37,240	Hey, is, is, is Chandler here?	2	46_2	2.46
+dia46_utt3	46	neutral	00:02:42,452	8	3	neutral	Ross	495	00:02:41,119	No, no he’s not.	3	46_3	1.3330000000000002
+dia46_utt4	46	surprise	00:02:48,584	8	3	negative	Monica	496	00:02:43,955	You guys, Joey just saw Janice kissing her ex-husband.	4	46_4	4.6290000000000004
+dia46_utt5	46	surprise	00:02:53,213	8	3	negative	Ross	497	00:02:48,793	What?  So what are you going to do? I mean how, how are you going to tell Chandler?	5	46_5	4.42
+dia46_utt6	46	neutral	00:02:57,843	8	3	neutral	Joey	498	00:02:53,381	Well, I was thinking about that and I, I think the best way would be, to not.	6	46_6	4.462000000000001
+dia46_utt7	46	neutral	00:03:02,214	8	3	neutral	Rachel	499	00:02:58,761	Joey, you can’t keep this to yourself, if you know about this, you have to tell him.	7	46_7	3.4530000000000003
+dia46_utt8	46	fear	00:03:04,474	8	3	negative	Joey	500	00:03:02,182	It’ll kill him. I mean it’ll, it’ll just kill him.	8	46_8	2.2920000000000003
+dia46_utt9	46	neutral	00:03:07,519	8	3	neutral	Phoebe	501	00:03:04,642	Well, you could wait ‘til I go to the dentist, maybe	9	46_9	2.8770000000000002
+dia47_utt0	47	neutral	00:12:07,642	17	3	neutral	Carol	504	00:12:05,599	Hey, what are you doing here?	0	47_0	2.043
+dia47_utt1	47	neutral	00:12:14,524	17	3	neutral	Ross	505	00:12:07,893	Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of	1	47_1	6.631
+dia47_utt2	47	neutral	00:12:22,031	17	3	neutral	Carol	506	00:12:18,362	Ah yeah, but now it’s Susan and me in Mexico and the hostages coming home.	2	47_2	3.669
+dia47_utt3	47	neutral	00:12:23,533	17	3	neutral	Ross	507	00:12:22,491	Where’s Ben?	3	47_3	1.042
+dia47_utt4	47	neutral	00:12:24,993	17	3	neutral	Carol	508	00:12:23,743	He’s sleeping.	4	47_4	1.25
+dia47_utt5	47	surprise	00:12:29,122	17	3	positive	Ross	509	00:12:24,000	Ahh.  Ooh, is this a ah, is this a bad time?	5	47_5	5.122
+dia47_utt6	47	joy	00:12:34,544	17	3	positive	Carol	510	00:12:29,373	Umm, yeah, actually, Susan’s gonna be home any minute, it’s kinda an anniversary.	6	47_6	5.171
+dia47_utt7	47	surprise	00:12:37,172	17	3	negative	Ross	511	00:12:34,712	Oh! I thought you guys got married in uh, January?	7	47_7	2.46
+dia47_utt8	47	neutral	00:12:39,090	17	3	neutral	Carol	512	00:12:37,381	It’s not that kind of anniversary.	8	47_8	1.709
+dia47_utt9	47	surprise	00:12:42,242	17	3	negative	Ross	513	00:12:39,300	Ah!  Oh.	9	47_9	2.942
+dia47_utt10	47	neutral	00:12:45,638	17	3	neutral	Carol	514	00:12:42,939	Sooo!! Anyway...	10	47_10	2.6990000000000003
+dia48_utt0	48	neutral	00:06:13,121	8	3	neutral	Monica	515	00:06:08,284	Where are we gonna find a tiny little hat?	0	48_0	4.837000000000001
+dia48_utt1	48	joy	00:06:14,956	8	3	positive	Rachel	516	00:06:13,289	Oh, oh, oh, I’ll get ‘Rainy Day Bear’!!	1	48_1	1.667
+dia48_utt2	48	joy	00:06:19,378	8	3	positive	Monica	517	00:06:15,124	Because he’ll know what to do?  Oh my God, you’re a genius!	2	48_2	4.2540000000000004
+dia48_utt3	48	fear	00:06:21,463	8	3	negative	Rachel	518	00:06:19,545	Oh God, oh God, it’s sowed on though.	3	48_3	1.9180000000000001
+dia48_utt4	48	neutral	00:06:23,090	8	3	neutral	Monica	519	00:06:21,631	Give it. Give it.	4	48_4	1.459
+dia48_utt5	48	neutral	00:06:23,090	8	3	neutral	Rachel	520	00:06:22,090	Okay.	5	48_5	1.0
+dia48_utt6	48	surprise	00:06:24,674	8	3	negative	Monica and Rachel	521	00:06:23,466	Oh!!	6	48_6	1.2080000000000002
+dia48_utt7	48	sadness	00:06:30,806	8	3	negative	Rachel	522	00:06:27,303	Oh, it’s just like a bloodbath in here today.	7	48_7	3.503
+dia49_utt0	49	anger	0:09:18,446	23	1	negative	Ross	523	0:09:14,804	Please. This is so your fault.	0	49_0	3.6420000000000003
+dia49_utt1	49	surprise	0:09:18,602	23	1	negative	Susan	524	0:09:18,446	How, how is this my fault?	1	49_1	0.156
+dia49_utt2	49	anger	00:09:21,685	23	1	negative	Ross	525	00:09:18,724	Look, Carol never threw me out of a room before you came along.	2	49_2	2.9610000000000003
+dia49_utt3	49	anger	00:09:25,480	23	1	negative	Susan	526	00:09:21,894	Yeah? Well, there's a lot of things Carol never did before I came along.	3	49_3	3.5860000000000003
+dia49_utt6	49	anger	00:09:33,947	23	1	negative	Phoebe	531	00:09:29,735	Hey, hey, ok, all right, that's it!	6	49_6	4.212000000000001
+dia49_utt7	49	anger	00:09:34,447	23	1	negative	Phoebe	532	00:09:32,947	Get in here.	7	49_7	1.5
+dia49_utt8	49	neutral	00:09:34,447	23	1	neutral	Phoebe	533	00:09:33,447	Come on.	8	49_8	1.0
+dia49_utt9	49	anger	00:09:38,410	23	1	negative	Phoebe	534	00:09:34,615	My god, you guys, I don't believe you.	9	49_9	3.7950000000000004
+dia49_utt10	49	anger	00:09:45,458	23	1	negative	Phoebe	535	00:09:38,578	There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.	10	49_10	6.880000000000001
+dia49_utt11	49	anger	00:09:48,086	23	1	negative	Phoebe	536	00:09:45,626	So just stop all the yelling, just stop it!	11	49_11	2.46
+dia49_utt12	49	neutral	00:09:50,714	23	1	neutral	Ross	537	00:09:48,296	Yeah, Susan.	12	49_12	2.418
+dia49_utt13	49	anger	00:09:54,593	23	1	negative	Phoebe	538	00:09:50,881	Don't make me do this again, I don't like my voice like this.	13	49_13	3.712
+dia49_utt14	49	neutral	00:10:02,225	23	1	neutral	Phoebe	539	00:09:59,807	Ok, who wants to hear something ironic?	14	49_14	2.418
+dia50_utt0	50	surprise	00:17:00,101	22	6	negative	Phoebe	540	00:16:55,597	"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?"""	0	50_0	4.5040000000000004
+dia50_utt1	50	surprise	0:17:05,671	22	6	negative	Joey	541	0:17:03,439	I didn’t do that! Who would’ve done that?!	1	50_1	2.232
+dia50_utt2	50	anger	0:17:06,747	22	6	negative	The Dry Cleaner	542	0:17:05,671	Son of a bitch!	2	50_2	1.076
+dia50_utt3	50	neutral	00:17:09,527	22	6	neutral	Phoebe	543	00:17:07,317	Okay, maybe ask this guy.	3	50_3	2.21
+dia51_utt0	51	neutral	00:15:05,153	17	6	neutral	Joey	544	00:14:57,062	Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.	0	51_0	8.091000000000001
+dia51_utt1	51	joy	00:15:11,618	17	6	positive	Chandler	545	00:15:07,907	Y’know sometimes the good ideas are just right in front of you, aren’t they?	1	51_1	3.7110000000000003
+dia51_utt2	51	neutral	00:15:16,998	17	6	neutral	Joey	546	00:15:11,785	Okay, I know it sounds crazy, but I think it might work. Y’know? The only problem is, Carl’s acting is	2	51_2	5.213
+dia51_utt3	51	neutral	00:15:19,417	17	6	neutral	Monica	547	00:15:17,166	The	3	51_3	2.2510000000000003
+dia51_utt4	51	neutral	00:15:23,963	17	6	neutral	Joey	548	00:15:20,169	Yeah, he’s the reason I didn’t get that big	4	51_4	3.794
+dia51_utt5	51	neutral	00:15:29,844	17	6	neutral	Carl	549	00:15:27,217	Hey, uh can I get a little piece of that cake?	5	51_5	2.6270000000000002
+dia51_utt6	51	anger	00:15:33,014	17	6	negative	Joey	550	00:15:30,054	Pizza!! We like Pizza!! Get out!!!	6	51_6	2.96
+dia52_utt0	52	neutral	00:20:39,528	24	6	neutral	Waitress	551	00:20:36,109	Hey Monica, there’s a customer who wants to complement the chef, should I let him in?	0	52_0	3.419
+dia52_utt1	52	joy	00:20:42,073	24	6	positive	Monica	552	00:20:39,696	Sure, I love this part!	1	52_1	2.3770000000000002
+dia52_utt2	52	neutral	00:20:45,159	24	6	neutral	Waitress	553	00:20:42,741	Come on in.	2	52_2	2.418
+dia53_utt0	53	joy	00:19:52,440	10	6	positive	Joey	554	00:19:45,559	Really? In the moment, I really wanted to kiss you too. In the moment.	0	53_0	6.881
+dia53_utt1	53	neutral	00:19:54,000	10	6	neutral	Janine	555	00:19:52,983	In the moment, yeah.	1	53_1	1.0170000000000001
+dia53_utt2	53	joy	00:20:01,616	10	6	positive	Joey	556	00:19:53,983	But only in the moment. So do ya wanna kiss again?	2	53_2	7.633000000000001
+dia53_utt3	53	neutral	00:20:06,996	10	6	neutral	Janine	557	00:20:02,451	Sure, New Year’s Eve is only two weeks away. Can you wait?	3	53_3	4.545
+dia53_utt4	53	neutral	00:20:08,873	10	6	neutral	Joey	558	00:20:07,456	No.	4	53_4	1.417
+dia53_utt5	53	neutral	00:20:11,959	10	6	neutral	Janine	559	00:20:10,751	Me neither.	5	53_5	1.2080000000000002
+dia53_utt6	53	neutral	00:20:17,024	10	6	neutral	Joey	560	00:20:15,088	3, 2,	6	53_6	1.9360000000000002
+dia53_utt7	53	joy	00:20:20,468	10	6	positive	Janine	561	00:20:18,175	Joey, you don’t have to count down every time we kiss.	7	53_7	2.293
+dia53_utt8	53	joy	00:20:28,684	10	6	positive	Joey	562	00:20:20,719	Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.	8	53_8	7.965000000000001
+dia54_utt0	54	neutral	0:00:04,382	4	1	neutral	Monica	565	0:00:03,420	Alright. Phoebe?	0	54_0	0.9620000000000001
+dia54_utt1	54	neutral	0:00:05,298	4	1	neutral	Phoebe	566	0:00:04,382	Okay, okay.	1	54_1	0.916
+dia54_utt2	54	joy	00:00:15,556	4	1	positive	Phoebe	567	00:00:05,422	If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!	2	54_2	10.134
+dia54_utt3	54	neutral	00:00:22,438	4	1	neutral	Ross	568	00:00:17,100	Yeah, see.. you took mine. Chandler, what about you?	3	54_3	5.338
+dia54_utt4	54	neutral	00:00:26,025	4	1	neutral	Chandler	569	00:00:22,605	Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.	4	54_4	3.4200000000000004
+dia54_utt5	54	disgust	00:00:31,405	4	1	negative	Rachel	570	00:00:26,234	"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes."""	5	54_5	5.171
+dia54_utt6	54	neutral	00:00:35,534	4	1	neutral	All	571	00:00:34,075	Hey Joey. Hi. Hey, buddy.	6	54_6	1.459
+dia54_utt7	54	neutral	00:00:37,828	4	1	neutral	Monica	572	00:00:35,702	Hey, Joey, what would you do if you were omnipotent?	7	54_7	2.1260000000000003
+dia54_utt8	54	sadness	00:00:40,831	4	1	negative	Joey	573	00:00:38,538	Probably kill myself!	8	54_8	2.293
+dia54_utt9	54	surprise	00:00:43,250	4	1	positive	Monica	574	00:00:41,791	..Excuse me?	9	54_9	1.459
+dia54_utt10	54	sadness	00:00:47,087	4	1	negative	Joey	575	00:00:43,418	Hey, if Little Joey's dead, then I got no reason to live!	10	54_10	3.669
+dia54_utt11	54	surprise	00:00:51,383	4	1	positive	Ross	576	00:00:49,090	Joey, uh-	11	54_11	2.293
+dia54_utt12	54	neutral	00:00:55,054	4	1	neutral	Joey	577	00:00:53,094	You	12	54_12	1.9600000000000002
+dia55_utt0	55	sadness	00:03:48,769	1	6	negative	Kate	578	00:03:46,100	I’m sorry.	0	55_0	2.669
+dia56_utt0	56	anger	00:19:50,354	22	3	negative	Stage Manager	579	00:19:48,103	Joey, onstage!	0	56_0	2.2510000000000003
+dia56_utt1	56	sadness	00:19:53,274	22	3	negative	Joey	580	00:19:51,106	Well can you at least stay to the end of the play?	1	56_1	2.168
+dia56_utt2	56	sadness	00:19:56,227	22	3	negative	Joey	581	00:19:53,442	I mean, I’ll go to the airport with ya, I-I wanna say good bye.	2	56_2	2.785
+dia56_utt3	56	neutral	00:19:58,362	22	3	neutral	Lauren	582	00:19:56,445	Where are you Vic?	3	56_3	1.917
+dia56_utt4	56	sadness	00:20:00,698	22	3	negative	Kate	583	00:19:58,530	Flight’s in an hour. I-I gotta go.	4	56_4	2.168
+dia56_utt5	56	anger	00:20:02,325	22	3	negative	Lauren	584	00:20:00,866	Vic! Vic!	5	56_5	1.459
+dia56_utt6	56	anger	00:20:07,455	22	3	negative	Joey	585	00:20:05,454	In a minute!!	6	56_6	2.0010000000000003
+dia56_utt7	56	sadness	00:20:11,959	22	3	negative	Lauren	586	00:20:09,583	So this is it? Victor?	7	56_7	2.3760000000000003
+dia56_utt8	56	sadness	00:20:15,755	22	3	negative	Joey	587	00:20:12,794	Yeah, I guess it is.	8	56_8	2.9610000000000003
+dia56_utt9	56	sadness	00:20:28,643	22	3	negative	Joey	588	00:20:21,970	Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me.	9	56_9	6.673
+dia56_utt10	56	sadness	00:20:33,898	22	3	negative	Joey	589	00:20:29,311	One thing you gotta know, is that I will never forget you.	10	56_10	4.587000000000001
+dia56_utt11	56	sadness	00:20:39,320	22	3	negative	Joey	590	00:20:34,149	But, you’ve got things you have to do now, and so do I.	11	56_11	5.171
+dia56_utt12	56	sadness	00:20:57,797	22	3	negative	Joey	591	00:20:40,989	And so… I’m gonna get on this spaceship,  and I’m gonna go to Blargon 7 in search of alternative fuels.	12	56_12	16.808
+dia56_utt13	56	sadness	00:21:05,471	22	3	negative	Joey	592	00:20:59,508	But when I return, 200 years from now, you’ll be long gone.	13	56_13	5.963
+dia56_utt14	56	neutral	00:21:08,557	22	3	neutral	Joey	593	00:21:06,098	But I won’t have aged at all.	14	56_14	2.459
+dia56_utt15	56	neutral	00:21:26,534	22	3	neutral	Joey	594	00:21:11,823	So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I’m gonna want to meet her.	15	56_15	14.711
+dia56_utt16	56	sadness	00:21:36,585	22	3	negative	Lauren	595	00:21:34,293	So long, Vic!	16	56_16	2.2920000000000003
+dia57_utt0	57	neutral	00:01:18,994	1	3	neutral	Rachel	597	00:01:14,616	Nooo Way! The most romantic song ever is	0	57_0	4.378
+dia57_utt1	57	neutral	00:01:24,333	1	3	neutral	Phoebe	598	00:01:19,162	See, I-I think that one that Elton John wrote for, um, that guy on	1	57_1	5.171
+dia57_utt2	57	neutral	00:01:28,295	1	3	neutral	Rachel	599	00:01:26,336	What song was that, Pheebs?	2	57_2	1.959
+dia57_utt3	57	joy	00:01:37,846	1	3	positive	Phoebe	600	00:01:36,513	Hi Monica!	3	57_3	1.3330000000000002
+dia57_utt4	57	joy	0:01:38,807	1	3	positive	Ross	601	0:01:38,014	Hey Mon!	4	57_4	0.793
+dia57_utt5	57	joy	0:01:39,754	1	3	positive	Rachel	602	0:01:38,807	Hey Mon!	5	57_5	0.9470000000000001
+dia57_utt6	57	surprise	00:01:44,978	1	3	negative	Phoebe	603	00:01:41,559	Oh my God, has she slept at all?	6	57_6	3.419
+dia57_utt7	57	neutral	00:01:44,978	1	3	neutral	Ross	604	00:01:43,144	Nope.	7	57_7	1.834
+dia57_utt8	57	neutral	00:01:47,064	1	3	neutral	Rachel	605	00:01:45,146	No, it's been three nights in a row.	8	57_8	1.9180000000000001
+dia57_utt9	57	neutral	00:01:52,361	1	3	neutral	Ross	606	00:01:47,232	Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.	9	57_9	5.1290000000000004
+dia57_utt10	57	neutral	00:01:56,949	1	3	neutral	Phoebe	607	00:01:52,529	Oh, okay that explains it.	10	57_10	4.42
+dia57_utt11	57	neutral	00:02:02,204	1	3	neutral	Phoebe	608	00:01:52,529	I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.	11	57_11	9.675
+dia57_utt12	57	joy	00:02:11,421	1	3	positive	Phoebe	609	00:02:03,873	But then I realized where would a mouse or a opossum get the money to make the phone call.	12	57_12	7.548
+dia58_utt0	58	neutral	00:05:03,552	13	4	neutral	Chandler	610	00:05:01,050	So uh, man, are you gonna go to the play with me tonight?	0	58_0	2.5020000000000002
+dia58_utt1	58	disgust	00:05:09,558	13	4	negative	Ross	611	00:05:03,720	Y’know what, I don’t know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.	1	58_1	5.838
+dia58_utt2	58	neutral	0:05:11,575	13	4	neutral	Chandler	612	0:05:10,143	Yeah, I know but	2	58_2	1.4320000000000002
+dia58_utt3	58	neutral	0:05:12,320	13	4	neutral	Ross	613	0:05:11,575	Oh no-no-no, I’m there.	3	58_3	0.745
+dia58_utt4	58	surprise	00:05:15,814	13	4	positive	Monica	614	00:05:14,731	Hey!	4	58_4	1.083
+dia58_utt5	58	joy	00:05:18,150	13	4	positive	Joey	615	00:05:14,731	Hey Mon! Want some pancakes?	5	58_5	3.419
+dia58_utt6	58	surprise	00:05:18,150	13	4	positive	Monica	616	00:05:15,982	You made pancakes?	6	58_6	2.168
+dia58_utt7	58	joy	00:05:20,110	13	4	positive	Joey	617	00:05:18,318	Yep! Grab a plate.	7	58_7	1.792
+dia58_utt8	58	neutral	00:05:27,784	13	4	neutral	Joey	619	00:05:21,988	No-no, stay right there.  Gettin’ closer.	8	58_8	5.796
+dia58_utt9	58	neutral	00:05:33,749	13	4	neutral	Chandler	620	00:05:29,537	Okay, okay, but don’t worry, because we also have cereals, muffins, waffles,	9	58_9	4.212000000000001
+dia58_utt10	58	neutral	00:05:42,674	13	4	neutral	Joey	621	00:05:39,589	Listen also we’re uh, we’re watching the game here Saturday night, if people want to come over.	10	58_10	3.0850000000000004
+dia58_utt11	58	joy	00:05:43,925	13	4	positive	Ross	622	00:05:42,842	Oh yeah!	11	58_11	1.083
+dia59_utt0	59	neutral	00:21:45,344	20	5	neutral	Chandler	623	00:21:42,592	Yes, if the foxhole was lined with sandwiches.	0	59_0	2.7520000000000002
+dia59_utt1	59	neutral	00:21:48,848	20	5	neutral	Joey	624	00:21:46,638	Yeah, hero sandwiches.	1	59_1	2.21
+dia59_utt2	59	neutral	00:21:55,813	20	5	neutral	Phoebe	625	00:21:51,310	Well you all know that I'm a pacifist so I'm not interested in war in any way.	2	59_2	4.503
+dia59_utt3	59	neutral	00:21:59,358	20	5	neutral	Phoebe	627	00:21:56,064	When the revolution comes, I will have to destroy you all.	3	59_3	3.294
+dia59_utt4	59	neutral	00:22:01,861	20	5	neutral	Phoebe	628	00:22:00,569	Not you Joey.	4	59_4	1.292
+dia60_utt0	60	surprise	00:17:18,036	17	6	positive	Chandler	629	00:17:15,534	Oh my good God.	0	60_0	2.5020000000000002
+dia60_utt1	60	neutral	00:17:30,798	17	6	neutral	Monica	630	00:17:18,871	Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.	1	60_1	11.927000000000001
+dia60_utt2	60	anger	00:17:36,012	17	6	negative	Chandler	631	00:17:32,551	Look, you have done enough! Okay? You have to stop this now.	2	60_2	3.4610000000000003
+dia60_utt3	60	joy	00:17:42,560	17	6	positive	Monica	632	00:17:36,180	I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.	3	60_3	6.380000000000001
+dia60_utt4	60	neutral	00:17:44,520	17	6	neutral	Chandler	633	00:17:42,728	Oh, the mixed tape.	4	60_4	1.792
+dia60_utt5	60	joy	00:17:48,107	17	6	positive	Monica	634	00:17:45,731	The Way You Look Tonight	5	60_5	2.3760000000000003
+dia60_utt6	60	joy	00:18:19,055	17	6	positive	Monica	635	00:18:16,136	You are just the sweetest.	6	60_6	2.919
+dia61_utt0	61	joy	0:12:47,225	21	3	positive	Monica	637	0:12:46,891	Hey!	0	61_0	0.334
+dia61_utt1	61	joy	0:12:48,632	21	3	positive	Phoebe	638	0:12:47,225	Hey!	1	61_1	1.407
+dia61_utt2	61	neutral	00:12:50,393	21	3	neutral	Monica	639	00:12:48,726	Hey, guess what I’m doing tonight.	2	61_2	1.667
+dia61_utt3	61	neutral	00:12:50,393	21	3	neutral	Phoebe	640	00:12:49,393	What?	3	61_3	1.0
+dia61_utt4	61	neutral	00:12:52,562	21	3	neutral	Monica	641	00:12:50,603	I’m checking out the restaurant with Pete.	4	61_4	1.959
+dia61_utt5	61	joy	00:12:56,232	21	3	positive	Phoebe	642	00:12:52,730	Ohh, Monica, I am so excited for you.	5	61_5	3.5020000000000002
+dia62_utt0	62	neutral	00:00:59,058	16	6	neutral	Ross	644	00:00:50,924	So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find	0	62_0	8.134
+dia62_utt1	62	joy	00:01:03,020	16	6	positive	Carol	645	00:00:59,309	Ooh, actually I’ve been making a list of all the women I know who might be into doing this!	1	62_1	3.7110000000000003
+dia62_utt2	62	surprise	00:01:18,285	16	6	positive	Ross	646	00:01:05,090	Oh.  Wow!  Huh.  Boy!  Well, someone’s been doing their homework.	2	62_2	13.195
+dia62_utt3	62	neutral	00:01:22,926	16	6	neutral	Carol	647	00:01:18,661	Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so	3	62_3	4.265000000000001
+dia62_utt4	62	neutral	00:01:30,964	16	6	neutral	Ross	648	00:01:23,124	Oh, I know.  Y’know, just-just talking about it is getting me kinda	4	62_4	7.840000000000001
+dia62_utt5	62	neutral	00:01:33,258	16	6	neutral	Carol	649	00:01:31,132	Oh, me too.	5	62_5	2.1260000000000003
+dia63_utt0	63	joy	00:19:42,794	18	8	positive	Ross	650	00:19:36,622	and then, we could’ve gone from the ceremony to the reception with you in the sidecar!	0	63_0	6.172000000000001
+dia63_utt1	63	neutral	00:19:44,838	18	8	neutral	Rachel	651	00:19:43,003	Ross, it just wouldn’t have been feasible.	1	63_1	1.8350000000000002
+dia63_utt2	63	anger	00:19:49,593	18	8	negative	Ross	652	00:19:45,088	But having a dove place the ring on your finger would’ve been no problem?	2	63_2	4.505
+dia63_utt3	63	joy	00:19:54,056	18	8	positive	Rachel	653	00:19:52,137	It was really fun being married to you tonight.	3	63_3	1.919
+dia63_utt4	63	joy	00:19:57,351	18	8	positive	Ross	654	00:19:54,222	Yeah! And! And, it was the easiest 400 bucks I’ve ever made.	4	63_4	3.129
+dia63_utt5	63	sadness	0:20:01,747	18	8	negative	Rachel	655	0:19:58,935	Okay Ross, can I uh, can I ask you something?	5	63_5	2.8120000000000003
+dia63_utt6	63	neutral	0:20:02,499	18	8	neutral	Ross	656	0:20:01,747	Yeah.	6	63_6	0.752
+dia63_utt7	63	neutral	0:20:04,951	18	8	neutral	Rachel	657	0:20:02,689	That proposal, at the planetarium	7	63_7	2.262
+dia63_utt8	63	sadness	0:20:07,383	18	8	negative	Ross	658	0:20:04,951	I know, I know it was stupid.	8	63_8	2.432
+dia63_utt9	63	surprise	0:20:08,278	18	8	positive	Rachel	659	0:20:07,527	Are you kidding?!	9	63_9	0.751
+dia63_utt10	63	joy	0:20:13,534	18	8	positive	Rachel	660	0:20:08,278	With the, with the lilies, and-and the song, and the stars!	10	63_10	5.256
+dia63_utt11	63	joy	0:20:16,959	18	8	positive	Rachel	661	0:20:13,617	It was…really wonderful!	11	63_11	3.342
+dia63_utt12	63	surprise	0:20:18,759	18	8	positive	Rachel	662	0:20:16,959	Did you just make that up?	12	63_12	1.8
+dia63_utt13	63	neutral	00:20:22,167	18	8	neutral	Ross	663	00:20:19,039	No, actually I thought about it when, when we were going out.	13	63_13	3.128
+dia63_utt14	63	neutral	00:20:27,130	18	8	neutral	Ross	664	00:20:22,376	It’s how I imagined I uh, I would ask you to marry me.	14	63_14	4.7540000000000004
+dia63_utt15	63	neutral	00:20:35,055	18	8	neutral	Rachel	665	00:20:30,550	Well, that would’ve been very hard to say no too.	15	63_15	4.505
+dia63_utt16	63	neutral	00:20:53,407	18	8	neutral	Ross	666	00:20:38,016	It’s a good thing I didn’t do it, because it sounds like it would’ve been a very expensive wedding.  Okay, good night	16	63_16	15.391000000000002
+dia63_utt17	63	neutral	00:20:53,407	18	8	neutral	Rachel	667	00:20:52,407	Goodnight	17	63_17	1.0
+dia63_utt18	63	neutral	00:21:00,664	18	8	neutral	Ross	668	00:20:55,909	Even if the sidecar had a windscreen so your hair wouldn’t get messed up?	18	63_18	4.755
+dia63_utt19	63	neutral	0:21:01,754	18	8	neutral	Rachel	669	0:21:00,872	I will think about it.	19	63_19	0.882
+dia63_utt20	63	neutral	0:21:04,265	18	8	neutral	Ross	670	0:21:01,754	That’s all I’m askin’	20	63_20	2.511
+dia64_utt0	64	surprise	00:22:14,623	9	6	positive	Rachel	671	00:22:05,365	You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn’t feel bad!	0	64_0	9.258000000000001
+dia64_utt1	64	joy	00:22:18,085	9	6	positive	Monica	672	00:22:14,833	Well actually, I-I didn’t eat mine. It’s still in the bathroom.	1	64_1	3.2520000000000002
+dia64_utt2	64	neutral	00:22:19,295	9	6	neutral	Joey	673	00:22:18,295	No it isn’t, I ate that.	2	64_2	1.0
+dia64_utt3	64	neutral	00:22:24,133	9	6	neutral	Mrs. Geller	674	00:22:22,049	Well we left ours in Monica’s bedroom.	3	64_3	2.084
+dia64_utt4	64	neutral	00:22:26,635	9	6	neutral	Joey	675	00:22:24,343	Nope, got it and I got yours  too.	4	64_4	2.2920000000000003
+dia65_utt0	65	joy	00:04:19,216	9	4	positive	Rachel	677	00:04:17,006	And that’s I’m so glad… there’s no problem.	0	65_0	2.21
+dia65_utt1	65	neutral	00:04:23,845	9	4	neutral	Joanna	678	00:04:19,842	That’s fine, actually I’m on the hiring committee, so there’ll be at least one friendly face.	1	65_1	4.003
+dia65_utt2	65	joy	00:04:25,430	9	4	positive	Rachel	679	00:04:24,013	Ohh! That’s great!	2	65_2	1.417
+dia65_utt3	65	neutral	00:04:31,603	9	4	neutral	Joanna	680	00:04:25,598	You know, Junior Miss is where I started. Oh, I had to sleep with the	3	65_3	6.005000000000001
+dia65_utt4	65	surprise	0:04:33,541	9	4	positive	Rachel	681	0:04:32,689	Really?!	4	65_4	0.8520000000000001
+dia65_utt5	65	joy	0:04:36,295	9	4	positive	Joanna	682	0:04:33,541	No-ho-ho!	5	65_5	2.754
+dia65_utt6	65	neutral	00:04:37,985	9	4	neutral	Joanna	683	00:04:36,401	Yeah.	6	65_6	1.584
+dia65_utt7	65	neutral	00:04:45,200	9	4	neutral	Joanna	684	00:04:38,987	I mean, no-no-no-no-no, don’t you worry, I’m sure with your qualifications you won’t need to sleep with some guy to get that job.	7	65_7	6.213
+dia65_utt8	65	neutral	00:04:48,704	9	4	neutral	Joanna	685	00:04:46,577	Although, I might need some convincing.	8	65_8	2.1270000000000002
+dia65_utt9	65	fear	00:04:51,873	9	4	negative	Rachel	686	00:04:50,873	Well, I, umm	9	65_9	1.0
+dia65_utt10	65	joy	00:04:57,254	9	4	positive	Joanna	687	00:04:51,873	Kidding! God, I feel wild today!	10	65_10	5.381
+dia66_utt0	66	surprise	00:14:38,334	23	7	negative	Phoebe	688	00:14:35,291	Oh my God! Chandler just left though!	0	66_0	3.043
+dia66_utt1	66	neutral	00:14:45,216	23	7	neutral	Rachel	689	00:14:38,586	Yeah but, maybe it’s not what we think. Maybe it’s tell Monica I’m sorry I…drank the last of the milk.	1	66_1	6.630000000000001
+dia66_utt2	66	neutral	00:14:54,048	23	7	neutral	Phoebe	690	00:14:45,676	Or maybe he-he was writing to tell her that-that he’s changed his name, y’know? Tell Monica I’m sorry.	2	66_2	8.372
+dia66_utt3	66	surprise	00:15:01,065	23	7	negative	Ross	691	00:14:56,020	I think it means he freaked out and left!	3	66_3	5.045
+dia66_utt4	66	anger	00:15:06,905	23	7	negative	Phoebe	692	00:15:01,525	Don’t be so negative! Good God! Isn’t it possible that Sorry is sitting in there  right now?!	4	66_4	5.38
+dia66_utt5	66	sadness	00:15:12,035	23	7	negative	Rachel	693	00:15:08,032	Okay. Phoebe, I-I think Ross is right. What are we gonna do?	5	66_5	4.003
+dia66_utt6	66	neutral	00:15:15,872	23	7	neutral	Ross	694	00:15:12,369	Look—Okay, I’m just gonna—I’m gonna have to go find him and bring him back!	6	66_6	3.503
+dia66_utt7	66	neutral	0:15:16,503	23	7	neutral	Ross	695	0:15:16,081	Okay?	7	66_7	0.42200000000000004
+dia66_utt8	66	neutral	0:15:19,673	23	7	neutral	Ross	696	0:15:16,503	You-you make sure Monica does not find out, okay?	8	66_8	3.1700000000000004
+dia66_utt11	66	neutral	00:15:31,179	23	7	neutral	Ross	699	00:15:29,345	I will, I will find him.	11	66_11	1.834
+dia67_utt0	67	joy	0:02:01,205	19	6	positive	Rachel	700	0:01:59,953	Hey!	0	67_0	1.252
+dia67_utt1	67	joy	0:02:01,361	19	6	positive	All	701	0:02:01,205	Hi! Hey!	1	67_1	0.156
+dia67_utt2	67	neutral	00:02:04,289	19	6	neutral	Rachel	702	00:02:01,454	Do you guys know any cute guys?	2	67_2	2.835
+dia67_utt3	67	joy	00:02:07,417	19	6	positive	Chandler	703	00:02:04,457	Well, of course I do! My good friend Joey over here.	3	67_3	2.96
+dia67_utt4	67	joy	00:02:14,299	19	6	positive	Joey	704	00:02:10,839	Oh, I’m sorry. Thank you Chandler.	4	67_4	3.4600000000000004
+dia67_utt5	67	neutral	00:02:21,056	19	6	neutral	Rachel	705	00:02:15,635	Anyway, there’s this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go	5	67_5	5.421
+dia67_utt6	67	neutral	00:02:22,350	19	6	neutral	Monica	706	00:02:21,224	What’s the charity?	6	67_6	1.1260000000000001
+dia67_utt7	67	neutral	00:02:30,899	19	6	neutral	Rachel	707	00:02:22,000	I don’t know, something either trees or disease—Ralph mumbles a lot.	7	67_7	8.899000000000001
+dia67_utt8	67	neutral	00:02:34,528	19	6	neutral	Monica	708	00:02:27,772	Does Ralph mumble when you’re not paying attention?	8	67_8	6.756
+dia67_utt9	67	surprise	00:02:37,573	19	6	positive	Rachel	709	00:02:31,067	Yeah! It’s weird. But the thing is need to find a date.	9	67_9	6.506
+dia67_utt10	67	neutral	00:02:39,408	19	6	neutral	Phoebe	710	00:02:37,740	Well, what kind of guy are you looking for?	10	67_10	1.6680000000000001
+dia68_utt0	68	joy	00:02:19,054	21	6	positive	Rachel	711	00:02:18,012	Hey!	0	68_0	1.042
+dia68_utt1	68	neutral	00:02:20,973	21	6	neutral	Ross	712	00:02:19,222	What are you guys doing later?	1	68_1	1.7510000000000001
+dia68_utt2	68	neutral	00:02:23,475	21	6	neutral	Phoebe	713	00:02:21,141	Oh, Rachel and I have appointments to get our hair cut.	2	68_2	2.334
+dia68_utt3	68	surprise	0:02:24,404	21	6	negative	Rachel	714	0:02:24,102	We do?	3	68_3	0.30200000000000005
+dia68_utt4	68	neutral	0:02:26,706	21	6	neutral	Phoebe	715	0:02:24,404	I want to see what he wants first.	4	68_4	2.302
+dia68_utt5	68	sadness	00:02:30,774	21	6	negative	Ross	717	00:02:28,064	I just found out that Elizabeth’s dad wants to meet me.	5	68_5	2.71
+dia68_utt6	68	surprise	00:02:35,070	21	6	positive	Chandler	718	00:02:30,942	Wait a minute, hold the phone! You’re not Elizabeth’s dad?!	6	68_6	4.128
+dia68_utt7	68	fear	00:02:40,742	21	6	negative	Ross	719	00:02:38,449	Come on guys, I-I really want this guy to like me.	7	68_7	2.293
+dia68_utt8	68	sadness	00:02:45,831	21	6	negative	Ross	720	00:02:40,910	It-it would really help me out if you guys were here to make me look good.	8	68_8	4.921
+dia68_utt9	68	joy	00:02:47,541	21	6	positive	All	721	00:02:43,663	Of course we’ll help! Yeah! We’ll be here!	9	68_9	3.878
+dia68_utt10	68	joy	00:02:47,541	21	6	positive	Ross	722	00:02:45,999	Thanks!	10	68_10	1.542
+dia68_utt11	68	neutral	00:02:50,544	21	6	neutral	Monica	723	00:02:47,709	We know how tough those parent/teacher conferences can be.	11	68_11	2.835
+dia69_utt0	69	joy	00:19:41,000	8	7	positive	Rachel	724	00:19:38,969	Oh, hi! How are you doing?	0	69_0	2.031
+dia69_utt1	69	sadness	00:19:45,099	8	7	negative	Tag	725	00:19:40,888	I'm okay. I gotta go down to the police station and look at mug shots.	1	69_1	4.211
+dia69_utt2	69	neutral	0:19:46,728	8	7	neutral	Tag	727	0:19:45,309	Thanks for having me over, you guys.	2	69_2	1.419
+dia69_utt3	69	neutral	0:19:49,508	8	7	neutral	Ross	728	0:19:46,728	Tag?	3	69_3	2.7800000000000002
+dia69_utt4	69	joy	00:19:49,437	8	7	positive	Ross	730	00:19:45,309	Y-You're going?	4	69_4	4.128
+dia69_utt5	69	neutral	00:19:52,023	8	7	neutral	Ross	731	00:19:49,605	Uh we didn't, uh we didn't get the chance to talk.	5	69_5	2.418
+dia69_utt6	69	neutral	00:19:54,650	8	7	neutral	Ross	732	00:19:52,274	Uh, so, where did you say you're from again?	6	69_6	2.3760000000000003
+dia69_utt7	69	neutral	0:19:55,672	8	7	neutral	Tag	733	0:19:54,860	Colorado.	7	69_7	0.812
+dia69_utt8	69	neutral	0:19:57,378	8	7	neutral	Ross	734	0:19:55,672	Ah, what good are you.	8	69_8	1.7060000000000002
+dia69_utt9	69	neutral	00:20:07,496	8	7	neutral	Rachel	735	00:20:03,619	Look, um, I think we should talk about what happened on the terrace.	9	69_9	3.8770000000000002
+dia69_utt10	69	neutral	00:20:09,081	8	7	neutral	Tag	736	00:20:07,706	Okay.	10	69_10	1.375
+dia69_utt11	69	sadness	00:20:11,000	8	7	negative	Rachel	737	00:20:09,249	Ah, I-I never should have said what I said.	11	69_11	1.7510000000000001
+dia69_utt12	69	neutral	0:20:11,920	8	7	neutral	Rachel	738	0:20:11,168	It—y’know what?	12	69_12	0.752
+dia69_utt13	69	sadness	0:20:13,260	8	7	negative	Rachel	739	0:20:11,920	It just doesn't matter how I feel.	13	69_13	1.34
+dia69_utt14	69	sadness	00:20:28,309	8	7	negative	Rachel	740	00:20:13,378	I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?	14	69_14	14.931000000000001
+dia69_utt15	69	neutral	00:20:30,686	8	7	neutral	Tag	741	00:20:28,518	Um, I'm not.	15	69_15	2.168
+dia69_utt16	69	sadness	00:20:34,232	8	7	negative	Rachel	742	00:20:30,896	Oh, god, I knew it, that I freaked you out.	16	69_16	3.3360000000000003
+dia69_utt17	69	sadness	00:20:38,694	8	7	negative	Tag	743	00:20:32,232	No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.	17	69_17	6.462000000000001
+dia69_utt18	69	surprise	00:20:41,000	8	7	positive	Rachel	744	00:20:39,738	Really?	18	69_18	1.262
+dia69_utt19	69	sadness	00:20:45,409	8	7	negative	Tag	745	00:20:41,000	Yeah, so, please don't fire me for doing this.	19	69_19	4.409000000000001
+dia70_utt0	70	anger	00:12:23,575	4	1	negative	Ross	746	00:12:16,944	Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!	0	70_0	6.631
+dia70_utt1	70	neutral	00:12:27,370	4	1	neutral	Chandler	747	00:12:23,743	See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.	1	70_1	3.6270000000000002
+dia70_utt2	70	joy	00:12:29,831	4	1	positive	Ross	748	00:12:27,538	Pass it! Pass it!	2	70_2	2.293
+dia70_utt3	70	joy	0:12:30,511	4	1	positive	Chandler	749	0:12:29,999	He's open!	3	70_3	0.512
+dia70_utt4	70	joy	0:12:33,925	4	1	positive	All	750	0:12:30,511	Shoot! Shoot! Shoot!	4	70_4	3.414
+dia70_utt5	70	surprise	00:12:43,178	4	1	positive	Chandler	751	00:12:39,842	Hey, look, we're on that TV thing!	5	70_5	3.3360000000000003
+dia71_utt0	71	joy	00:13:11,331	13	7	positive	Rachel	752	00:13:07,620	I am so psyched I kept this chair for myself!	0	71_0	3.7110000000000003
+dia71_utt1	71	neutral	00:13:17,253	13	7	neutral	Joey	753	00:13:15,169	Yeah, me too.	1	71_1	2.084
+dia71_utt2	71	surprise	00:13:23,218	13	7	positive	Rachel	756	00:13:19,715	Yeah? Wow! Y’know, that this thing has speakers in the headrest!	2	71_2	3.503
+dia71_utt3	71	surprise	00:13:26,346	13	7	negative	Joey	757	00:13:24,929	No. Really?	3	71_3	1.417
+dia71_utt4	71	joy	00:13:29,015	13	7	positive	Rachel	758	00:13:26,514	Yeah! You can hook it up to your TV	4	71_4	2.5010000000000003
+dia71_utt5	71	neutral	00:13:36,731	13	7	neutral	Joey	759	00:13:34,563	My chair heals itself.	5	71_5	2.168
+dia72_utt0	72	anger	00:11:03,578	11	5	negative	Phoebe	760	00:10:55,738	Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?	0	72_0	7.840000000000001
+dia72_utt1	72	sadness	0:11:05,373	11	5	negative	Joey	761	0:11:03,746	Yes! Yes, I did.	1	72_1	1.627
+dia72_utt2	72	anger	0:11:06,557	11	5	negative	Phoebe	762	0:11:05,373	Then do Iceberg!	2	72_2	1.1840000000000002
+dia72_utt3	72	neutral	0:11:08,627	11	5	neutral	Joey	763	0:11:07,875	G-sharp.	3	72_3	0.752
+dia72_utt4	72	neutral	0:11:10,799	11	5	neutral	Phoebe	764	0:11:08,627	G	4	72_4	2.172
+dia72_utt5	72	surprise	00:11:22,555	11	5	negative	Joey	765	00:11:20,471	What?! I didn't touch a guitar!	5	72_5	2.084
+dia72_utt6	72	anger	00:11:24,432	11	5	negative	Phoebe	766	00:11:22,273	No, but you're questioning my method!	6	72_6	2.1590000000000003
+dia72_utt7	72	anger	00:11:30,021	11	5	negative	Joey	767	00:11:24,600	No, I'm not questioning it, I'm saying it's stupid!  What?!	7	72_7	5.421
+dia72_utt8	72	neutral	00:11:33,525	11	5	neutral	Monica	768	00:11:32,066	Thank you.	8	72_8	1.459
+dia72_utt9	72	anger	00:11:39,155	11	5	negative	Phoebe	769	00:11:34,110	Y'know none of my other student thought I was stupid.	9	72_9	5.045
+dia72_utt10	72	anger	00:11:42,617	11	5	negative	Joey	770	00:11:39,657	Your other student, was you!	10	72_10	2.96
+dia72_utt11	72	anger	00:11:47,914	11	5	negative	Phoebe	771	00:11:43,911	Yeah, well, y'know maybe you just need to try a little harder!	11	72_11	4.003
+dia72_utt12	72	anger	00:11:49,833	11	5	negative	Joey	772	00:11:48,082	Look, maybe I need to try a real teacher!	12	72_12	1.7510000000000001
+dia72_utt13	72	anger	0:11:50,751	11	5	negative	Joey	773	0:11:49,833	Right here!	13	72_13	0.918
+dia72_utt14	72	anger	0:11:52,943	11	5	negative	Joey	774	0:11:50,751	Here!	14	72_14	2.192
+dia72_utt15	72	neutral	00:11:55,338	11	5	neutral	Joey	775	00:11:50,000	Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and	15	72_15	5.338
+dia72_utt16	72	anger	00:12:09,811	11	5	negative	Phoebe	776	00:12:00,177	Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play	16	72_16	9.634
+dia72_utt17	72	neutral	00:12:13,606	11	5	neutral	Rachel	777	00:12:11,230	"""Baddest man in the whole damn town."""	17	72_17	2.3760000000000003
+dia72_utt18	72	anger	00:12:16,234	11	5	negative	Phoebe	778	00:12:13,774	Oh, fine! Take his side!	18	72_18	2.46
+dia73_utt0	73	anger	00:10:34,257	10	5	negative	Ross	779	00:10:28,461	And shame on you! You should know better, Joey needs to work.  Now come on!	0	73_0	5.796
+dia73_utt1	73	anger	00:10:34,257	10	5	negative	Joey	780	00:10:33,257	Hey!	1	73_1	1.0
+dia73_utt2	73	anger	00:10:38,762	10	5	negative	Ross	781	00:10:34,425	No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!	2	73_2	4.337000000000001
+dia74_utt0	74	joy	0:09:13,637	3	8	positive	Rachel	782	0:09:12,969	Hi!	0	74_0	0.668
+dia74_utt1	74	neutral	0:09:14,448	3	8	neutral	Ross	783	0:09:13,637	Hi.	1	74_1	0.811
+dia74_utt2	74	joy	00:09:20,141	3	8	positive	Rachel	784	00:09:14,679	Hi.  Umm, I think there’s something that we really need to talk about.	2	74_2	5.462000000000001
+dia74_utt3	74	sadness	00:09:35,323	3	8	negative	Ross	785	00:09:20,768	I think we do. Why don’t we go inside?  Look uh, I know why you’re here.	3	74_3	14.555000000000001
+dia74_utt4	74	surprise	00:09:35,323	3	8	positive	Rachel	786	00:09:34,323	You do?	4	74_4	1.0
+dia74_utt5	74	neutral	00:09:41,621	3	8	neutral	Ross	787	00:09:35,575	Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.	5	74_5	6.046
+dia74_utt6	74	neutral	00:09:43,707	3	8	neutral	Rachel	788	00:09:41,872	Okay.	6	74_6	1.8350000000000002
+dia74_utt7	74	neutral	00:10:03,852	3	8	neutral	Ross	789	00:09:42,872	Okay.  Uh, Ross and Rachel. Rachel and Ross. That’s been one heck of a see-saw hasn’t it?	7	74_7	20.98
+dia74_utt8	74	surprise	00:10:05,895	3	8	negative	Rachel	790	00:10:04,645	What?	8	74_8	1.25
+dia74_utt9	74	sadness	00:10:16,781	3	8	negative	Ross	791	00:10:06,606	I mean look, that-that one night we had was fun and…and certainly passionate, but don’t you think it’s better if we just stayed friends?	9	74_9	10.175
+dia74_utt10	74	surprise	00:10:20,827	3	8	negative	Rachel	792	00:10:18,909	Seriously. What?!	10	74_10	1.9180000000000001
+dia74_utt11	74	neutral	0:10:23,086	3	8	neutral	Ross	793	0:10:22,204	Okay.	11	74_11	0.882
+dia74_utt12	74	neutral	0:10:24,058	3	8	neutral	Ross	794	0:10:23,086	Okay.	12	74_12	0.9720000000000001
+dia74_utt13	74	neutral	0:10:25,668	3	8	neutral	Ross	795	0:10:24,058	Y’know what?	13	74_13	1.61
+dia74_utt14	74	neutral	00:10:29,711	3	8	neutral	Ross	796	00:10:25,791	If you want to, we can do it one more time.	14	74_14	3.9200000000000004
+dia74_utt15	74	neutral	0:10:34,397	3	8	neutral	Ross	797	0:10:32,465	I mean I’d-I’d be okay with that.	15	74_15	1.9320000000000002
+dia74_utt16	74	neutral	0:10:38,140	3	8	neutral	Ross	798	0:10:34,397	In fact, I have some time right now.	16	74_16	3.7430000000000003
+dia74_utt17	74	joy	0:10:40,648	3	8	positive	Rachel	799	0:10:38,604	Okay, y’know what? Can I, can I talk now?	17	74_17	2.044
+dia74_utt18	74	neutral	0:10:42,713	3	8	neutral	Ross	800	0:10:40,648	Oh sure.	18	74_18	2.065
+dia74_utt19	74	anger	00:11:17,258	3	8	negative	Rachel	801	00:10:48,731	I’m pregnant.  Ross?  Ross?  Okay, whenever you’re ready.  And you’re the father by the way—but you got that	19	74_19	28.527
+dia75_utt0	75	neutral	00:21:52,935	9	3	neutral	Rachel	802	00:21:44,886	We should defiantly play football more often. Maybe there’s a like league we could join or something.	0	75_0	8.049000000000001
+dia76_utt0	76	joy	00:16:24,524	1	3	positive	Chandler	803	00:16:22,982	I know!	0	76_0	1.542
+dia76_utt1	76	surprise	00:16:30,655	1	3	positive	Ross	804	00:16:25,693	Yes! Wow, well, that-that was easy. Okay, you-you go.	1	76_1	4.962000000000001
+dia76_utt2	76	neutral	0:16:31,575	1	3	neutral	Chandler	805	0:16:30,823	Okay.	2	76_2	0.752
+dia76_utt3	76	neutral	0:16:31,955	1	3	neutral	Ross	806	0:16:31,575	Okay.	3	76_3	0.38
+dia76_utt4	76	joy	00:16:35,451	1	3	positive	Chandler	807	00:16:32,491	Okay, you know, you know when your in bed, with a woman.	4	76_4	2.96
+dia76_utt5	76	neutral	00:16:36,703	1	3	neutral	Ross	808	00:16:35,619	Hmph.	5	76_5	1.084
+dia76_utt6	76	joy	00:16:40,248	1	3	positive	Chandler	809	00:16:36,912	And, ah, you know, your fooling around with her.	6	76_6	3.3360000000000003
+dia76_utt7	76	joy	00:16:46,671	1	3	positive	Chandler	810	00:16:40,416	And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....	7	76_7	6.255000000000001
+dia76_utt8	76	joy	00:16:49,549	1	3	positive	Ross	811	00:16:46,839	With the belly-button ring? Oh, muhawa!	8	76_8	2.71
+dia76_utt9	76	anger	00:16:52,301	1	3	negative	Chandler	812	00:16:49,717	I know, And then all of the sudden your Mom pops into your head.	9	76_9	2.584
+dia76_utt10	76	anger	00:16:57,724	1	3	negative	Chandler	813	00:16:54,054	And your like 'Mom, get outta here!'	10	76_10	3.6700000000000004
+dia76_utt11	76	anger	00:17:06,065	1	3	negative	Chandler	814	00:16:57,975	You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.	11	76_11	8.09
+dia76_utt12	76	neutral	00:17:08,860	1	3	neutral	Chandler	815	00:17:00,769	So it's kinda like, you're, you know.	12	76_12	8.091000000000001
+dia76_utt13	76	surprise	00:17:11,029	1	3	negative	Chandler	816	00:17:06,442	You know.... You don't know!	13	76_13	4.587000000000001
+dia76_utt14	76	disgust	00:17:18,202	1	3	negative	Ross	817	00:17:12,573	Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?	14	76_14	5.6290000000000004
+dia76_utt15	76	neutral	0:17:20,831	1	3	neutral	Chandler	818	0:17:19,079	You said...	15	76_15	1.752
+dia76_utt16	76	neutral	0:17:22,173	1	3	neutral	Ross	819	0:17:20,831	I said '	16	76_16	1.342
+dia77_utt0	77	surprise	00:17:18,066	24	8	positive	Phoebe	820	00:17:17,065	Oh!	0	77_0	1.0010000000000001
+dia77_utt1	77	surprise	00:17:21,737	24	8	positive	Ross	821	00:17:18,233	Look at Emma!	1	77_1	3.504
+dia77_utt2	77	neutral	00:17:23,155	24	8	neutral	Phoebe	822	00:17:18,233	I just can’t decide who she looks more alike, you or Rachel?	2	77_2	4.922000000000001
+dia77_utt3	77	joy	00:17:27,075	24	8	positive	Ross	823	00:17:23,322	Oh what are you kidding? She’s gorgeous, it’s all Rachel.	3	77_3	3.753
+dia77_utt4	77	neutral	00:17:36,084	24	8	neutral	Phoebe	824	00:17:31,497	I’m sorry, for the last time, why aren’t you two together again?	4	77_4	4.587000000000001
+dia77_utt5	77	neutral	0:17:38,170	24	8	neutral	Phoebe	825	0:17:37,544	No, I know.	5	77_5	0.626
+dia77_utt6	77	neutral	0:17:40,780	24	8	neutral	Phoebe	826	0:17:38,170	I know, because you’re not in that place.	6	77_6	2.6100000000000003
+dia77_utt7	77	neutral	00:17:44,009	24	8	neutral	Phoebe	827	00:17:40,881	Which would be fine, except you totally are.	7	77_7	3.128
+dia77_utt8	77	sadness	00:17:47,513	24	8	negative	Ross	828	00:17:44,176	It’s…it’s complicated okay?	8	77_8	3.337
+dia77_utt9	77	neutral	00:17:55,437	24	8	neutral	Phoebe	829	00:17:48,639	Yeah that’s true. Yeah, you love her. You always have. You have a child together. There is no right answer.	9	77_9	6.798
+dia77_utt10	77	sadness	0:17:58,454	24	8	negative	Ross	830	0:17:57,272	Look, we’ve been together.	10	77_10	1.1820000000000002
+dia77_utt11	77	neutral	0:18:00,088	24	8	neutral	Ross	831	0:17:58,454	Okay?	11	77_11	1.6340000000000001
+dia77_utt12	77	sadness	00:18:04,738	24	8	negative	Ross	832	00:18:00,192	And then apart, and then together, and then apart, and now we have a baby.	12	77_12	4.546
+dia77_utt13	77	sadness	00:18:16,624	24	8	negative	Ross	833	00:18:07,658	It’s just if-if we got together again and it didn’t work out…I could never do that to Emma.	13	77_13	8.966000000000001
+dia77_utt14	77	sadness	00:18:23,507	24	8	negative	Ross	834	00:18:18,043	I mean she-she thinking everything— Oh that’s…now me.	14	77_14	5.464
+dia77_utt15	77	neutral	00:18:27,302	24	8	neutral	Ross	835	00:18:23,674	What do they put something in the water in this place?	15	77_15	3.628
+dia77_utt16	77	sadness	00:18:31,807	24	8	negative	Ross	836	00:18:28,220	Since Rachel and I we’re doing really, we’re doing really well right now.	16	77_16	3.587
+dia77_utt17	77	neutral	00:18:36,019	24	8	neutral	Phoebe	837	00:18:31,974	I know. I know. I know. I know, and if you try to make it more you might wreck it.	17	77_17	4.045
+dia77_utt18	77	neutral	00:18:38,397	24	8	neutral	Ross	838	00:18:36,186	Yeah, exactly.	18	77_18	2.2110000000000003
+dia77_utt19	77	neutral	00:18:44,778	24	8	neutral	Phoebe	839	00:18:40,899	Right.  Or you might get everything you’ve wanted since you were fifteen.	19	77_19	3.8790000000000004
+dia78_utt0	78	joy	00:09:35,490	22	7	positive	Rachel	840	00:09:32,530	God. I forgot how much I love driving. I have	0	78_0	2.96
+dia78_utt1	78	neutral	00:09:45,375	22	7	neutral	Ross	841	00:09:41,414	You don’t have a	1	78_1	3.9610000000000003
+dia78_utt2	78	neutral	00:09:53,925	22	7	neutral	Rachel	842	00:09:45,585	Oh Ross you’re so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax	2	78_2	8.34
+dia78_utt3	78	anger	00:09:57,917	22	7	negative	Ross	843	00:09:54,093	What-what are you doing?! Are you—Okay that’s not funny! Just stop horsing around!	3	78_3	3.8240000000000003
+dia78_utt4	78	joy	00:10:00,390	22	7	positive	Rachel	844	00:09:58,139	I am not horsing around, okay? I am Porsching around.	4	78_4	2.2510000000000003
+dia78_utt5	78	fear	00:10:10,775	22	7	negative	Rachel	845	00:10:08,733	Uh-oh.	5	78_5	2.0420000000000003
+dia78_utt6	78	neutral	00:10:16,072	22	7	neutral	Ross	846	00:10:10,943	Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.	6	78_6	5.1290000000000004
+dia78_utt7	78	fear	00:10:17,657	22	7	negative	Rachel	847	00:10:16,240	Really? You think so?	7	78_7	1.417
+dia78_utt8	78	anger	00:10:20,619	22	7	negative	Ross	848	00:10:17,825	I was talking to myself! You’re going down!	8	78_8	2.794
+dia79_utt0	79	joy	00:05:28,535	21	9	positive	Monica	849	00:05:26,159	Hey honey! I missed you today!	0	79_0	2.3760000000000003
+dia79_utt1	79	surprise	00:05:31,204	21	9	positive	Chandler	850	00:05:28,703	Oh, yeah?	1	79_1	2.5010000000000003
+dia79_utt2	79	neutral	0:05:33,168	21	9	neutral	Monica	851	0:05:31,956	Yeah.  What d'you wanna do tonight?	2	79_2	1.212
+dia79_utt3	79	neutral	0:05:36,842	21	9	neutral	Chandler	852	0:05:33,168	Oh, well... Maybe we could...	3	79_3	3.6740000000000004
+dia79_utt4	79	joy	00:05:49,931	21	9	positive	Monica	853	00:05:46,429	Ok, trying to turn me on by making a mess?	4	79_4	3.5020000000000002
+dia79_utt5	79	joy	00:05:51,683	21	9	positive	Monica	854	00:05:50,099	Know your audience!	5	79_5	1.584
+dia79_utt6	79	neutral	00:05:59,816	21	9	neutral	Monica	855	00:05:53,353	Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.	6	79_6	6.463
+dia79_utt7	79	sadness	00:06:03,403	21	9	negative	Chandler	856	00:06:01,277	We really need to take those tests?	7	79_7	2.1260000000000003
+dia79_utt8	79	neutral	00:06:05,655	21	9	neutral	Monica	857	00:06:03,571	Honey, we've been trying to have a baby for over a year.	8	79_8	2.084
+dia79_utt9	79	neutral	00:06:12,954	21	9	neutral	Monica	858	00:06:05,823	I think    it's a good idea to find out if everything's ok. Just a few routine tests.	9	79_9	7.131
+dia79_utt10	79	sadness	00:06:12,954	21	9	negative	Chandler	859	00:06:08,910	But I don't wanna do it in a cup!	10	79_10	4.0440000000000005
+dia80_utt0	80	neutral	00:12:04,639	10	1	neutral	Phoebe	860	00:12:02,471	Oh, hi Max! Hey, do you know everybody?	0	80_0	2.168
+dia80_utt1	80	neutral	00:12:06,683	10	1	neutral	Max	861	00:12:04,807	No. Have you seen David?	1	80_1	1.8760000000000001
+dia80_utt2	80	neutral	00:12:09,519	10	1	neutral	Phoebe	862	00:12:08,227	No, no, he hasn't been around.	2	80_2	1.292
+dia80_utt3	80	neutral	00:12:13,273	10	1	neutral	Max	863	00:12:09,687	Well, if you see him, tell him to pack his bags. We are going to Minsk.	3	80_3	3.5860000000000003
+dia80_utt4	80	surprise	0:12:14,533	10	1	negative	Phoebe	864	0:12:13,941	Minsk?	4	80_4	0.5920000000000001
+dia80_utt5	80	neutral	0:12:16,673	10	1	neutral	Max	865	0:12:14,533	Minsk. It's in Russia.	5	80_5	2.14
+dia80_utt6	80	neutral	00:12:19,696	10	1	neutral	Phoebe	866	00:12:17,737	I know where Minsk is.	6	80_6	1.959
+dia80_utt7	80	joy	00:12:25,535	10	1	positive	Max	867	00:12:20,406	We got the grant. Three years, all expenses paid.	7	80_7	5.1290000000000004
+dia80_utt8	80	neutral	00:12:27,328	10	1	neutral	Phoebe	868	00:12:26,078	So when, when do you leave?	8	80_8	1.25
+dia80_utt9	80	neutral	00:12:29,205	10	1	neutral	Max	869	00:12:27,538	January first	9	80_9	1.667
+dia81_utt0	81	joy	0:09:53,444	19	6	positive	Elizabeth	870	0:09:51,882	You wanted to see me Professor Geller?	0	81_0	1.562
+dia81_utt1	81	neutral	0:09:56,235	19	6	neutral	Ross	871	0:09:53,444	Yes. Yes! Please, come in.	1	81_1	2.7910000000000004
+dia81_utt2	81	joy	00:10:01,016	19	6	positive	Ross	873	00:09:59,807	Oo-oo!	2	81_2	1.209
+dia82_utt0	82	joy	00:09:53,633	21	6	positive	Joey	874	00:09:50,006	Pretty great! Except I did get a little attitude from the robot.	0	82_0	3.6270000000000002
+dia82_utt1	82	anger	00:09:57,137	21	6	negative	Chandler	875	00:09:53,801	Damn those robots, they’re supposed to be our	1	82_1	3.3360000000000003
+dia82_utt2	82	neutral	00:10:00,724	21	6	neutral	Joey	876	00:09:58,222	Anyway, it wasn’t the robot, it was the guy who controls him.	2	82_2	2.5020000000000002
+dia82_utt3	82	anger	0:10:04,063	21	6	negative	Joey	877	0:10:00,891	Yeah, he doesn’t like me.	3	82_3	3.172
+dia82_utt4	82	neutral	0:10:04,284	21	6	neutral	Joey	878	0:10:04,063	He had C.H.E.E.S.E.	4	82_4	0.221
+dia82_utt5	82	anger	00:10:06,771	21	6	negative	Joey	879	00:10:02,227	knock over the sandwich right when I was reaching for one!	5	82_5	4.5440000000000005
+dia82_utt6	82	surprise	00:10:06,771	21	6	positive	Joey	880	00:10:05,771	Ohh!	6	82_6	1.0
+dia82_utt7	82	neutral	00:10:08,607	21	6	neutral	Phoebe	881	00:10:06,939	Well, why don’t you just get him fired?	7	82_7	1.6680000000000001
+dia82_utt8	82	anger	0:10:11,706	21	6	negative	Joey	882	0:10:08,774	I may have to, I hate to do it, but I’m the star!	8	82_8	2.9320000000000004
+dia82_utt9	82	neutral	0:10:12,508	21	6	neutral	Joey	883	0:10:11,706	Y’know?	9	82_9	0.802
+dia82_utt10	82	neutral	00:10:15,905	21	6	neutral	Joey	884	00:10:12,612	There’s a limit to how many sandwiches I can eat off the floor.	10	82_10	3.293
+dia82_utt11	82	neutral	00:10:20,118	21	6	neutral	Joey	885	00:10:17,825	Excuse me.	11	82_11	2.293
+dia82_utt12	82	neutral	00:10:22,579	21	6	neutral	Joey	886	00:10:20,286	Joey Tribbiani.	12	82_12	2.293
+dia82_utt13	82	joy	00:10:26,458	21	6	positive	Estelle	887	00:10:22,747	Joe! I’m glad I found ya, I got an audition for ya!	13	82_13	3.7110000000000003
+dia82_utt14	82	surprise	0:10:27,338	21	6	positive	Joey	888	0:10:26,626	Wow!	14	82_14	0.7120000000000001
+dia82_utt15	82	neutral	0:10:29,678	21	6	neutral	Estelle	889	0:10:27,338	The thing is it’s kinda on the Q.T.	15	82_15	2.3400000000000003
+dia82_utt16	82	neutral	00:10:33,715	21	6	neutral	Estelle	890	00:10:29,795	The actor who has the part doesn’t know he might be fired.	16	82_16	3.9200000000000004
+dia82_utt17	82	neutral	00:10:37,761	21	6	neutral	Estelle	891	00:10:33,833	It’s the lead in a series, Mac and C.H.E.E.S.E.	17	82_17	3.9280000000000004
+dia82_utt18	82	anger	00:10:41,348	21	6	negative	Joey	892	00:10:39,597	I’m the lead in Mac and C.H.E.E.S.E.!!	18	82_18	1.7510000000000001
+dia83_utt0	83	anger	00:10:30,117	23	8	negative	Monica	893	00:10:26,614	Oh good God! If you want a baby so bad just go steal it!	0	83_0	3.503
+dia83_utt1	83	surprise	00:10:36,582	23	8	positive	Monica	894	00:10:33,287	What is going on with you? Since when are you so crazy about babies?	1	83_1	3.2950000000000004
+dia83_utt2	83	joy	00:10:41,128	23	8	positive	Chandler	895	00:10:36,791	I’m not crazy about babies. I’m crazy about us.	2	83_2	4.337000000000001
+dia83_utt3	83	surprise	00:10:43,881	23	8	positive	Monica	896	00:10:42,838	What?	3	83_3	1.0430000000000001
+dia83_utt4	83	neutral	00:10:47,885	23	8	neutral	Chandler	897	00:10:44,131	Look, we’ve always talked about having babies someday.	4	83_4	3.7540000000000004
+dia83_utt5	83	neutral	00:10:53,307	23	8	neutral	Chandler	898	00:10:48,094	I’m not saying it has to be right now, but I’m starting to think that we can handle it.	5	83_5	5.213
+dia83_utt6	83	neutral	00:10:53,307	23	8	neutral	Chandler	899	00:10:52,307	We’re good.	6	83_6	1.0
+dia83_utt7	83	joy	00:10:56,143	23	8	positive	Chandler	900	00:10:53,474	We’re really good.	7	83_7	2.669
+dia84_utt0	84	surprise	00:09:41,288	13	5	negative	Monica	901	00:09:39,036	Oh, did you catch him?!	0	84_0	2.2520000000000002
+dia84_utt1	84	surprise	00:09:41,288	13	5	negative	Ross	903	00:09:39,036	Wh-what did he say?!	1	84_1	2.2520000000000002
+dia84_utt2	84	neutral	00:09:48,128	13	5	neutral	Phoebe	904	00:09:41,539	"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?"	2	84_2	6.589
+dia84_utt3	84	surprise	00:09:49,462	13	5	negative	Rachel	905	00:09:48,379	Why?! Why not?!	3	84_3	1.083
+dia84_utt4	84	sadness	00:09:51,172	13	5	negative	Phoebe	906	00:09:49,714	Come on, you saw the way he ran out of here!	4	84_4	1.4580000000000002
+dia84_utt5	84	sadness	00:09:54,175	13	5	negative	Phoebe	908	00:09:51,382	He's gonna stick around and talk to the daughter he abandoned!	5	84_5	2.793
+dia84_utt6	84	neutral	00:09:56,136	13	5	neutral	Joey	909	00:09:54,427	What did you say to him?	6	84_6	1.709
+dia84_utt7	84	neutral	00:10:03,685	13	5	neutral	Phoebe	910	00:09:56,387	Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.	7	84_7	7.298
+dia85_utt0	85	neutral	00:18:14,258	4	8	neutral	Rachel	911	00:18:12,424	Oh yeah, sure.	0	85_0	1.834
+dia85_utt1	85	joy	00:18:17,053	4	8	positive	Rachel	912	00:18:14,468	Okay, in about ten seconds you’re gonna see him kiss me.	1	85_1	2.585
+dia85_utt2	85	neutral	00:18:21,349	4	8	neutral	Ross	913	00:18:17,221	And in about five seconds you’re gonna see why.	2	85_2	4.128
+dia85_utt3	85	neutral	00:18:30,525	4	8	neutral	Rachel	914	00:18:24,561	Ross did I ever tell you about the time that I went backpacking through Western Europe?	3	85_3	5.964
+dia85_utt4	85	joy	00:18:40,409	4	8	positive	Rachel	915	00:18:37,407	Okay, get ready to see some beggin’!	4	85_4	3.0020000000000002
+dia85_utt5	85	surprise	00:18:43,579	4	8	positive	Phoebe	916	00:18:41,078	Oh, you came on to Ross!	5	85_5	2.5010000000000003
+dia85_utt6	85	surprise	0:18:46,542	4	8	negative	Rachel	917	0:18:44,456	What?!	6	85_6	2.0860000000000003
+dia85_utt7	85	joy	0:18:47,724	4	8	positive	Ross	918	0:18:46,542	Now I’m so happy.	7	85_7	1.1820000000000002
+dia85_utt8	85	surprise	0:18:50,227	4	8	negative	Rachel	919	0:18:48,585	What are you talking about?!	8	85_8	1.6420000000000001
+dia85_utt9	85	joy	0:18:52,106	4	8	positive	Monica	920	0:18:50,227	You used the Europe story!	9	85_9	1.8790000000000002
+dia85_utt10	85	anger	00:18:55,675	4	8	negative	Chandler	921	00:18:52,214	That’s the magic story you use when you wanna have sex!	10	85_10	3.4610000000000003
+dia85_utt11	85	surprise	0:19:02,115	4	8	negative	Rachel	922	0:18:57,803	How do you know about that story?!	11	85_11	4.312
+dia85_utt12	85	neutral	0:19:03,245	4	8	neutral	Joey	923	0:19:02,115	How do	12	85_12	1.1300000000000001
+dia85_utt13	85	neutral	00:19:06,811	4	8	neutral	Rachel	924	00:19:03,433	I heard it from my friend Irene who heard it from some guy!	13	85_13	3.378
+dia85_utt14	85	surprise	00:19:09,689	4	8	positive	Joey	925	00:19:07,437	Some guy!!	14	85_14	2.2520000000000002
+dia85_utt15	85	neutral	00:19:15,153	4	8	neutral	Rachel	926	00:19:12,484	No. No, she told me his name was Ken Adams.	15	85_15	2.669
+dia85_utt16	85	surprise	00:19:19,532	4	8	positive	Joey	927	00:19:18,115	Ken Adams!!	16	85_16	1.417
+dia86_utt0	86	neutral	00:13:17,545	8	1	neutral	Ross	928	00:13:16,003	How we doing, you guys ready?	0	86_0	1.542
+dia86_utt1	86	neutral	00:13:23,134	8	1	neutral	Monica	929	00:13:17,797	Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?	1	86_1	5.337000000000001
+dia86_utt2	86	neutral	00:13:25,637	8	1	neutral	Ross	930	00:13:23,385	Some days it's all I can think about.	2	86_2	2.2520000000000002
+dia86_utt3	86	neutral	00:13:29,516	8	1	neutral	Phoebe	931	00:13:26,514	Hi, sorry I'm late, I couldn't find my bearings.	3	86_3	3.0020000000000002
+dia87_utt0	87	neutral	0:08:49,643	20	9	neutral	Ross	932	0:08:48,975	Oh... ok, fine.	0	87_0	0.668
+dia87_utt1	87	neutral	0:08:50,985	20	9	neutral	Ross	933	0:08:49,643	But... ehm...	1	87_1	1.342
+dia87_utt2	87	neutral	0:08:52,844	20	9	neutral	Ross	934	0:08:50,985	I just have one question for you,    ehm...	2	87_2	1.8590000000000002
+dia87_utt3	87	neutral	00:08:58,567	20	9	neutral	Ross	935	00:08:52,937	When we exit should we walk, or run, or prance,    or stroll...	3	87_3	5.630000000000001
+dia87_utt4	87	joy	00:09:03,572	20	9	positive	Charlie	936	00:08:58,734	Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!	4	87_4	4.838
+dia88_utt0	88	surprise	00:01:12,960	14	8	negative	Phoebe	937	00:01:10,560	I can’t believe this! How long as this been going on?	0	88_0	2.4000000000000004
+dia88_utt1	88	neutral	0:01:15,920	14	8	neutral	Monica	938	0:01:13,360	Well umm, Alexandra has been	1	88_1	2.56
+dia88_utt2	88	surprise	0:01:16,825	14	8	negative	Phoebe	939	0:01:15,920	Oh, it has a name?	2	88_2	0.905
+dia88_utt3	88	sadness	00:01:19,960	14	8	negative	Monica	940	00:01:18,320	Phoebe, don’t get upset!	3	88_3	1.6400000000000001
+dia88_utt4	88	anger	00:01:25,240	14	8	negative	Phoebe	941	00:01:20,200	Okay—Oop! Too late! I’m leaving! Come on Chandler let’s go!	4	88_4	5.04
+dia88_utt5	88	neutral	00:01:30,160	14	8	neutral	Chandler	942	00:01:26,360	Well, Phoebe I thought I’d——Yeah, what the hell.	5	88_5	3.8000000000000003
+dia89_utt0	89	fear	00:12:05,348	6	2	negative	Joey	943	00:12:04,348	Ben!	0	89_0	1.0
+dia89_utt1	89	anger	00:12:10,562	6	2	negative	Chandler	944	00:12:06,767	Oh, that's good. Maybe he'll hear you and pull the cord.	1	89_1	3.7950000000000004
+dia89_utt2	89	fear	00:12:15,525	6	2	negative	Joey	945	00:12:10,730	Stop the bus! Wait! Wait! Wait!	2	89_2	4.795
+dia89_utt3	89	neutral	00:12:23,408	6	2	neutral	Monica	946	00:12:20,990	Are you sure he didn't break it because it really hurts?	3	89_3	2.418
+dia89_utt4	89	neutral	00:12:30,749	6	2	neutral	Doctor	947	00:12:23,576	No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.	4	89_4	7.173
+dia89_utt5	89	sadness	0:12:34,685	6	2	negative	Ross	948	0:12:32,293	Oh, I'm sorry, I'm really sorry.	5	89_5	2.3920000000000003
+dia89_utt6	89	sadness	0:12:35,144	6	2	negative	Ross	949	0:12:34,685	Sorry.	6	89_6	0.459
+dia89_utt7	89	sadness	0:12:35,290	6	2	negative	Ross	950	0:12:35,144	Sorry!	7	89_7	0.14600000000000002
+dia89_utt8	89	joy	00:12:40,467	6	2	positive	Ross	953	00:12:36,839	I got my s's back!	8	89_8	3.628
+dia89_utt9	89	neutral	00:12:43,803	6	2	neutral	Ross	954	00:12:41,177	Which we can celebrate later.	9	89_9	2.6260000000000003
+dia89_utt10	89	neutral	00:12:46,514	6	2	neutral	Ross	955	00:12:44,430	Celebrate.	10	89_10	2.084
+dia90_utt0	90	joy	00:11:08,208	1	2	positive	Rachel	956	00:11:02,536	Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.	0	90_0	5.672000000000001
+dia90_utt1	90	neutral	00:11:11,044	1	2	neutral	Monica	957	00:11:09,418	Rachel, how did this happen?	1	90_1	1.6260000000000001
+dia90_utt2	90	fear	00:11:13,546	1	2	negative	Rachel	958	00:11:11,212	I don't know, I just kinda ran into him last night.	2	90_2	2.334
+dia90_utt3	90	neutral	00:11:15,090	1	2	neutral	Phoebe	959	00:11:13,714	Where?	3	90_3	1.3760000000000001
+dia90_utt4	90	neutral	00:11:16,800	1	2	neutral	Rachel	960	00:11:13,714	At his apartment. Is this juice?	4	90_4	3.0860000000000003
+dia90_utt5	90	anger	00:11:21,179	1	2	negative	Joey	961	00:11:17,426	Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?	5	90_5	3.753
+dia90_utt6	90	sadness	00:11:24,474	1	2	negative	Rachel	962	00:11:21,347	Oh God, I know I'm a pathetic loser.	6	90_6	3.1270000000000002
+dia91_utt0	91	surprise	00:09:12,425	2	2	positive	Phoebe	963	00:09:10,633	I licked my arm, what?	0	91_0	1.792
+dia91_utt1	91	neutral	00:09:14,928	2	2	neutral	Ross	964	00:09:12,593	It's breast milk.	1	91_1	2.335
+dia91_utt2	91	neutral	00:09:16,346	2	2	neutral	Phoebe	965	00:09:15,096	So?	2	91_2	1.25
+dia91_utt3	91	neutral	00:09:20,600	2	2	neutral	Rachel	966	00:09:16,514	Phoebe, that is juice, squeezed from a person.	3	91_3	4.086
+dia91_utt4	91	anger	00:09:24,229	2	2	negative	Joey	967	00:09:21,435	What is the big deal?	4	91_4	2.794
+dia91_utt5	91	surprise	00:09:27,440	2	2	negative	Chandler	968	00:09:25,815	What did you just do?	5	91_5	1.625
+dia91_utt6	91	disgust	00:09:32,904	2	2	negative	Ross	969	00:09:29,485	Ok, would people stop drinking the breast milk?	6	91_6	3.419
+dia91_utt7	91	neutral	0:09:36,329	2	2	neutral	Phoebe	970	0:09:34,407	You won't even taste it?	7	91_7	1.9220000000000002
+dia91_utt8	91	disgust	0:09:37,373	2	2	negative	Ross	971	0:09:36,329	No!	8	91_8	1.044
+dia91_utt9	91	neutral	00:09:39,703	2	2	neutral	Phoebe	972	00:09:37,493	Not even if you just pretend that it's milk?	9	91_9	2.21
+dia91_utt10	91	disgust	00:09:43,206	2	2	negative	Ross	973	00:09:39,870	Not even if Carol's breast had a picture of a missing child on it.	10	91_10	3.3360000000000003
+dia92_utt0	92	surprise	00:12:05,181	11	6	positive	All	974	00:12:03,764	Aww!	0	92_0	1.417
+dia92_utt1	92	disgust	00:12:16,735	11	6	negative	Ross	976	00:12:11,564	Hey Pheebs, could you please not put your feet up on my new……old sheet?	1	92_1	5.171
+dia92_utt2	92	joy	00:12:18,778	11	6	positive	Phoebe	977	00:12:17,278	Oh sure!  Noo!	2	92_2	1.5
+dia92_utt3	92	surprise	00:12:19,988	11	6	negative	Rachel	978	00:12:18,946	Ohh!!	3	92_3	1.042
+dia92_utt4	92	surprise	00:12:21,958	11	6	negative	Ross	979	00:12:20,156	My apothecary table!!!	4	92_4	1.802
+dia92_utt5	92	surprise	0:12:23,326	11	6	negative	Phoebe	980	0:12:22,658	What?!	5	92_5	0.668
+dia92_utt6	92	fear	0:12:24,798	11	6	negative	Rachel	982	0:12:23,326	Noooooo!!	6	92_6	1.4720000000000002
+dia92_utt7	92	surprise	00:12:28,747	11	6	negative	Phoebe	983	00:12:25,619	Ross, where did you get this?!	7	92_7	3.128
+dia92_utt8	92	anger	00:12:33,251	11	6	negative	Rachel	985	00:12:31,375	Oh my God, Phoebe,	8	92_8	1.8760000000000001
+dia92_utt9	92	anger	00:12:45,513	11	6	negative	Phoebe	986	00:12:39,175	Wow! Oh my God, well if they’ve ripped off our table ours must be much more than one and fifty dollars!	9	92_9	6.338
+dia92_utt10	92	disgust	00:12:50,018	11	6	negative	Phoebe	988	00:12:47,641	Well this doesn’t even smell like opium.	10	92_10	2.3770000000000002
+dia92_utt11	92	anger	00:12:55,356	11	6	negative	Ross	989	00:12:50,186	Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.	11	92_11	5.17
+dia93_utt0	93	sadness	00:15:05,028	1	2	negative	Rachel	990	00:15:03,402	How is she?	0	93_0	1.6260000000000001
+dia93_utt1	93	neutral	00:15:11,367	1	2	neutral	Phoebe	991	00:15:05,696	It's too soon to tell. She's resting, which is a good sign.	1	93_1	5.671
+dia93_utt2	93	neutral	00:15:15,288	1	2	neutral	Ross	992	00:15:12,703	How's the hair?	2	93_2	2.585
+dia93_utt3	93	sadness	00:15:17,206	1	2	negative	Phoebe	993	00:15:12,703	I'm not gonna lie to you, Ross, it doesn't look good.	3	93_3	4.503
+dia93_utt4	93	neutral	00:15:22,295	1	2	neutral	Phoebe	994	00:15:19,084	I put a clip on one side, which seems to have stopped the curling.	4	93_4	3.2110000000000003
+dia93_utt5	93	neutral	00:15:25,298	1	2	neutral	Joey	995	00:15:24,173	Can we see her?	5	93_5	1.125
+dia93_utt6	93	sadness	00:15:31,387	1	2	negative	Phoebe	996	00:15:25,883	Your hair looks too good, I think it would upset her. Ross, why don't you come on in.	6	93_6	5.5040000000000004
+dia93_utt7	93	sadness	00:15:40,980	1	2	negative	Joey	998	00:15:38,479	How're you doing?	7	93_7	2.5010000000000003
+dia94_utt0	94	neutral	00:13:13,708	2	2	neutral	Chandler	999	00:13:10,331	Of course the packaging does appeal to grown-ups and kids alike.	0	94_0	3.3770000000000002
+dia94_utt1	94	joy	00:13:21,549	2	2	positive	Carol	1000	00:13:15,920	Ross, you're being silly. I've tried it, it's no big deal. Just taste it.	1	94_1	5.6290000000000004
+dia94_utt2	94	disgust	00:13:23,551	2	2	negative	Ross	1001	00:13:21,717	That would be no.	2	94_2	1.834
+dia94_utt3	94	neutral	00:13:28,306	2	2	neutral	Phoebe	1002	00:13:24,345	Come on. It doesn't taste bad.	3	94_3	3.9610000000000003
+dia94_utt4	94	neutral	00:13:31,392	2	2	neutral	Joey	1003	00:13:28,474	Yeah, it's kinda sweet, sorta like, uh...	4	94_4	2.918
+dia94_utt5	94	joy	00:13:33,686	2	2	positive	Susan	1004	00:13:31,560	Cantaloupe juice.	5	94_5	2.1260000000000003
+dia94_utt6	94	neutral	00:13:35,396	2	2	neutral	Joey	1005	00:13:33,854	Exactly.	6	94_6	1.542
+dia94_utt7	94	surprise	00:13:46,199	2	2	positive	Ross	1006	00:13:42,404	You've tasted it? You've tasted it.	7	94_7	3.7950000000000004
+dia94_utt8	94	neutral	00:13:47,659	2	2	neutral	Susan	1007	00:13:46,367	Uh huh.	8	94_8	1.292
+dia94_utt9	94	anger	00:13:50,245	2	2	negative	Ross	1008	00:13:48,410	Oh, you've tasted it.	9	94_9	1.8350000000000002
+dia94_utt10	94	neutral	00:13:55,375	2	2	neutral	Susan	1009	00:13:52,414	You can keep saying it, but it won't stop being true.	10	94_10	2.9610000000000003
+dia94_utt11	94	anger	00:14:04,634	2	2	negative	Ross	1010	00:14:03,217	Gimme the bottle.  Gimme the towel.	11	94_11	1.417
+dia95_utt0	95	anger	00:12:39,966	4	8	negative	Monica	1011	00:12:36,922	I still don't get why Greg and Jenny would give us a fake number.	0	95_0	3.044
+dia95_utt1	95	neutral	00:12:46,181	4	8	neutral	Joey	1012	00:12:40,134	Y’know, if they knew what they were doing they probably didn’t give you real names either.	1	95_1	6.047000000000001
+dia95_utt2	95	anger	00:12:50,226	4	8	negative	Monica	1013	00:12:46,390	Okay, maybe people give out fake numbers, but they don’t give out fake names.	2	95_2	3.8360000000000003
+dia95_utt3	95	neutral	00:12:54,147	4	8	neutral	Joey	1014	00:12:50,394	Oh yeah?  Hi, Ken Adams, nice to meet you.	3	95_3	3.753
+dia95_utt4	95	neutral	00:12:59,068	4	8	neutral	Phoebe	1015	00:12:56,400	Regina Philange.	4	95_4	2.668
+dia95_utt5	95	surprise	00:13:02,530	4	8	negative	Chandler	1016	00:12:59,862	I still don’t get it, we didn’t do anything wrong.	5	95_5	2.668
+dia95_utt6	95	anger	00:13:08,036	4	8	negative	Monica	1017	00:13:04,492	I know! Although, you did tell an awful lot of jokes.	6	95_6	3.544
+dia95_utt7	95	surprise	00:13:12,707	4	8	positive	Chandler	1018	00:13:08,871	I thought you said those jokes were funny. Joke! Joke! Joke!	7	95_7	3.8360000000000003
+dia95_utt8	95	anger	00:13:15,627	4	8	negative	Monica	1019	00:13:12,875	Joke. Joke. Blah! Blah!	8	95_8	2.7520000000000002
+dia95_utt9	95	neutral	0:13:22,490	4	8	neutral	Chandler	1020	0:13:20,508	Well maybe it was all of your questions.	9	95_9	1.9820000000000002
+dia95_utt10	95	neutral	0:13:23,602	4	8	neutral	Monica	1021	0:13:22,490	What about my questions?	10	95_10	1.112
+dia96_utt0	96	neutral	00:04:03,523	24	8	neutral	Cliff	1022	00:04:00,603	No, I’m sorry. It’s just my foot itches like crazy.	0	96_0	2.9200000000000004
+dia96_utt1	96	neutral	00:04:06,150	24	8	neutral	Phoebe	1023	00:04:03,690	Oh, I’ll get it.	1	96_1	2.46
+dia96_utt2	96	surprise	00:04:11,572	24	8	negative	Cliff	1024	00:04:07,735	Wow! I usually get to know a girl a little better before I let her spoon me.	2	96_2	3.837
+dia96_utt3	96	joy	00:04:15,493	24	8	positive	Phoebe	1025	00:04:12,907	Relax, it’s not like we’re forking.	3	96_3	2.5860000000000003
+dia97_utt0	97	joy	00:04:03,992	20	3	positive	Monica	1026	00:03:55,109	Look at it! Ohhh! Wallpaper’s a little faded, that’s okay. Carpet’s a little loose. Hardwood floors!!	0	97_0	8.883000000000001
+dia97_utt1	97	joy	0:04:06,706	20	3	positive	Phoebe	1027	0:04:06,204	Hey!	1	97_1	0.502
+dia97_utt2	97	neutral	0:04:08,722	20	3	neutral	Chandler	1028	0:04:06,706	Hello.	2	97_2	2.016
+dia97_utt3	97	joy	00:04:13,835	20	3	positive	Phoebe	1029	00:04:08,831	Oh! Ooh! Oh Monica! It’s so beautiful.	3	97_3	5.0040000000000004
+dia97_utt4	97	joy	00:04:13,835	20	3	positive	Monica	1030	00:04:11,835	I know!!!	4	97_4	2.0
+dia97_utt5	97	joy	0:04:16,675	20	3	positive	Phoebe	1031	0:04:14,963	So, I’m here, ready to play.	5	97_5	1.7120000000000002
+dia97_utt6	97	neutral	0:04:17,695	20	3	neutral	Monica	1032	0:04:16,675	Okay.	6	97_6	1.02
+dia97_utt7	97	joy	00:04:22,261	20	3	positive	Phoebe	1033	00:04:17,799	I brought a bunch of stuff for the house, so check it out. Ha-ha.	7	97_7	4.462000000000001
+dia97_utt8	97	surprise	00:04:27,057	20	3	positive	Monica	1034	00:04:25,974	What’s this?	8	97_8	1.083
+dia97_utt9	97	joy	00:04:29,559	20	3	positive	Phoebe	1035	00:04:27,225	That’s a dog, every house should have a dog.	9	97_9	2.334
+dia97_utt10	97	surprise	00:04:32,020	20	3	negative	Monica	1036	00:04:30,144	Not one that can pee on the roof.	10	97_10	1.8760000000000001
+dia97_utt11	97	joy	00:04:39,403	20	3	positive	Phoebe	1037	00:04:33,481	Well, maybe it’s so big because the house was built on radioactive waste.	11	97_11	5.922000000000001
+dia97_utt12	97	surprise	00:04:45,033	20	3	negative	Chandler	1038	00:04:41,447	And is this in case the house sneezes?	12	97_12	3.5860000000000003
+dia97_utt13	97	neutral	00:04:50,122	20	3	neutral	Phoebe	1039	00:04:46,619	No, no, that’s the ghost for the attic.	13	97_13	3.503
+dia97_utt14	97	fear	00:04:55,043	20	3	negative	Monica	1040	00:04:51,249	I don’t want a ghost.	14	97_14	3.794
+dia97_utt15	97	neutral	00:05:02,342	20	3	neutral	Phoebe	1041	00:04:56,462	Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.	15	97_15	5.880000000000001
+dia97_utt16	97	surprise	00:05:12,394	20	3	positive	Ross	1042	00:05:04,053	Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.	16	97_16	8.341000000000001
+dia97_utt17	97	neutral	00:05:17,899	20	3	neutral	Phoebe	1043	00:05:14,063	Okay, obviously you don’t know much about the U.S. government.	17	97_17	3.8360000000000003
+dia97_utt18	97	surprise	0:05:20,960	20	3	positive	Rachel	1044	0:05:19,068	Hey!	18	97_18	1.8920000000000001
+dia97_utt19	97	neutral	0:05:21,458	20	3	neutral	All	1045	0:05:20,960	Hello.	19	97_19	0.49800000000000005
+dia97_utt20	97	joy	0:05:23,115	20	3	positive	Rachel	1046	0:05:21,571	I need to talk to you!	20	97_20	1.544
+dia97_utt21	97	neutral	0:05:24,625	20	3	neutral	Ross	1047	0:05:23,115	Sure, what’s up?	21	97_21	1.51
+dia98_utt0	98	anger	00:05:28,076	12	3	negative	Jeannine	1048	00:05:20,528	All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.	0	98_0	7.548
+dia98_utt1	98	disgust	00:05:28,076	12	3	negative	Monica	1049	00:05:24,449	Please, I'm not going for anything.	1	98_1	3.6270000000000002
+dia98_utt2	98	anger	0:05:29,955	12	3	negative	Jeannine	1050	0:05:28,244	Well, if you don't, I will.	2	98_2	1.711
+dia98_utt3	98	joy	0:05:31,517	12	3	positive	Monica	1051	0:05:29,955	Would you please go?	3	98_3	1.562
+dia98_utt4	98	anger	0:05:31,727	12	3	negative	Ross	1052	0:05:31,517	I would!	4	98_4	0.21000000000000002
+dia99_utt0	99	joy	00:09:04,876	20	3	positive	Monica	1053	00:09:00,831	Hey, guys, guys, did you see my new, china cabinet?!	0	99_0	4.045
+dia99_utt1	99	neutral	00:09:06,336	20	3	neutral	Ross and Rachel	1054	00:09:05,294	Uh-huh.	1	99_1	1.042
+dia99_utt2	99	joy	00:09:09,297	20	3	positive	Phoebe	1055	00:09:08,256	Watch, watch.	2	99_2	1.0410000000000001
+dia99_utt3	99	surprise	0:09:10,717	20	3	positive	Ross and Rachel	1057	0:09:10,633	Ooohhhh!!	3	99_3	0.084
+dia99_utt4	99	joy	0:09:12,855	20	3	positive	Phoebe	1059	0:09:10,717	And, and!	4	99_4	2.1380000000000003
+dia99_utt5	99	surprise	00:09:15,345	20	3	positive	Ross and Rachel	1060	00:09:12,969	Ahhhh!!	5	99_5	2.3760000000000003
+dia99_utt6	99	surprise	00:09:19,933	20	3	positive	Chandler	1061	00:09:17,223	Hey, my Father’s house does that!	6	99_6	2.71
+dia99_utt7	99	neutral	00:09:23,937	20	3	neutral	Rachel	1062	00:09:21,143	O-o-o-okay, how did it go? Tell me everything.	7	99_7	2.794
+dia99_utt8	99	neutral	00:09:30,277	20	3	neutral	Chandler	1063	00:09:24,105	Well, the movie was great, dinner was great, and there’s nothing like a cool, crisp New York evening.	8	99_8	6.172000000000001
+dia100_utt0	100	neutral	00:13:26,460	1	1	neutral	Monica	1064	00:13:23,916	Okay. It’s Emma.	0	100_0	2.544
+dia101_utt0	101	sadness	00:13:35,928	4	8	negative	Rachel	1065	00:13:27,795	Emma!  See? I don’t want it.	0	101_0	8.133000000000001
+dia102_utt0	102	neutral	0:13:42,477	2	1	neutral	Monica	1066	0:13:40,766	Take it.	0	102_0	1.711
+dia102_utt1	102	neutral	0:13:43,955	2	1	neutral	Rachel	1067	0:13:42,477	What?	1	102_1	1.4780000000000002
+dia103_utt0	103	neutral	00:13:46,438	24	8	neutral	Monica	1068	00:13:44,395	It’s clearly an Emma.	0	103_0	2.043
+dia103_utt1	103	sadness	00:13:48,816	24	8	negative	Rachel	1069	00:13:46,605	Oh honey, but you love that name.	1	103_1	2.2110000000000003
+dia103_utt2	103	joy	00:13:51,986	24	8	positive	Monica	1070	00:13:49,817	Yeah, but I love you more.	2	103_2	2.169
+dia103_utt3	103	neutral	0:13:57,909	24	8	neutral	Monica	1071	0:13:55,072	Besides y’know, nothing goes with Bing.	3	103_3	2.837
+dia103_utt4	103	joy	0:13:59,473	24	8	positive	Monica	1072	0:13:57,909	So I’m screwed.	4	103_4	1.564
+dia104_utt0	104	joy	00:20:18,925	8	5	positive	Chandler	1081	00:20:15,464	"Oh-oh, I'm a duck! I go, ""Quack, quack!"" I’m happy all the time!"	0	104_0	3.4610000000000003
+dia104_utt1	104	sadness	00:20:31,520	8	5	negative	Chandler	1082	00:20:30,395	Nice try.	1	104_1	1.125
+dia104_utt2	104	joy	00:20:33,522	8	5	positive	Monica	1083	00:20:31,688	Wait, wait, wait!	2	104_2	1.834
+dia104_utt3	104	neutral	0:20:37,361	8	5	neutral	Chandler	1084	0:20:36,526	Look, Monica	3	104_3	0.8350000000000001
+dia104_utt4	104	surprise	0:20:37,799	8	5	negative	Monica	1085	0:20:37,361	Look!	4	104_4	0.438
+dia104_utt5	104	anger	00:20:43,699	8	5	negative	Chandler	1086	00:20:42,366	This is not going to work.	5	104_5	1.3330000000000002
+dia104_utt6	104	joy	00:20:45,660	8	5	positive	Monica	1087	00:20:43,867	I bet this will work!	6	104_6	1.7930000000000001
+dia104_utt7	104	joy	00:20:56,754	8	5	positive	Chandler	1088	00:20:54,086	You are so great! I love you!	7	104_7	2.668
+dia104_utt8	104	surprise	00:21:07,765	8	5	positive	Monica	1089	00:21:06,431	What?	8	104_8	1.334
+dia104_utt9	104	fear	00:21:11,852	8	5	negative	Chandler	1090	00:21:07,933	"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!"	9	104_9	3.919
+dia104_utt10	104	surprise	00:21:15,815	8	5	positive	Monica	1091	00:21:13,563	You said you loved me! I can't believe this!	10	104_10	2.2520000000000002
+dia104_utt11	104	fear	00:21:17,108	8	5	negative	Chandler	1092	00:21:15,983	No I didn't!	11	104_11	1.125
+dia104_utt12	104	surprise	0:21:21,072	8	5	positive	Monica	1093	0:21:18,944	Yes, you did!	12	104_12	2.128
+dia104_utt13	104	fear	0:21:21,468	8	5	negative	Chandler	1094	0:21:21,072	No I didn't!	13	104_13	0.396
+dia104_utt14	104	joy	00:21:23,823	8	5	positive	Monica	1095	00:21:22,281	You love me!	14	104_14	1.542
+dia104_utt15	104	anger	00:21:26,993	8	5	negative	Chandler	1096	00:21:24,032	No I don't! Stop it! Stop it! Stop it! Stop it!	15	104_15	2.9610000000000003
+dia105_utt0	105	neutral	0:21:40,258	4	8	neutral	Monica	1097	0:21:37,296	Hello Greg?	0	105_0	2.962
+dia105_utt1	105	neutral	0:21:40,443	4	8	neutral	Monica	1098	0:21:40,258	Hi, this is Monica from the plane?	1	105_1	0.185
+dia105_utt2	105	anger	00:21:47,722	4	8	negative	Monica	1099	00:21:40,590	Listen, the number that you gave me 853-5…   That is their old number!	2	105_2	7.132000000000001
+dia105_utt3	105	anger	00:21:47,722	4	8	negative	Monica	1100	00:21:44,678	Jenny’s been giving it out since they moved!	3	105_3	3.044
+dia105_utt4	105	joy	00:21:51,851	4	8	positive	Chandler	1101	00:21:47,889	Jenny! That is so Jenny!	4	105_4	3.962
+dia105_utt5	105	neutral	00:21:55,938	4	8	neutral	Monica	1102	00:21:52,019	Hey listen umm, how would you like to get together?	5	105_5	3.919
+dia105_utt6	105	neutral	00:21:55,938	4	8	neutral	Monica	1103	00:21:54,000	Say next Saturday?	6	105_6	1.9380000000000002
+dia105_utt7	105	neutral	00:21:58,316	4	8	neutral	Monica	1104	00:21:56,106	Okay, how about Sunday?	7	105_7	2.21
+dia105_utt8	105	joy	0:21:59,568	4	8	positive	Monica	1105	0:21:58,483	Okay umm, the week after that?	8	105_8	1.085
+dia105_utt9	105	joy	0:22:01,261	4	8	positive	Monica	1106	0:21:59,568	The week after that?	9	105_9	1.693
+dia105_utt10	105	anger	00:22:04,947	4	8	negative	Monica	1107	00:22:03,488	Y’know what Greg?	10	105_10	1.459
+dia105_utt11	105	anger	00:22:09,410	4	8	negative	Monica	1109	00:22:05,115	We are good, interesting, funny people with	11	105_11	4.295
+dia106_utt0	106	neutral	00:02:03,997	18	6	neutral	Joey	1110	00:01:59,994	Hey Chandler! Y’know that girl you went to college with who-who became a movie director?	0	106_0	4.003
+dia106_utt1	106	neutral	00:02:07,543	18	6	neutral	Chandler	1111	00:02:04,165	Oh yeah, Dana Keystone. She was in my Movement class.	1	106_1	3.378
+dia106_utt2	106	neutral	00:02:09,795	18	6	neutral	Phoebe	1112	00:02:08,169	What’s a Movement class?	2	106_2	1.6260000000000001
+dia106_utt3	106	neutral	00:02:13,340	18	6	neutral	Monica	1113	00:02:09,963	It’s Chandler’s way of pretending he didn’t take mime.	3	106_3	3.3770000000000002
+dia106_utt4	106	joy	00:02:21,306	18	6	positive	Joey	1114	00:02:13,883	Oh well listen, anyway she’s directing the new Al Pacino movie. You gotta get me an audition!	4	106_4	7.423
+dia106_utt5	106	neutral	00:02:21,306	18	6	neutral	Chandler	1115	00:02:17,846	Oh, I don’t know man. I haven’t talked to her in like ten years.	5	106_5	3.4600000000000004
+dia107_utt0	107	neutral	00:02:39,575	20	6	neutral	Phoebe	1116	00:02:38,000	I am.	0	107_0	1.5750000000000002
+dia107_utt1	107	neutral	00:02:44,454	20	6	neutral	Rachel	1117	00:02:41,578	Joey, what are you talking about? You’re a terrific actor.	1	107_1	2.8760000000000003
+dia107_utt2	107	surprise	0:02:45,501	20	6	positive	Joey	1118	0:02:44,789	You really think so?	2	107_2	0.7120000000000001
+dia107_utt3	107	surprise	0:02:48,182	20	6	positive	Rachel	1119	0:02:45,501	Ugh, how can you even ask that question?!	3	107_3	2.681
+dia108_utt0	108	surprise	00:05:18,025	3	5	positive	Joey	1120	00:05:14,564	Ross! Get a shot of this. (He's carrying an issue of the	0	108_0	3.4610000000000003
+dia108_utt1	108	fear	00:05:37,669	3	5	negative	Phoebe	1121	00:05:35,126	Oh, okay, I'm having another one!	1	108_1	2.543
+dia108_utt2	108	surprise	00:05:40,756	3	5	negative	Phoebe	1122	00:05:37,879	This one doesn't hurt either—Ooh, yes it does!	2	108_2	2.8770000000000002
+dia108_utt3	108	anger	00:05:40,756	3	5	negative	Phoebe	1123	00:05:39,756	Ow!	3	108_3	1.0
+dia108_utt4	108	anger	0:05:41,466	3	5	negative	Phoebe	1124	0:05:41,132	Ow!	4	108_4	0.334
+dia108_utt5	108	anger	0:05:41,550	3	5	negative	Phoebe	1125	0:05:41,466	Ow!	5	108_5	0.084
+dia108_utt6	108	anger	0:05:43,135	3	5	negative	Phoebe	1126	0:05:41,550	Ow!	6	108_6	1.5850000000000002
+dia108_utt7	108	surprise	00:05:45,385	3	5	negative	Phoebe	1127	00:05:43,676	Ooh!	7	108_7	1.709
+dia108_utt8	108	sadness	00:05:48,555	3	5	negative	Phoebe	1128	00:05:46,554	Oh, I was kinda hoping that was it.	8	108_8	2.0010000000000003
+dia108_utt9	108	neutral	00:05:53,518	3	5	neutral	Ross	1129	00:05:51,267	Hey, where are Monica and Rachel anyway?	9	108_9	2.2510000000000003
+dia108_utt10	108	joy	00:14:13,810	3	5	positive	Frank	1131	00:14:10,766	Yeah, I love you. Okay, bye!  Hi!	10	108_10	3.044
+dia108_utt11	108	joy	00:14:15,895	3	5	positive	Rachel	1132	00:14:14,812	Hi!	11	108_11	1.083
+dia108_utt12	108	fear	00:14:20,567	3	5	negative	Frank	1133	00:14:16,105	That was Alice's mom, she said she left five hours ago. She should be here by now!	12	108_12	4.462000000000001
+dia108_utt13	108	neutral	00:14:22,485	3	5	neutral	Rachel	1134	00:14:20,776	Oh, honey, don’t worry. She's gonna make it on time.	13	108_13	1.709
+dia108_utt14	108	neutral	00:14:24,445	3	5	neutral	Frank	1135	00:14:23,028	Yeah.	14	108_14	1.417
+dia109_utt0	109	neutral	00:20:46,077	9	5	neutral	Monica	1136	00:20:41,823	I guess I set up the video camera to try and entice Joey.	0	109_0	4.2540000000000004
+dia109_utt1	109	joy	00:20:50,331	9	5	positive	Joey	1137	00:20:47,371	But sadly I could not be enticed.	1	109_1	2.96
+dia109_utt2	109	disgust	00:20:58,714	9	5	negative	Ross	1138	00:20:51,875	Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!	2	109_2	6.839
+dia109_utt3	109	sadness	00:21:11,185	9	5	negative	Monica	1139	00:21:02,594	I'm Monica. I'm disgusting. I stalk guys and keep their underpants.	3	109_3	8.591000000000001
+dia109_utt4	109	anger	00:21:20,403	9	5	negative	Joey	1140	00:21:15,148	Well, I think we've all learned something about who's disgusting and who's not.	4	109_4	5.255
+dia109_utt5	109	neutral	00:21:21,988	9	5	neutral	Joey	1141	00:21:20,570	Eh?	5	109_5	1.4180000000000001
+dia109_utt6	109	neutral	00:21:26,242	9	5	neutral	Joey	1142	00:21:22,155	All right, now, I'm going to get back to my bucket.	6	109_6	4.087000000000001
+dia109_utt7	109	neutral	00:21:30,913	9	5	neutral	Joey	1143	00:21:27,703	I'm only eating the skin, so the chicken's up for grabs.	7	109_7	3.2100000000000004
+dia110_utt0	110	neutral	0:06:54,874	11	6	neutral	Phoebe	1145	0:06:52,412	Ohh, okay, they gave you the old time pricing.	0	110_0	2.462
+dia110_utt1	110	neutral	0:06:56,125	11	6	neutral	Rachel	1146	0:06:54,874	Yeah.	1	110_1	1.2510000000000001
+dia110_utt2	110	neutral	00:06:59,167	11	6	neutral	Phoebe	1147	00:06:57,417	Well, what period is it from?	2	110_2	1.75
+dia110_utt3	110	neutral	00:07:03,380	11	6	neutral	Rachel	1148	00:06:59,335	Uh, it’s from yore. Like the days of yore. Y’know?	3	110_3	4.045
+dia110_utt4	110	neutral	00:07:05,757	11	6	neutral	Phoebe	1149	00:07:03,589	Yes, yes I do.	4	110_4	2.168
+dia110_utt5	110	joy	00:07:09,219	11	6	positive	Phoebe	1150	00:07:05,925	God, oh it’s just perfect!	5	110_5	3.294
+dia110_utt6	110	joy	00:07:11,596	11	6	positive	Phoebe	1152	00:07:09,387	I bet it has a great story behind it too.	6	110_6	2.209
+dia110_utt8	110	joy	00:07:16,935	11	6	positive	Rachel	1155	00:07:14,058	Yes! That I know, this is from White Plains.	8	110_8	2.8770000000000002
+dia110_utt9	110	joy	00:07:23,608	11	6	positive	Phoebe	1156	00:07:19,188	White Plains. Oh, it sounds like such a magical place.	9	110_9	4.42
+dia111_utt0	111	anger	00:11:55,588	25	3	negative	Chandler	1157	00:11:50,876	So, you still don’t think I’m boyfriend material?	0	111_0	4.712000000000001
+dia111_utt1	111	neutral	00:11:57,340	25	3	neutral	Monica	1158	00:11:56,298	Huh?	1	111_1	1.042
+dia111_utt2	111	neutral	00:12:00,844	25	3	neutral	Chandler	1159	00:11:57,508	I saw you checking me out during the game last night.	2	111_2	3.3360000000000003
+dia112_utt0	112	anger	00:13:32,101	1	4	negative	Phoebe	1160	00:13:29,892	I, umm, shut up!	0	112_0	2.209
+dia112_utt1	112	sadness	00:13:44,781	1	4	negative	Phoebe	1161	00:13:36,732	“Good-bye Phoebe and Ursula. I’ll miss you. P.S. Your Mom lives in Montauk.” You just wrote this!	1	112_1	8.049000000000001
+dia112_utt2	112	neutral	00:13:53,331	1	4	neutral	Ursula	1162	00:13:45,991	Well, it’s pretty much the gist. Well, except for the poem. You read the poem, right?	2	112_2	7.340000000000001
+dia112_utt3	112	sadness	00:13:55,166	1	4	negative	Phoebe	1163	00:13:53,499	Noooo!!	3	112_3	1.667
+dia112_utt4	112	neutral	00:13:57,752	1	4	neutral	Ursula	1164	00:13:55,918	All right, hang on!	4	112_4	1.834
+dia113_utt0	113	neutral	00:18:59,303	2	6	neutral	Monica	1165	00:18:52,923	Rachel, it’s going to happen. Chandler is gonna move in here.	0	113_0	6.380000000000001
+dia113_utt1	113	sadness	0:19:00,015	2	6	negative	Rachel	1166	0:18:59,513	But I	1	113_1	0.502
+dia113_utt2	113	neutral	0:19:02,147	2	6	neutral	Monica	1167	0:19:00,015	No-no, wait!	2	113_2	2.132
+dia113_utt3	113	sadness	0:19:02,469	2	6	negative	Monica	1168	0:19:02,147	Just let me finish, okay?	3	113_3	0.322
+dia113_utt4	113	neutral	00:19:09,856	2	6	neutral	Monica	1169	00:19:03,308	This isn’t something that we just, we just impulsively decided in-in Vegas, this is something we both really want.	4	113_4	6.548
+dia113_utt5	113	neutral	00:19:14,068	2	6	neutral	Monica	1170	00:19:11,525	And it	5	113_5	2.543
+dia113_utt6	113	surprise	00:19:19,699	2	6	negative	Rachel	1171	00:19:14,862	It is? Really?	6	113_6	4.837000000000001
+dia113_utt7	113	neutral	00:19:21,826	2	6	neutral	Monica	1172	00:19:20,159	Yeah, sweetie.	7	113_7	1.667
+dia113_utt8	113	sadness	00:19:27,540	2	6	negative	Rachel	1173	00:19:23,620	I mean we’re not, we’re not gonna live together anymore?	8	113_8	3.9200000000000004
+dia113_utt9	113	sadness	00:19:29,876	2	6	negative	Monica	1174	00:19:28,792	No.	9	113_9	1.084
+dia113_utt10	113	sadness	00:19:35,965	2	6	negative	Rachel	1175	00:19:33,213	What? Oh my God! I’m gonna miss you so much!	10	113_10	2.7520000000000002
+dia113_utt11	113	sadness	00:19:37,967	2	6	negative	Monica	1176	00:19:36,175	I’m gonna miss you!	11	113_11	1.792
+dia113_utt12	113	sadness	00:19:40,928	2	6	negative	Rachel	1177	00:19:39,094	I mean it’s the end of an era!	12	113_12	1.834
+dia113_utt13	113	sadness	00:19:42,638	2	6	negative	Monica	1178	00:19:41,138	I know!	13	113_13	1.5

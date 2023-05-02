@@ -1,11 +1,12 @@
 import numpy as np
 from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
+# from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score, f1_score
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import plot_confusion_matrix
+# from sklearn.metrics import confusion_matrix
+# from sklearn.metrics import plot_confusion_matrix
 from sklearn.metrics import classification_report
 from sklearn.metrics import f1_score
+from sklearn.preprocessing import MultiLabelBinarizer
 from itertools import chain
 from utils.tools import *
 import operator
@@ -40,8 +41,13 @@ def eval_emotionlines(results, truths):
             results[i] = 'sadness'
         if ele == 'frust':
             results[i] = 'frustrated'
+    mlb = MultiLabelBinarizer()
+    results_encoded = mlb.fit_transform(results[:81])
+    print(results_encoded.shape)
+    truths_encoded = mlb.fit_transform(truths[:81])
     # cm = confusion_matrix(results, truths)
-    report = classification_report(truths, results)
+    # report = classification_report(truths, results)
+    report = classification_report(truths_encoded, results_encoded)
     print(report)
     
 def eval_iemocap(results, truths):

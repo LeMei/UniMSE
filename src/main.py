@@ -47,7 +47,7 @@ if __name__ == '__main__':
     args.dataset = args.data = dataset
     args.when = args.when
     args.n_class = output_dim_dict.get(dataset, 1)
-    args.init_checkpoint = '../t5-base/pytorch_model.bin'
+    args.init_checkpoint = '../models/t5-base/pytorch_model.bin'
     # args.init_checkpoint = '../t5-large/pytorch_model.bin'
 
 
