@@ -75,20 +75,23 @@ Third， setting the dataset folder for dataloader. ->main.py
 
 卑微求引用
 
+```bibtex
 @inproceedings{hu-etal-2022-unimse,
-    title = "{U}ni{MSE}: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition",
-    author = "Hu, Guimin  and
-      Lin, Ting-En  and
-      Zhao, Yi  and
-      Lu, Guangming  and
-      Wu, Yuchuan  and
-      Li, Yongbin",
-    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
-    month = dec,
-    year = "2022",
-    address = "Abu Dhabi, United Arab Emirates",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.emnlp-main.534",
-    pages = "7837--7851"
+title = "{U}ni{MSE}: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition",
+author = "Hu, Guimin and
+Lin, Ting-En and
+Zhao, Yi and
+Lu, Guangming and
+Wu, Yuchuan and
+Li, Yongbin",
+booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+month = dec,
+year = "2022",
+address = "Abu Dhabi, United Arab Emirates",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/2022.emnlp-main.534
+",
+pages = "7837--7851"
 }
+```
 
